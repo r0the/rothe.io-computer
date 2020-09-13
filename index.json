@@ -1,8 +1,17 @@
 {
+  "id": 238526,
   "title": "Computer",
   "cover": "cover.jpg",
   "subtitle": "Aufbau und Funktionsweise",
   "abstract": "in Arbeit",
   "page": "README",
-  "base": "computer"
+  "base": "computer",
+  "items": [
+    {
+      "id": 896256,
+      "title": "Lernziele",
+      "icon": "goal",
+      "page": "goals"
+    }
+  ]
 }
