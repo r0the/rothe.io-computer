@@ -1,0 +1,12 @@
+in a
+in b
+out a
+out b
+ld a
+st c
+ld b
+st a
+add c
+st b
+jmp #4
+end

@@ -1,0 +1,12 @@
+in a
+in b
+in c
+ld a
+cmp b
+jgt #12
+out a
+add c
+st a
+cmp b
+jlt #7
+end

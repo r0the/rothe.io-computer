@@ -12,6 +12,85 @@
       "title": "Lernziele",
       "icon": "goal",
       "page": "goals"
+    },
+    {
+      "id": 532822,
+      "title": "1 Grundlagen",
+      "page": "1-basics/",
+      "items": [
+        {
+          "id": 66209,
+          "title": "1.1 Computerkategorien",
+          "page": "1-basics/1-categories/"
+        },
+        {
+          "id": 767204,
+          "title": "1.2 EVAS-Prinzip",
+          "page": "1-basics/2-ipos/"
+        },
+        {
+          "id": 813719,
+          "title": "1.3 Prozessor",
+          "page": "1-basics/3-cpu/"
+        },
+        {
+          "id": 943823,
+          "title": "1.4 Speicher",
+          "icon": "construction",
+          "page": "1-basics/4-storage/"
+        },
+        {
+          "id": 411258,
+          "title": "1.5 Grafikkarte",
+          "page": "1-basics/5-graphics-card/"
+        }
+      ]
+    },
+    {
+      "id": 872755,
+      "title": "2 Rechnerarchitektur",
+      "icon": "construction",
+      "page": "2-architecture/",
+      "items": [
+        {
+          "id": 980231,
+          "title": "Bussystem",
+          "page": "2-architecture/2-bus/"
+        },
+        {
+          "id": 507542,
+          "title": "Tetra",
+          "page": "2-architecture/3-tetra/"
+        },
+        {
+          "id": 147200,
+          "title": "MOPS",
+          "page": "2-architecture/4-mops/"
+        }
+      ]
+    },
+    {
+      "id": 86120,
+      "title": "3 Rechnen mit Strom",
+      "icon": "construction",
+      "page": "3-alu/",
+      "items": [
+        {
+          "id": 28316,
+          "title": "Stromkreis",
+          "page": "3-alu/1-circuit/"
+        },
+        {
+          "id": 795376,
+          "title": "Gatter",
+          "page": "3-alu/2-gates/"
+        },
+        {
+          "id": 32295,
+          "title": "Addierer",
+          "page": "3-alu/3-adder/"
+        }
+      ]
     }
   ]
 }

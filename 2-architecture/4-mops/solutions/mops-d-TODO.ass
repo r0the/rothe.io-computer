@@ -1,0 +1,14 @@
+in a
+ld a
+st b
+ld a
+sub 1
+cmp 1
+jlt #12
+st a
+ld b
+mul a
+st a
+jmp #4
+out a
+end

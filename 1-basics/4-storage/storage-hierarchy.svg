@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800px" height="362px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect x="608" y="224" width="160" height="96.957" style="fill:rgb(187,222,251);stroke:black;stroke-width:2px;"/>
+    <rect x="544" y="128.085" width="224" height="95.915" style="fill:rgb(200,230,201);stroke:black;stroke-width:2px;"/>
+    <rect x="480" y="32.085" width="288" height="96" style="fill:rgb(255,236,179);stroke:black;stroke-width:2px;"/>
+    <rect x="32.5" y="176" width="175.5" height="144.957" style="fill:rgb(224,224,224);stroke:black;stroke-width:2px;"/>
+    <rect x="32" y="32" width="272" height="144.043" style="fill:rgb(255,205,210);stroke:black;stroke-width:2px;"/>
+    <rect x="304" y="32" width="176" height="48" style="fill:rgb(255,224,130);stroke:black;stroke-width:2px;"/>
+    <text x="313.232px" y="60.139px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Prozessorregister</text>
+    <rect x="272" y="80" width="240" height="48" style="fill:rgb(255,224,130);stroke:black;stroke-width:2px;"/>
+    <rect x="240" y="128" width="304" height="48" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+    <rect x="208" y="176" width="368" height="47.957" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+    <rect x="176" y="224" width="432" height="47" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+    <rect x="144" y="271" width="496" height="50" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+    <text x="319.944px" y="110.126px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Prozessorcache</text>
+    <text x="322.957px" y="156.735px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Arbeitsspeicher</text>
+    <text x="326.309px" y="205.192px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Massenspeicher</text>
+    <text x="310.43px" y="252.598px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">W<tspan x="328.945px 340.068px " y="252.598px 252.598px ">ec</tspan>hseldatenträger</text>
+    <text x="330.439px" y="301.293px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Cloud-Speicher</text>
+    <text x="48.682px" y="260.042px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">persistent</text>
+    <text x="49.775px" y="109.197px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">ﬂüchtig</text>
+    <text x="662.064px" y="87.126px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Prozessor</text>
+    <text x="702.494px" y="183.201px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Gerät</text>
+    <g transform="matrix(1,0,0,1,-27.4487,29.2769)">
+        <text x="682.765px" y="239.911px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">ausserhalb</text>
+        <text x="682.765px" y="260.565px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">des Geräts</text>
+    </g>
+</svg>

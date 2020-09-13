@@ -1,0 +1,7 @@
+in a
+in b
+ld a
+add b
+st c
+out c
+end
