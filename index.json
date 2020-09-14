@@ -91,6 +91,36 @@
           "page": "3-alu/3-adder/"
         }
       ]
+    },
+    {
+      "id": 988239,
+      "title": "4 Betriebssysteme",
+      "icon": "construction",
+      "page": "4-os/"
+    },
+    {
+      "id": 28306,
+      "title": "5 Geschichte",
+      "icon": "construction",
+      "page": "5-history/",
+      "items": [
+        {
+          "id": 77152,
+          "title": "Analytical Engine",
+          "page": "5-history/1-analytical-engine/"
+        },
+        {
+          "id": 927151,
+          "title": "ENIAC",
+          "page": "5-history/2-eniac/"
+        }
+      ]
+    },
+    {
+      "id": 899719,
+      "title": "Material für Lehrer*innen",
+      "icon": "mdi-presentation",
+      "page": "teaching/"
     }
   ]
 }
