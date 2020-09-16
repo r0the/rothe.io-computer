@@ -40,3 +40,11 @@ Im moderne Prozessor-Chips werden auch weitere Funktionen integriert, welche fr�
 Moderne Desktop-Prozessoren enthalten normalerweise eine Grafikeinheit, welche die Darstellung von Text, Bild und Video auf einem Bildschirm übernimmt.
 
 Bei Prozessoren für Mobiltelefon werden üblicherweise spezialisierte Funktionen für GPS, W-LAN, Mobilfunk und Bluetooth auf dem Chip integriert. Dabei spricht man von einem Ein-Chip-System oder SoC (engl. *system on a chip*).
+
+## Aufbau
+
+TODO
+
+## Mooresches Gesetz
+
+![Mooresches Gesetz ©](./moores-law.svg)

@@ -13,5 +13,6 @@
 TODO
 - Seite für Anschlüsse (z.B. USB)
 - Mainboard?
+- CPU: Moorsches Gesetz, Aufbau
 - Drahtloskommunikation? (WLAN, Bluetooth, ...)
 :::
