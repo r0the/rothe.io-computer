@@ -71,49 +71,60 @@
       ]
     },
     {
-      "id": 86120,
-      "title": "3 Rechnen mit Strom",
+      "title": "3 Digitalelektronik",
       "icon": "construction",
-      "page": "3-alu/",
+      "page": "3-digital",
+      "items": [
+        {
+          "title": "3.1 micro:bit",
+          "page": "3-digital/1-microbit"
+        }
+      ]
+    },
+    {
+      "id": 86120,
+      "title": "4 Rechnen mit Strom",
+      "icon": "construction",
+      "page": "4-alu/",
       "items": [
         {
           "id": 28316,
           "title": "Stromkreis",
-          "page": "3-alu/1-circuit/"
+          "page": "4-alu/1-circuit/"
         },
         {
           "id": 795376,
           "title": "Gatter",
-          "page": "3-alu/2-gates/"
+          "page": "4-alu/2-gates/"
         },
         {
           "id": 32295,
           "title": "Addierer",
-          "page": "3-alu/3-adder/"
+          "page": "4-alu/3-adder/"
         }
       ]
     },
     {
       "id": 988239,
-      "title": "4 Betriebssysteme",
+      "title": "5 Betriebssysteme",
       "icon": "construction",
-      "page": "4-os/"
+      "page": "5-os/"
     },
     {
       "id": 28306,
-      "title": "5 Geschichte",
+      "title": "6 Geschichte",
       "icon": "construction",
-      "page": "5-history/",
+      "page": "6-history/",
       "items": [
         {
           "id": 77152,
           "title": "Analytical Engine",
-          "page": "5-history/1-analytical-engine/"
+          "page": "6-history/1-analytical-engine/"
         },
         {
           "id": 927151,
           "title": "ENIAC",
-          "page": "5-history/2-eniac/"
+          "page": "6-history/2-eniac/"
         }
       ]
     },

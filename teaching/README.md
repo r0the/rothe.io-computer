@@ -1,7 +1,7 @@
 # Material für Lehrer*innen
 ---
 
-https://logic.ly/demo
+https://circuitverse.org/teachers
 
 https://educatec.ch/tectools/littlebits/?p=1
 
@@ -18,6 +18,9 @@ https://www.youtube.com/watch?v=5PJZz04JGjs
 | ------ |
 |        |
 
+### 4 Doppellektionen Betreut
+
+Während vier Doppellektionen
 
 ### 2. Doppellektion - Rechnerarchitektur
 

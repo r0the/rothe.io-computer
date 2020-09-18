@@ -1,2 +1,0 @@
-# Rechnen mit Strom
----

@@ -1,5 +1,0 @@
-# Tetra
----
-
-<tetra>
-</tetra>
