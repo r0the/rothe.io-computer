@@ -1,7 +1,6 @@
 # :goal: Lernziele
 
-::: info
-#### :goal: Lernziele Begriffe
+::: goal Lernziele Begriffe
 - Du kennst die Definition von «Computer».
 - Du verstehst das EVAS-Prinzip.
 - Du kannst Ein- und Ausgabegeräte identifizieren.

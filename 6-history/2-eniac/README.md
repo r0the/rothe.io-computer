@@ -7,7 +7,7 @@ Im Auftrag der US-Armee wurde ENIAC ab 1942 von John Presper Eckert und John Wil
 
 Der ENIAC benutzte Elektronenröhren zur Repräsentation von Zahlen und elektrische Pulse für deren Übertragung. Dies bewirkte eine deutlich höhere Rechenleistung als die von Konrad Zuses Z3, der zwar eine modernere Architektur aufwies, aber noch auf elektromechanischen Relais basierte. Der verwendete ENIAC ein Dezimalsystem zur Darstellung von Zahlen.
 
-![](./eniac.jpg "ENIAC mit Betty Holberton")
+![ENIAC mit Betty Holberton](./eniac.jpg)
 
 ## Technische Daten
 
