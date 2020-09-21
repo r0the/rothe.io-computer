@@ -6,7 +6,8 @@
 > *– Albert Einstein*
 
 * [1 Grundlagen](?page=1-basics/)
-* [2 Rechnerarchitektur](?page=2-architecture/)
+* [2 Digitalelektronik](?page=2-digital/)
 * [3 Rechnen mit Strom](?page=3-alu/)
-* [4 Betriebssysteme](?page=4-os/)
-* [5 Geschichte](?page=5-history/)
+* [4 Rechnerarchitektur](?page=4-architecture/)
+* [5 Betriebssysteme](?page=5-os/)
+* [6 Geschichte](?page=6-history/)
