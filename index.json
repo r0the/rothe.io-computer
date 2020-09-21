@@ -48,59 +48,59 @@
       ]
     },
     {
-      "id": 872755,
-      "title": "2 Rechnerarchitektur",
+      "title": "2 Digitalelektronik",
       "icon": "construction",
-      "page": "2-architecture/",
+      "page": "2-digital/",
       "items": [
         {
-          "id": 980231,
-          "title": "Bussystem",
-          "page": "2-architecture/2-bus/"
+          "title": "2.1 micro:bit",
+          "page": "2-digital/1-microbit/"
         },
         {
-          "id": 507542,
-          "title": "Tetra",
-          "page": "2-architecture/3-tetra/"
-        },
-        {
-          "id": 147200,
-          "title": "MOPS",
-          "page": "2-architecture/4-mops/"
-        }
-      ]
-    },
-    {
-      "title": "3 Digitalelektronik",
-      "icon": "construction",
-      "page": "3-digital",
-      "items": [
-        {
-          "title": "3.1 micro:bit",
-          "page": "3-digital/1-microbit"
+          "id": 28316,
+          "title": "Stromkreis",
+          "page": "2-digital/2-circuit/"
         }
       ]
     },
     {
       "id": 86120,
-      "title": "4 Rechnen mit Strom",
+      "title": "3 Rechnen mit Strom",
       "icon": "construction",
-      "page": "4-alu/",
+      "page": "3-alu/",
       "items": [
-        {
-          "id": 28316,
-          "title": "Stromkreis",
-          "page": "4-alu/1-circuit/"
-        },
         {
           "id": 795376,
           "title": "Gatter",
-          "page": "4-alu/2-gates/"
+          "page": "3-alu/1-gates/"
         },
         {
           "id": 32295,
           "title": "Addierer",
-          "page": "4-alu/3-adder/"
+          "page": "3-alu/2-adder/"
+        }
+      ]
+    },
+    {
+      "id": 872755,
+      "title": "4 Rechnerarchitektur",
+      "icon": "construction",
+      "page": "4-architecture/",
+      "items": [
+        {
+          "id": 980231,
+          "title": "Bussystem",
+          "page": "4-architecture/2-bus/"
+        },
+        {
+          "id": 507542,
+          "title": "Tetra",
+          "page": "4-architecture/3-tetra/"
+        },
+        {
+          "id": 147200,
+          "title": "MOPS",
+          "page": "4-architecture/4-mops/"
         }
       ]
     },
