@@ -70,14 +70,29 @@
       "page": "3-alu/",
       "items": [
         {
-          "id": 795376,
-          "title": "Gatter",
-          "page": "3-alu/1-gates/"
+          "title": "AND-Gatter",
+          "page": "3-alu/1-and-gate/"
+        },
+        {
+          "title": "OR-Gatter",
+          "page": "3-alu/2-or-gate/"
+        },
+        {
+          "title": "Inverter",
+          "page": "3-alu/3-inverter/"
+        },
+        {
+          "title": "XOR-Gatter",
+          "page": "3-alu/4-xor-gate/"
+        },
+        {
+          "title": "NAND-Gatter",
+          "page": "3-alu/5-nand-gate/"
         },
         {
           "id": 32295,
           "title": "Addierer",
-          "page": "3-alu/2-adder/"
+          "page": "3-alu/6-adder/"
         }
       ]
     },

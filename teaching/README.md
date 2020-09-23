@@ -1,6 +1,8 @@
 # Material für Lehrer*innen
 ---
 
+https://www.inf-schule.de/rechner/digitaltechnik
+
 https://circuitverse.org/teachers
 
 https://educatec.ch/tectools/littlebits/?p=1
