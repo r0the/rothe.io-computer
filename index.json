@@ -4,8 +4,8 @@
   "cover": "cover.svg",
   "subtitle": "Aufbau und Funktionsweise",
   "abstract": "in Arbeit",
-  "page": "README",
   "base": "computer",
+  "page": "README",
   "items": [
     {
       "id": 896256,
@@ -44,15 +44,22 @@
           "id": 411258,
           "title": "1.5 Grafikkarte",
           "page": "1-basics/5-graphics-card/"
+        },
+        {
+          "id": 690828,
+          "title": "1.6 Netzwerkkarte",
+          "page": "1-basics/6-network-card/"
         }
       ]
     },
     {
+      "id": 293982,
       "title": "2 Digitalelektronik",
       "icon": "construction",
       "page": "2-digital/",
       "items": [
         {
+          "id": 104084,
           "title": "2.1 micro:bit",
           "page": "2-digital/1-microbit/"
         },
@@ -70,22 +77,27 @@
       "page": "3-alu/",
       "items": [
         {
+          "id": 474983,
           "title": "AND-Gatter",
           "page": "3-alu/1-and-gate/"
         },
         {
+          "id": 780361,
           "title": "OR-Gatter",
           "page": "3-alu/2-or-gate/"
         },
         {
+          "id": 491858,
           "title": "Inverter",
           "page": "3-alu/3-inverter/"
         },
         {
+          "id": 132744,
           "title": "XOR-Gatter",
           "page": "3-alu/4-xor-gate/"
         },
         {
+          "id": 480779,
           "title": "NAND-Gatter",
           "page": "3-alu/5-nand-gate/"
         },
