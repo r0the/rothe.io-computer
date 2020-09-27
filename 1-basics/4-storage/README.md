@@ -24,8 +24,35 @@ Dafür werden Nachteile in Kauf genommen. So ist die Speicherkapazität von Arbe
 
 Heute wird in Computern normalerweise sogenanntes DDR-SDRAM[^1] eingesetzt. Es zeichnet sich dadurch aus, dass die Daten alle paar Millisekunden wieder neu geschrieben werden müssen (*Refresh*).
 
+![DDR SDRAM ©](./ddr-sdram.jpg)
+
+
 ## Festplatten (HDD, SSD)
 
+Der Festplatten- oder **Massenspeicher** erfüllt ganz andere Anforderungen als der Arbeitsspeicher. Wichtig ist hier, dass Daten in grossen Mengen permanent gespeichert können, ohne dass eine permanente Stromzufuhr nötig ist. Dieser Speicher ist daher deutlich langsamer als der Arbeitsspeicher. Er wird – im Gegensatz zum Arbeitsspeicher – nicht direkt auf das Mainboard gesteckt, sondern mittels Strom- und Datenkabel angeschlossen.
+
+Heute gibt des den Festplattenspeicher in zwei Ausführungen:
+- herkömmliche Harddisks oder HDD (engl. *hard disk drive*)
+- SSDs (engl. *solid state disk*)
+
+Der Aufbau einer **herkömmlichen Harddisk** gleicht einem Plattenspieler. Im Innern der Harddisk drehen sich mehrere Platten, auf denen durch Magnetisierung einzelner Bereiche Daten gespeichert werden. Auf dem nachfolgenden Bild (rechts) sieht man den Arm zum Auslesen resp. Schreiben der Daten (er befindet sich momentan in der Parkposition neben den Scheiben). Dieser Speicher wird heute noch eingesetzt, um grosse Datenmengen günstig zu speichern. Er ist relativ langsam und anfällig auf Transportschäden, da es sich um einen mechanischen Speicher mit beweglichen Teilen handelt. Die Drehgeschwindigkeit der Platten ist beschränkt, sie bestimmt Lese-/Schreibgeschwindigkeit. Zudem muss stets noch gewartet werden, bis sich der Arm an der richtigen Position befindet.
+
+::: columns 2
+![Harddisk ©](./harddisk.jpg)
+***
+![geöfffnete Harddisk ©](./harddisk-open.jpg)
+:::
+
+Der Aufbau einer **SSD** gleicht in keiner Weise demjenigen einer HDD. Wie der Name schon sagt, enthält sie keine beweglichen Teile und ist daher robuster, schneller, leichter und verbraucht weniger Strom. Allerdings gibt es zwei gewichtige Nachteile:
+
+- SSDs kosten ein Mehrfaches im Vergleich zu herkömmlichen HDDs.
+- Auf dem Markt sind nicht so grosse (in Bezug auf die Speicherkapazität) SSDs erhältlich wie HDDs.
+
+::: columns 2
+![SSD ©](./ssd.jpg)
+***
+![geöfffnete SSD ©](./ssd-open.jpg)
+:::
 
 
 ## Speicherhierarchie
@@ -37,7 +64,9 @@ Das führt dazu, dass schneller Speicher in viel kleineren Mengen und nur wo unb
 ![](./storage-hierarchy.svg)
 
 ::: exercise Aufgabe Speicherhierarchie
+Wieso enthält ein Computer so viele verschiedene Speicherarten?
 
+Überlege dir und notiere, welche Daten auf welcher Ebene der oben abgebildeten Speicherhierarchie gespeichert werden.
 :::
 
 [^1]: DDR-SDRAM: engl. *Double Data Rate Synchronous Dynamic Random Access Memory*
