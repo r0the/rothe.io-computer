@@ -48,3 +48,8 @@ TODO
 ## Mooresches Gesetz
 
 ![Mooresches Gesetz ©](./moores-law.svg)
+
+
+::: exercise Aufgaben Prozessor
+1. Prozessoren sind «Multitasking»-fähig. Wie kann ein Prozessor (resp. ein Kern alleine) mehrere Dinge «gleichzeitig» tun?
+:::
