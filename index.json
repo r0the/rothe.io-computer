@@ -145,7 +145,51 @@
       "id": 988239,
       "title": "5 Betriebssysteme",
       "icon": "construction",
-      "page": "5-os/"
+      "page": "5-os/",
+      "items": [
+        {
+          "id": 624277,
+          "title": "Betriebssystem-Aufgaben",
+          "page": "5-os/1-tasks/"
+        },
+        {
+          "id": 664242,
+          "title": "Betriebssysteme",
+          "page": "5-os/2-around-me/"
+        },
+        {
+          "id": 633663,
+          "title": "Freie Software",
+          "page": "5-os/3-foss/"
+        },
+        {
+          "id": 723746,
+          "title": "Linux",
+          "page": "5-os/4-linux/",
+          "items": [
+            {
+              "id": 929865,
+              "title": "GNU/Linux",
+              "page": "5-os/4-linux/1-about/"
+            },
+            {
+              "id": 495128,
+              "title": "Distributionen",
+              "page": "5-os/4-linux/2-distro/"
+            },
+            {
+              "id": 669639,
+              "title": "Desktopumgebungen",
+              "page": "5-os/4-linux/3-gui/"
+            },
+            {
+              "id": 904439,
+              "title": "Aufgaben",
+              "page": "5-os/4-linux/4-ex/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 28306,
