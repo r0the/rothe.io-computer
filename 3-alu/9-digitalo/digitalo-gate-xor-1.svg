@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="140px" height="214px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M47.7,130.1L10,204" style="fill:none;stroke:black;stroke-width:6.67px;"/>
+    <path d="M93,130.1L130,204" style="fill:none;stroke:black;stroke-width:6.67px;"/>
+    <path d="M70,72L70,10" style="fill:none;stroke:black;stroke-width:6.67px;"/>
+    <g id="One">
+        <text x="12.556px" y="53.938px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">1</text>
+        <text x="103.056px" y="53.938px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">1</text>
+    </g>
+    <g id="XOR">
+        <path d="M20,126.464C20,101.909 44.555,65.077 69.109,52.8C93.664,65.077 118.219,101.909 118.219,126.464C69.109,101.909 69.109,101.909 20,126.464Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6.67px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <path d="M20.674,150.541C32.215,134.656 50.703,125.236 70.337,125.236C89.971,125.236 108.459,134.656 120,150.541" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:6.67px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+    </g>
+    <path d="M136,10.6C136,6.957 133.043,4 129.4,4L10.6,4C6.957,4 4,6.957 4,10.6L4,203.4C4,207.043 6.957,210 10.6,210L129.4,210C133.043,210 136,207.043 136,203.4L136,10.6Z" style="fill:none;stroke:rgb(128,128,128);stroke-width:8.11px;"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="140px" height="214px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <text x="19.001px" y="117.268px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Inverter</text>
+    <g id="NOT">
+        <path d="M39.257,41L82.378,59.577L39.257,78.154L39.257,41Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:4.9px;"/>
+        <path d="M100.743,59.693C100.743,64.73 96.598,68.876 91.561,68.876C86.523,68.876 82.378,64.73 82.378,59.693C82.378,54.656 86.523,50.51 91.561,50.51C96.595,50.51 100.738,54.65 100.743,59.684" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:4.9px;"/>
+    </g>
+    <g id="NOT1" serif:id="NOT">
+        <path d="M100.743,178.577L57.622,160L100.743,141.423L100.743,178.577Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:4.9px;"/>
+        <path d="M39.257,159.884C39.257,154.846 43.402,150.701 48.439,150.701C53.477,150.701 57.622,154.846 57.622,159.884C57.622,164.921 53.477,169.066 48.439,169.066C43.405,169.066 39.262,164.927 39.257,159.893" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:4.9px;"/>
+    </g>
+    <path d="M39.257,59.577L4,59.577" style="fill:none;stroke:black;stroke-width:5px;stroke-linecap:square;stroke-miterlimit:1.5;"/>
+    <path d="M39.257,160L4,160" style="fill:none;stroke:black;stroke-width:5px;stroke-linecap:square;stroke-miterlimit:1.5;"/>
+    <path d="M136,59.577L100.743,59.577" style="fill:none;stroke:black;stroke-width:5px;stroke-linecap:square;stroke-miterlimit:1.5;"/>
+    <path d="M136,160L100.743,160" style="fill:none;stroke:black;stroke-width:5px;stroke-linecap:square;stroke-miterlimit:1.5;"/>
+    <path d="M136,10.6C136,6.957 133.043,4 129.4,4L10.6,4C6.957,4 4,6.957 4,10.6L4,203.4C4,207.043 6.957,210 10.6,210L129.4,210C133.043,210 136,207.043 136,203.4L136,10.6Z" style="fill:none;stroke:rgb(128,128,128);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+</svg>
