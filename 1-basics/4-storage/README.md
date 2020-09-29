@@ -1,10 +1,6 @@
 # 1.4 Speicher
 ---
 
-::: warning
-TODO: Nicht flüchtig und flüchtig, RAM, HD, SSD
-:::
-
 Datenspeicher speichern Daten üblicherweise in binärer Form. Ein Datenspeicher besteht aus einem Speichermedium, auf welchem die Bits physikalisch repräsentiert werden.
 
 ## Kenngrössen
@@ -27,13 +23,16 @@ Heute wird in Computern normalerweise sogenanntes DDR-SDRAM[^1] eingesetzt. Es z
 ![DDR SDRAM ©](./ddr-sdram.jpg)
 
 
-## Festplatten (HDD, SSD)
+## Festplatten
 
 Der Festplatten- oder **Massenspeicher** erfüllt ganz andere Anforderungen als der Arbeitsspeicher. Wichtig ist hier, dass Daten in grossen Mengen permanent gespeichert können, ohne dass eine permanente Stromzufuhr nötig ist. Dieser Speicher ist daher deutlich langsamer als der Arbeitsspeicher. Er wird – im Gegensatz zum Arbeitsspeicher – nicht direkt auf das Mainboard gesteckt, sondern mittels Strom- und Datenkabel angeschlossen.
 
 Heute gibt des den Festplattenspeicher in zwei Ausführungen:
 - herkömmliche Harddisks oder HDD (engl. *hard disk drive*)
 - SSDs (engl. *solid state disk*)
+
+
+### Harddisk (HDD)
 
 Der Aufbau einer **herkömmlichen Harddisk** gleicht einem Plattenspieler. Im Innern der Harddisk drehen sich mehrere Platten, auf denen durch Magnetisierung einzelner Bereiche Daten gespeichert werden. Auf dem nachfolgenden Bild (rechts) sieht man den Arm zum Auslesen resp. Schreiben der Daten (er befindet sich momentan in der Parkposition neben den Scheiben). Dieser Speicher wird heute noch eingesetzt, um grosse Datenmengen günstig zu speichern. Er ist relativ langsam und anfällig auf Transportschäden, da es sich um einen mechanischen Speicher mit beweglichen Teilen handelt. Die Drehgeschwindigkeit der Platten ist beschränkt, sie bestimmt Lese-/Schreibgeschwindigkeit. Zudem muss stets noch gewartet werden, bis sich der Arm an der richtigen Position befindet.
 
@@ -42,6 +41,9 @@ Der Aufbau einer **herkömmlichen Harddisk** gleicht einem Plattenspieler. Im In
 ***
 ![geöfffnete Harddisk ©](./harddisk-open.jpg)
 :::
+
+
+### Solid State Disk (SSD)
 
 Der Aufbau einer **SSD** gleicht in keiner Weise demjenigen einer HDD. Wie der Name schon sagt, enthält sie keine beweglichen Teile und ist daher robuster, schneller, leichter und verbraucht weniger Strom. Allerdings gibt es zwei gewichtige Nachteile:
 
@@ -52,6 +54,17 @@ Der Aufbau einer **SSD** gleicht in keiner Weise demjenigen einer HDD. Wie der N
 ![SSD ©](./ssd.jpg)
 ***
 ![geöfffnete SSD ©](./ssd-open.jpg)
+:::
+
+
+### Anschlusskabel
+
+Festplatten werden mit sogenannten SATA-Kabeln angeschlossen. Die Abkürzung SATA steht für *serial at attachment*. Das schmalere Kabel dient zur Datenübertragung, das breitere für die Stromzufuhr.
+
+::: columns 2
+![SATA-Kabel  ©](./sata.jpg)
+***
+![SATA-Stromanschluss  ©](./sata-power.jpg)
 :::
 
 
