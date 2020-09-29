@@ -7,6 +7,16 @@ Die Grafikkarte ist neben dem Prozessor die zweite wichtige Komponente, welche i
 - Speichern dieser Pixelgrafik, des **Bildschirminhalts**,
 - Steuerung des Bildschirms, damit er den Bildschirminhalt anzeigt.
 
+
+## Kenngrössen
+
+Für Grafikkarten gibt es drei wichtige Kenngrössen:
+
+- Die maximale **Auflösung**, also die Anzahl der Bildpunkte (z.B. 7680×4320).
+- Die **Taktfrequenz** gibt an, wie schnell der Prozessor Berechnungen durchführen kann. Sie wird in der Einheit **Hertz** angegeben, was «pro Sekunde» bedeutet. Die Grafikakrte hat also auch einen eigenen leistungsfähigen Prozessor.
+- Die **Speicherkapazität** ist die Datenmenge, welcher der Speicher maximal aufnehmen kann. Sie wird in Byte angegeben. Die Grafikkarte besitzt also auch einen eigenen Arbeitsspeicher.
+
+
 ::: cards 2
 ![Hercules-Grafikkarte](./hercules.png)
 #### Hercules Graphics Card
@@ -44,4 +54,8 @@ Für die Steuerung des Bildschirms gibt es vier aktuelle Technologien.
 ***
 ![Video Graphics Array (VGA) ©](./vga.png)
 
+:::
+
+::: exercise Aufgaben Grafikkarte
+1. Wieso ist die Grafikkarte eigentlich ein ganzer Computer (mit eigenem Prozessor, eigenem RAM)?
 :::
