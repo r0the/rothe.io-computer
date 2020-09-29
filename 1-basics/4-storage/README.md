@@ -76,10 +76,10 @@ Das führt dazu, dass schneller Speicher in viel kleineren Mengen und nur wo unb
 
 ![](./storage-hierarchy.svg)
 
-::: exercise Aufgabe Speicherhierarchie
-Wieso enthält ein Computer so viele verschiedene Speicherarten?
-
-Überlege dir und notiere, welche Daten auf welcher Ebene der oben abgebildeten Speicherhierarchie gespeichert werden.
+::: exercise Aufgaben Speicher
+1. Wieso enthält ein Computer so viele verschiedene Speicherarten?
+1. Überlege dir und notiere, welche Daten auf den einzelnen Ebenen der oben abgebildeten Speicherhierarchie gespeichert werden.
+1. Wieso kann eine Datei auf einer Festplatte viel schneller gelöscht als gespeichert werden?
 :::
 
 [^1]: DDR-SDRAM: engl. *Double Data Rate Synchronous Dynamic Random Access Memory*
