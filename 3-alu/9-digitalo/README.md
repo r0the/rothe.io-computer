@@ -70,7 +70,7 @@ Es werden weitere Spielrunden gespielt, bis jemand 1000<sub>2</sub> Punkte errei
 
 Machen wir ein Beispiel und spielen mit offenen Karten: Spieler 1 ist an der Reihe (s. Abbildung).
 
-![](./spielablauf.svg)
+![](./spielablauf-1.svg)
 
 Er hat für seine Pyramide sechs Anlegemöglichkeiten bei vier Binärkarten. Da man Pyramiden - ebenso wie Häuser - von unten nach oben, oder hier von rechts nach links (beginnend an den Binärkarten) baut, kann Spieler 1 zur Zeit nur an die Positionen 1 bis 3 eine Gatterkarte anlegen.
 
@@ -97,7 +97,7 @@ Das nachfolgende Beispiel zeigt eine gültige Spielsituation für Spieler 1. Die
 
 Spieler 2 hingegen hat mehrfach falsch angelegt: Das AND-Gatter ist ungültig, da 0 AND 0 = 0 und nicht 1 ergibt. Er bräuchte hier z.B. ein AND-Gatter mit Ausgang 0. Des Weiteren hat er zwar ein korrektes XOR-Gatter gelegt (1 XOR 0 = 1), jedoch nicht die Bauregeln für Pyramiden beachtet. Man müsste zunächst zwischen das UND-Gatter und dem XOR-Gatter eine passende Gatterkarte legen bevor man eine Stufe weiterbauen darf.
 
-![](./ungueltige-situation.svg)
+![](./spielablauf-2.svg)
 
 :::
 

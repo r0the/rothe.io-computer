@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="140px" height="214px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5;">
-    <g>
-        <rect x="45" y="45" width="50" height="50" style="fill:white;stroke:black;stroke-width:6.67px;"/>
-        <rect x="45" y="119" width="50" height="50" style="fill:white;stroke:black;stroke-width:6.67px;"/>
-        <path d="M70,45L70,4" style="fill:none;stroke:black;stroke-width:6.67px;stroke-linecap:butt;stroke-linejoin:round;"/>
-        <path d="M70,210L70,169" style="fill:none;stroke:black;stroke-width:6.67px;stroke-linejoin:round;"/>
-        <g transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,198.961,165.835)">
-            <text x="115.216px" y="113.498px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">0</text>
+<svg width="140px" height="214px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Bit">
+        <path d="M136,10.6C136,6.957 133.043,4 129.4,4L10.6,4C6.957,4 4,6.957 4,10.6L4,203.4C4,207.043 6.957,210 10.6,210L129.4,210C133.043,210 136,207.043 136,203.4L136,10.6Z" style="fill:rgb(165,214,167);"/>
+        <g id="One">
+            <path d="M70,208L70,179" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <rect x="45" y="128" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;stroke-linejoin:miter;"/>
+            <text id="One1" serif:id="One" x="56.556px" y="170.969px" style="font-family:'Helvetica';font-size:50px;">1</text>
         </g>
-        <text x="57.964px" y="161.969px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">1</text>
-        <path d="M136,10.6C136,6.957 133.043,4 129.4,4L10.6,4C6.957,4 4,6.957 4,10.6L4,203.4C4,207.043 6.957,210 10.6,210L129.4,210C133.043,210 136,207.043 136,203.4L136,10.6Z" style="fill:none;stroke:rgb(128,128,128);stroke-width:8.11px;stroke-linejoin:round;"/>
+        <g id="Zero">
+            <path d="M70,33L70,4" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <rect x="45" y="33" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;stroke-linejoin:miter;"/>
+            <text id="Zero1" serif:id="Zero" x="56.377px" y="75.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <path d="M136,10.6C136,6.957 133.043,4 129.4,4L10.6,4C6.957,4 4,6.957 4,10.6L4,203.4C4,207.043 6.957,210 10.6,210L129.4,210C133.043,210 136,207.043 136,203.4L136,10.6Z" style="fill:none;stroke:rgb(27,94,32);stroke-width:8.11px;stroke-linecap:round;"/>
     </g>
 </svg>
