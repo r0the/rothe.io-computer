@@ -48,6 +48,11 @@
           "id": 690828,
           "title": "1.6 Netzwerkkarte",
           "page": "1-basics/6-network-card/"
+        },
+        {
+          "id": 740435,
+          "title": "1.7 Hauptplatine",
+          "page": "1-basics/7-mainboard/"
         }
       ]
     },
