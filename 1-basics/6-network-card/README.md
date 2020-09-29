@@ -33,3 +33,8 @@ Netzwerkkarten zur Verbindung mit einem drahtlosen Netzwerk (WLAN) gibt es in et
 ***
 ![Drahtlose Netzwerkkarte für USB-Anschluss ©](./wlan-usb.jpg)
 :::
+
+
+::: exercise Aufgabe Netzwerkkarte
+Angenommen, eine Netzwerkkarte hat eine Übertragungsrate von 1 Gbps. Wie viele lange dauert die Übertragung einer 10 GB grossen Datei in Sekunden unter idealen Bedingungen?
+:::
