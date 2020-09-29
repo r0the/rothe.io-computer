@@ -24,8 +24,9 @@ TODO
    - Notebook-Netzteil
    - Smartphone-Ladegerät
    - LED-Lampe
-2. Wie beurteilen Sie folgende Aussagen?
-   - Der Gamingcomputer eines Kollegen braucht ein 1500W-Netzteil.
-   - Eine Stereoanlage verbraucht im Standbyzustand 15W.
-   - Ein Beamer hat einen Standbyverbrauch von 0.5W.
+2. Wie beurteilen Sie folgende Aussagen? Ist das erwähnte Gerät neu oder alt?
+   - Ein Notebook verbraucht zum Bearbeiten eines Textdokuments oder Surfen im Internet ca. 7W.
+   - Ein Desktopcomputer braucht ein 1500W-Netzteil.
+   - Eine Stereoanlage verbraucht im Standbyzustand knapp 15W.
+   - Ein Beamer hat einen Standbystromverbrauch von ca. 0.5W.
 :::
