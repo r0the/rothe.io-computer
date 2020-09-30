@@ -18,12 +18,12 @@ Für Grafikkarten gibt es drei wichtige Kenngrössen:
 
 
 ::: cards 2
-![Hercules-Grafikkarte](./hercules.png)
+![Hercules-Grafikkarte ©](./hercules.png)
 #### Hercules Graphics Card
 Hochauflösende monochrome Grafikkarte (720×348 Pixel, 1 Bit Farbe) mit 64 KB Video-RAM aus dem Jahr 1982.
 
 ***
-![NVIDIA RTX 2080 TI-Grafikkarte](./nvidia-rtx-2080-ti.jpg)
+![NVIDIA RTX 2080 TI-Grafikkarte ©](./nvidia-rtx-2080-ti.jpg)
 #### NVIDIA RTX 2080 TI
 Aktuelle Grafikkarte aus dem Jahr 2018 mit einer maximalen Auflösung von 7680×4320 Pixel pro Bildschirm, 11 GB Video-RAM und Unterstützung von Echtzeit-Raytracing.
 :::
