@@ -217,7 +217,21 @@
       "id": 899719,
       "title": "Material für Lehrer*innen",
       "icon": "mdi-presentation",
-      "page": "teaching/"
+      "page": "teaching/",
+      "items": [
+        {
+          "title": "CPU-Rollenspiel klassisch",
+          "page": "teaching/cpu/"
+        },
+        {
+          "title": "CPU-Rollenspiel Tetra",
+          "page": "teaching/tetra/"
+        },
+        {
+          "title": "Hardware-Workshop",
+          "page": "teaching/workshop/"
+        }
+      ]
     }
   ]
 }
