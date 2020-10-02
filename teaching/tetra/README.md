@@ -1,5 +1,9 @@
-# Didaktische Anmerkungen
+# Tetra
 ---
+
+* [:pdf: Tetra: Informationen (PDF)](./tetra-informationen.pdf)
+* [:pdf: Tetra: Komponenten (PDF)](./tetra-komponenten.pdf)
+* [:pdf: Tetra: Mikrocode (PDF)](./tetra-mikrocode.pdf)
 
 Das Rollenspiel ist so gestaltet, dass folgende wichtige Erkenntnisse hervorgehoben werden:
 

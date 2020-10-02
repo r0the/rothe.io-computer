@@ -13,27 +13,20 @@ https://www.youtube.com/watch?v=5PJZz04JGjs
 
 ### 1. Doppellektion – Begriffe
 
-* [:mdi-presentation: Präsentation (PPTX)](hardware-1.pptx)
-* [:mdi-file-pdf: Präsentation (PDF)](hardware-1.pdf)
+* [:mdi-presentation: Präsentation (PPTX)](./hardware-1.pptx)
+* [:mdi-file-pdf: Präsentation (PDF)](./hardware-1.pdf)
+* [:pdf: Arbeitsblatt Speicherhiearchie](./arbeitsblatt-speicherhierarchie.pdf)
 
-| Ablauf |
-| ------ |
-|        |
+### Eine Doppellektionen betreut
 
-### 4 Doppellektionen Betreut
+Während vier Doppellektionen vier mit je einem Viertel der Klasse (6 Schüler*innen) eine betreute Doppellektion durchgeführt. In der ersten Lektion wird der Hardware-Workshop durchgeführt, in der zweiten Lektion das CPU-Rollenspiel:
 
-Während vier Doppellektionen
+* [Hardware-Workshop](?page=workshop/)
+* [CPU-Rollenspiel Variante «Tetra»](?page=tetra/)
+* [CPU-Rollenspiel Variante «Klassisch»](?page=cpu/)
 
-### 2. Doppellektion - Rechnerarchitektur
+### Drei Doppellektionen unbetreut
 
-* [:mdi-presentation: Präsentation (PPTX)](hardware-2.pptx)
-* [:mdi-file-pdf: Tetra: Informationen (PDF)](tetra-informationen.pdf)
-* [:mdi-file-pdf: Tetra: Komponenten (PDF)](tetra-komponenten.pdf)
-* [:mdi-file-pdf: Tetra: Mikrocode (PDF)](tetra-mikrocode.pdf)
+Die restlichen Schüler*innen arbeiten selbständig an den folgenden Themen:
 
-| Aktivität                         | Zeit |
-|:--------------------------------- | ----:|
-| Präsentation Rechnerarchitektur   |  10' |
-| Erklärung Rollenspiel             |   5' |
-| Gruppen bilden und erster Versuch |  15' |
-| Rollenspiel zweite Runde          |  15' |
+- Rechnen mit Strom
