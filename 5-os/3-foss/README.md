@@ -1,6 +1,19 @@
 # 5.3 Freie Open Source Software
 ---
 
+::: columns 2
+![Europalette ©](./palette.jpg)
+***
+![Sitzbank ©](./bench.jpg)
+:::
+
+::: exercise Aufgabe Produktionskosten
+1. Was bestimmt den Preis einer Ware (z.B. Möbel)?
+2. Was bestimmt den Preis einer Software?
+3. Was darf/kann man mit ihnen (Ware resp. Software) nach dem Kauf tun?
+:::
+
+
 ## Softwarelizenzen
 Im Gegensatz zu vielen anderen Betriebssystemen ist Linux **freie Software**. Ziel dieses Kapitels ist es, die wichtigsten Begriffe zu Softwarelizenzen zu erklären.
 
