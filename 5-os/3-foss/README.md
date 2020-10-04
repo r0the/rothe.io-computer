@@ -7,10 +7,11 @@
 ![Sitzbank ©](./bench.jpg)
 :::
 
-::: exercise Aufgabe Produktionskosten
+::: exercise Aufgabe Kosten
 1. Was bestimmt den Preis einer Ware (z.B. Möbel)?
 2. Was bestimmt den Preis einer Software?
 3. Was darf/kann man mit ihnen (Ware resp. Software) nach dem Kauf tun?
+4. Was haben die beiden Bilder oben mit dieser Aufgabe zu tun?
 :::
 
 
