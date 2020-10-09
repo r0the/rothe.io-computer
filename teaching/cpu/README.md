@@ -1,41 +1,69 @@
 # CPU-Rollenspiel
 ---
 
+**TODO**: Fehlerkontrolle (Neue Programme)
+
 ## Material
 
-* [:pdf: Anleitung](./anleitung.pdf)
-* [:pdf: Decodierer](./decodierer.pdf)
-* [:pdf: Programm 1](./programm-1.pdf)
-* [:pdf: Programm 2](./programm-2.pdf)
-* [:pdf: restliche Rollen](./restliche-rollen)
+* [:pdf: Hinweise für die LP](./Neumann-Rollenspiel-Hinweise-LP.pdf)
+* [:docx: Hinweise für die lP](./Neumann-Rollenspiel-Hinweise-LP.docx)
+* [:pdf: Druckvorlage](./Neumann-Rollenspiel-Hinweise-LP.pdf)
+* [:docx: Druckvorlage](./Neumann-Rollenspiel-Hinweise-LP.docx)
 
 ## Von Neumann
 
 Es ist empfehlenswert, zuerst die Von-Neumann-Architektur zu behandeln.
 
 ## Rollen
+Vorgesehen sind 5-9 Rollen pro Rollenspiel-Gruppe, d.h. 2 bis 4 Rollenspiel-Gruppen pro Klasse. Die Rollen sind im Einzelnen:
+- Steuerwerk
+- Befehlswerk
+- Speicherwerk
+- Dekodierwerk
+- Rechenwerk
+- Systembus (auch passiv umsetzbar – es liegt ein Notizzettel «Systembus» in der Tischmitte, auf den alle zugreifen können)
+- Benutzer (nur bei Programm 2/3; falls zu wenig Personen: Bildschirm spielt auch den Benutzer)
+- Stoppuhr (auch nachträglich umsetzbar – es wird dann nach dem Rollenspiel abgeschätzt, wie lange eine Runde gebraucht hat)
+- Bildschirm (auch passiv umsetzbar – es liegt dann einfach ein Bildschirm-Notizzettel auf dem Tisch)
 
-Vorgesehen sind fünf bis sechs Rollen. Die Rolle des Zeitgebers kann gestrichen werden, ohne dass die Funktionalität leidet, sie eignet sich aber gut für die abschliessende Diskussion. Die Rolle des Bildschirms (7. Rolle), ist ausschliesslich passiv, daher wird diese nicht von SuS gespielt, es liegt einfach ein Blatt mit dem Titel «Bildschirm» auf.
+*Tipp*: Für den Systembus braucht es wohl keinen Sitzplatz, die Person muss sich zwischen den Komponenten hin- und herbewegen.
 
-Die Rollen (siehe unten) sollen ausgedruckt und den entsprechenden Schüler*innen verteilt werden. Der Decodierer erhält zusätzlich noch den einfachen Befehlssatz (resp. in einer zweiten Phase den erweiterten Befehlssatz). Das aufgelistete Programm direkt unter dem Befehlssatz soll nicht verteilt werden, es dient lediglich der Übersicht für die Lehrperson.
+## Vorbereitung / Materialien
+- Die Rollenanleitungen, Speicher-Karten und Befehlstreifen sind im Dokument Neumann-Rollenspiel-Druckvorlage zum Drucken und Ausschneiden vorbereitet
+- Stifte und Notizpapier für mehrere der Rollen
 
-## Zusätzliche Blätter
+## Programme
+Für das Rollenspiel stehen vier Programme zur Verfügung:
+- Programm 1:
+  Es werden zwei Zahlen addiert und auf dem Bildschirm angezeigt
+- Programm 2:
+  Es werden zwei vom Benutzer eingegebene Zahlen addiert und auf dem Bildschirm angezeigt
+- Programm 3:
+  Der Benutzer muss solange eine Zahl eingeben (erraten), bis sie stimmt
+- Programm 4:
+  Es werden die Zahlen 02, 04, 06, 08, 10 nacheinander auf dem Bildschirm angezeigt
 
-Die Blätter mit dem Speicherinhalt (für beide Programme) sowie die fast leeren Blätter, die während der Laufzeit beschrieben werden, sind separat als odt und pdf vorhanden.
-
-## Programm in der erweiterten Sprache
-
-Das Programm zeigt die geraden Zahlen von 1 bis 10 an. Dazu reichen die Speicherstellen von 1 bis 9 nicht mehr aus. Auch die Speicherstelle 0 kann nicht verwendet werden, da ja eine 0 als zweite Ziffer in einem Befehl stets bedeutet, dass keine Speicherstelle involviert ist. Deshalb wird als 10. Speicherstelle die Speicherstelle A verwendet. Dies, damit die Speicherstelle mit nur einer «Ziffer» geschrieben werden kann.
-Das Programm dauert einige Zeit, auch wenn die Schülerinnen und Schüler konzentriert arbeiten. Je nach Stimmung kann während der Laufzeit des Programms auch die Speicherstelle A von 10 auf 8 oder sogar 6 abgeändert werden, um das Programm schneller zu beenden.
-Zusatzmaterial
-
-Für sämtliche Rollen ist unten angegeben, welches Zusatzmaterial (zu den Rollen) steht. Vorschlag:
-
-- Die Blätter für den Adressierer (Speicherinhalte) sowie die restlichen Blätter (CPU-Leiter, Speicher- zeiger, Rechenknecht, Zeitgeber, Bildschirm) mit der Funktion 2-auf-1 drucken, so dass die Blätter nur A5 gross sind und weniger Papier gebraucht wird.
-- Die Blätter für den Decodierer in Streifen schneiden, so dass pro Befehl ein Streifen vorliegt.
-
-Die nachfolgenden Blätter mit den Rollen müssen ebenfalls so in Streifen geschnitten werden, dass die Rollen verteilt werden können.
+## Vorschlag Rollenspiel-Ablauf
+- Einführung in Computeraufbau, EVAS-Prinzip und von Neumann-Architektur.
+- Phase 1: Beispiel 1 (ohne Kenntnis, was das Programm tut)
+  - Die anwesenden Schülerinnen und Schüler werden geeignet in Gruppen eingeteilt und die Rollen werden verteilt. Alle lesen nur die eigenen Anweisungen.
+  - Die Speicheradressen-Karten und die Befehlstreifen der «Basis-Sprache» bekommt das Speicherwerk resp. Dekodierwerk.
+- Phase 2: Erkenntnis diskutieren
+  - Was ist alles passiert? Was hat das Programm gemacht?
+  - Was man bis hier verstehen sollte
+    - Fetch-Decode-Execute Prinzip
+    - Speicher unterteilt in Programmcode und Daten
+- Phase 3: Beispiel 2
+  - Speicherwerk und Dekodierwerk erhalten die Speicheradressen-Karten resp. Befehlstreifen der "Erweiterten Sprache".
+- Phase 4: Abschliessende Diskussion (zentrale Punkte siehe unten)
 
 ## Abschliessende Diskussion
+Hier kann z.B. der Vergleich zu einer richtigen CPU gemacht werden. Die Stoppuhr hat für jede Runde notiert, wie lange diese gedauert hat (oder die Zeit wird nachträglich abgeschätzt). Eine richtige CPU arbeitet mit ca. 3 Milliarden Taktzyklen pro Sekunde.
 
-Hier kann z.B. der Vergleich zu einer richtigen CPU gemacht werden. Der Zeitgeber notiert für jede Runde, wie lange sie dauert. Eine richtige CPU arbeitet mit ca. drei Milliarden Taktzyklen pro Sekunde…
+**Zentrale Punkte**:
+- Ein Computer kann nur wenige, simple Dinge, dafür in horrendem Tempo.
+- Ein Programm besteht auch nur aus Zahlen (braucht Dekoder).
+- Fetch-Decode-Execute-Prinzip
+- Ein Programm wird aus unzähligen einfachen Anweisungen aufgebaut.
+- Programmiersprachen mit ihren Konstrukten vereinfachen uns die Arbeit und abstrahieren die benutzte Hardware.
+
