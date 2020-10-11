@@ -1,11 +1,9 @@
 # AND-Gatter
 ---
 
-Die Grundlage der Digitalelektronik bilden Schaltungen, welche einen oder zwei **Eingänge** und einen **Ausgang** haben. Solche Schaltungen heissen **Gatter**.
+Ein AND-Gatter ist eine digitale Schaltung, welche zwei Eingänge und einen Ausgang hat. Der Ausgang Y hat nur dann den Wert 1, wenn Eingange A **und** Eingang B den Wert 1 haben.
 
-## AND-Gatter (*AND-gate*)
-
-Ein AND-Gatter ist eine Schaltung, welche zwei Eingänge und einen Ausgang hat. Der Ausgang Y hat nur dann den Wert 1, wenn Eingange A **und** Eingang B den Wert 1 haben.
+## Wahrheitstabelle
 
 | A   | B   |   Y |
 |:--- |:--- | ---:|
@@ -16,14 +14,16 @@ Ein AND-Gatter ist eine Schaltung, welche zwei Eingänge und einen Ausgang hat. 
 
 In Schaltplänen wird ein AND-Gatter mit folgendem Symbol dargestellt:
 
-![Symbol für ein AND-Gatter](./and-gate.svg)
+![](./and-gate.svg)
+
+## Interaktive Schaltung
+
+<VueCircuit id="and-gatter" height="200"/>
+
 
 ## Beispiel Lichtschalter
 
 ![](./and-circuit.svg)
 
-## Interaktive Schaltung
-
-<iframe width="600px" height="400px" src="https://circuitverse.org/simulator/embed/and-gatter" id="projectPreview" scrolling="no" webkitAllowFullScreen mozAllowFullScreen allowFullScreen></iframe>
 
 ## Beispiele
