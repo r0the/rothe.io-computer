@@ -11,12 +11,14 @@
       "id": 896256,
       "title": "Lernziele",
       "icon": "goal",
+      "course": "23",
       "page": "0-goals/"
     },
     {
       "id": 532822,
       "title": "1 Grundlagen",
       "page": "1-basics/",
+      "course": "23",
       "items": [
         {
           "id": 66209,
