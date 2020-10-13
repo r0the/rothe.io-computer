@@ -60,6 +60,11 @@
           "title": "1.8 Stromversorgung",
           "icon": "construction",
           "page": "1-basics/8-power-supply/"
+        },
+        {
+          "title": "1.9 Ebenen",
+          "icon": "construction",
+          "page": "1-basics/9-layers/"
         }
       ]
     },
