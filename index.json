@@ -10,15 +10,15 @@
     {
       "id": 896256,
       "title": "Lernziele",
-      "icon": "goal",
       "course": "23",
+      "icon": "goal",
       "page": "0-goals/"
     },
     {
       "id": 532822,
       "title": "1 Grundlagen",
-      "page": "1-basics/",
       "course": "23",
+      "page": "1-basics/",
       "items": [
         {
           "id": 66209,
@@ -123,6 +123,7 @@
           "page": "3-gates/6-adder/"
         },
         {
+          "id": 416126,
           "title": "Digitalo",
           "page": "3-gates/9-digitalo/"
         }
@@ -194,8 +195,13 @@
             },
             {
               "id": 904439,
+              "title": "Linux ausprobieren",
+              "page": "5-os/4-linux/4-install/"
+            },
+            {
+              "id": 681900,
               "title": "Aufgaben",
-              "page": "5-os/4-linux/4-ex/"
+              "page": "5-os/4-linux/5-ex/"
             }
           ]
         }
@@ -226,14 +232,17 @@
       "page": "teaching/",
       "items": [
         {
+          "id": 459193,
           "title": "CPU-Rollenspiel klassisch",
           "page": "teaching/cpu/"
         },
         {
+          "id": 87967,
           "title": "CPU-Rollenspiel Tetra",
           "page": "teaching/tetra/"
         },
         {
+          "id": 609168,
           "title": "Hardware-Workshop",
           "page": "teaching/workshop/"
         }
