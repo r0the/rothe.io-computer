@@ -1,4 +1,4 @@
-# Rechnen mit Strom
+# 3 Digitale Logik
 ---
 
 ## Logische Gatter

@@ -70,61 +70,61 @@
     },
     {
       "id": 293982,
-      "title": "2 Digitalelektronik",
+      "title": "2 Elektronik",
       "icon": "construction",
-      "page": "2-digital/",
+      "page": "2-electronics/",
       "items": [
         {
           "id": 104084,
           "title": "2.1 micro:bit",
-          "page": "2-digital/1-microbit/"
+          "page": "2-electronics/1-microbit/"
         },
         {
           "id": 28316,
           "title": "Stromkreis",
-          "page": "2-digital/2-circuit/"
+          "page": "2-electronics/2-circuit/"
         }
       ]
     },
     {
       "id": 86120,
-      "title": "3 Rechnen mit Strom",
+      "title": "3 Digitale Logik",
       "icon": "construction",
-      "page": "3-alu/",
+      "page": "3-gates/",
       "items": [
         {
           "id": 474983,
           "title": "AND-Gatter",
-          "page": "3-alu/1-and-gate/"
+          "page": "3-gates/1-and-gate/"
         },
         {
           "id": 780361,
           "title": "OR-Gatter",
-          "page": "3-alu/2-or-gate/"
+          "page": "3-gates/2-or-gate/"
         },
         {
           "id": 491858,
           "title": "Inverter",
-          "page": "3-alu/3-inverter/"
+          "page": "3-gates/3-inverter/"
         },
         {
           "id": 132744,
           "title": "XOR-Gatter",
-          "page": "3-alu/4-xor-gate/"
+          "page": "3-gates/4-xor-gate/"
         },
         {
           "id": 480779,
           "title": "NAND-Gatter",
-          "page": "3-alu/5-nand-gate/"
+          "page": "3-gates/5-nand-gate/"
         },
         {
           "id": 32295,
           "title": "Addierer",
-          "page": "3-alu/6-adder/"
+          "page": "3-gates/6-adder/"
         },
         {
           "title": "Digitalo",
-          "page": "3-alu/9-digitalo/"
+          "page": "3-gates/9-digitalo/"
         }
       ]
     },
@@ -153,28 +153,28 @@
     },
     {
       "id": 988239,
-      "title": "5 Betriebssysteme",
+      "title": "5 Betriebssystem",
       "icon": "construction",
       "page": "5-os/",
       "items": [
         {
           "id": 624277,
-          "title": "Was ist ein Betriebssystem",
+          "title": "5.1 Was ist ein Betriebssystem",
           "page": "5-os/1-os-tasks/"
         },
         {
           "id": 664242,
-          "title": "Betriebssysteme",
+          "title": "5.2 Betriebssysteme",
           "page": "5-os/2-around-me/"
         },
         {
           "id": 633663,
-          "title": "Freie Software",
+          "title": "5.3 Freie Software",
           "page": "5-os/3-foss/"
         },
         {
           "id": 723746,
-          "title": "Linux",
+          "title": "5.4 Linux",
           "page": "5-os/4-linux/",
           "items": [
             {

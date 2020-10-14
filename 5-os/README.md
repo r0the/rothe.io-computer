@@ -1,4 +1,4 @@
-# 5 Betriebssysteme
+# 5 Betriebssystem
 ---
 
 > «No one cares what operating system you run as long as it stays up.»

@@ -5,7 +5,7 @@ Wie die Netzwerken kann auch die Hardware auf verschiedenen **Ebenen** betrachte
 
 ![Hardware-Ebenen](./layers.svg)
 
-## Physikalische Ebene
+## Elektronik
 
 - Spannung, Strom, ...
 
@@ -13,7 +13,7 @@ Wie die Netzwerken kann auch die Hardware auf verschiedenen **Ebenen** betrachte
 
 - Bits
 
-## Befehlssatzarchitektur
+## Rechnerarchitektur
 
 - Maschinencode
 

@@ -3,7 +3,7 @@
 <svg width="528px" height="272px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g>
         <rect x="16" y="208" width="496" height="48" style="fill:rgb(224,224,224);stroke:black;stroke-width:2px;"/>
-        <text x="132.945px" y="237.176px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Hardware (Spannung, Strom)</text>
+        <text x="132.398px" y="237.176px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Elektronik (Spannung, Strom)</text>
     </g>
     <g>
         <rect x="16" y="160" width="496" height="48" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
@@ -11,7 +11,7 @@
     </g>
     <g>
         <rect x="16" y="112" width="496" height="48" style="fill:rgb(239,154,154);stroke:black;stroke-width:2px;"/>
-        <text x="85.768px" y="141.176px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Befehlssatzarchitektur (Maschinencode)</text>
+        <text x="99.61px" y="141.176px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Rechnerarchitektur (Maschinencode)</text>
     </g>
     <g>
         <rect x="16" y="12" width="496" height="100" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
