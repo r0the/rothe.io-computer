@@ -60,11 +60,6 @@
           "title": "1.8 Stromversorgung",
           "icon": "construction",
           "page": "1-basics/8-power-supply/"
-        },
-        {
-          "title": "1.9 Ebenen",
-          "icon": "construction",
-          "page": "1-basics/9-layers/"
         }
       ]
     },
@@ -75,14 +70,16 @@
       "page": "2-electronics/",
       "items": [
         {
-          "id": 104084,
-          "title": "2.1 micro:bit",
-          "page": "2-electronics/1-microbit/"
+          "title": "2.1 Transistoren",
+          "page": "2-electronics/1-transistor/"
         },
         {
-          "id": 28316,
-          "title": "Stromkreis",
-          "page": "2-electronics/2-circuit/"
+          "title": "2.2 Microchips",
+          "page": "2-electronics/2-microchip/"
+        },
+        {
+          "title": "2.3 Moorsches Gesetz",
+          "page": "2-electronics/3-moores-law/"
         }
       ]
     },

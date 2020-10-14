@@ -40,24 +40,3 @@ Im moderne Prozessor-Chips werden auch weitere Funktionen integriert, welche fr�
 Moderne Desktop-Prozessoren enthalten normalerweise eine Grafikeinheit, welche die Darstellung von Text, Bild und Video auf einem Bildschirm übernimmt.
 
 Bei Prozessoren für Mobiltelefon werden üblicherweise spezialisierte Funktionen für GPS, W-LAN, Mobilfunk und Bluetooth auf dem Chip integriert. Dabei spricht man von einem Ein-Chip-System oder SoC (engl. *system on a chip*).
-
-## Transistor
-
-Ein **Transistor** ist ein elektronisches Bauelement, mit welchem Spannungen gesteuert werden können. Es sind also elektronische «Schalter». Sämtliche digitalen Schaltungen in Computerchips werden aus Transistoren zusammengesetzt. Die Schaltungen werden mittels einem Fotolitografie-Verfahren erstellt.
-
-Mit dem modernsten 5-Nanometer-Verfahren können bis zu 170 Millionen Transistoren auf einen Quadratmillimeter aufgebracht werden.
-
-## Mooresches Gesetz[^1]
-
-Das mooresche Gesetz besagt, dass sich die Anzahl Transistoren, welche auf einem Computerchip Platz finden, regelmässig verdoppelt. Je nach Quelle werden 12, 18 oder 24 Monate als Zeitraum genannt.
-
-![Entwicklung der Anzahl Transistoren in Desktop-Prozessoren[^2] ©](./moores-law.png)
-
-
-::: exercise Aufgaben Prozessor
-1. Prozessoren sind «Multitasking»-fähig. Wie kann ein Prozessor (resp. ein Kern alleine) mehrere Dinge «gleichzeitig» tun?
-:::
-
-
-[^1]: Quelle: [Wikipedia: Moorsches Gesetz](https://de.wikipedia.org/wiki/Mooresches_Gesetz)
-[^2]: Datenquelle: [Wikipedia: Transistor Count](https://en.wikipedia.org/wiki/Transistor_count)
