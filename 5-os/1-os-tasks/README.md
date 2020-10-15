@@ -1,7 +1,13 @@
 # 5.1 Aufgaben eines Betriebssystems
 ---
 
+## Was ist ein Betriebssystem?
+
 Ein **Betriebssystem** (engl. *operating system*, kurz *OS*) ist eine Sammlung von Softwarekomponenten, die das Nutzen von Anwenderprogrammen erst möglich macht.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GjNp0bBrjmU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Aufgaben eines Betriebssystems
 
 Ein Betriebssystem
 
