@@ -1,7 +1,7 @@
 # Computer
 ---
 
-> Computer sind unglaublich schnell, genau und dumm. Menschen sind unglaublich langsam, ungenau und brillant. zusammen sind sie mächtig jenseits aller Vorstellungskraft.
+> Computer sind unglaublich schnell, genau und dumm. Menschen sind unglaublich langsam, ungenau und brillant. Zusammen sind sie mächtig jenseits aller Vorstellungskraft.
 >
 > *– Albert Einstein*
 
@@ -24,6 +24,6 @@ Auf der Ebene der **Elektronik** werden die Zustände 0 und 1 durch unterschiedl
 
 In der **digitalen Logik** werden aus den Grundelementen (**logische Gatter**) komplexe Schaltungen aufgebaut, welche Zahlen addieren oder Werte speichern können.
 
-Die **Rechnerarchitektur** legt fest, wie verschiedene Bauelemente wie Rechenwerk und Speicher miteinander verknüpft werden und in welcher zeitlichen Abfolge Daten untereinander ausgetauscht werden. Daraus ergeben sich die grundlegenden Befehle (Maschinencode), welche der Computer versteht.
+Die **Rechnerarchitektur** legt fest, wie verschiedene Bauelemente (wie z.B. Rechenwerk und Speicher) miteinander verknüpft werden und in welcher zeitlichen Abfolge Daten untereinander ausgetauscht werden. Daraus ergeben sich die grundlegenden Befehle (Maschinencode), welche der Computer versteht.
 
-Das **Betriebssystem** kontrolliert und koordiniert den Zugriff auf Speicher und Prozessor für die verschiedenen Anwendungen, welche auf dem Computer ausgeführt werden. Es stellt grundlegende Funktionen wie die Dateiverwaltung und Netzwerkkommunikation zu Verfügung.
+Das **Betriebssystem** kontrolliert und koordiniert den Zugriff auf die Hardware für die verschiedenen Anwendungen, welche auf dem Computer ausgeführt werden. Es stellt grundlegende Funktionen wie die Dateiverwaltung und Netzwerkkommunikation zur Verfügung.
