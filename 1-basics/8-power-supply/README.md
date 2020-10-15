@@ -9,7 +9,7 @@ Das Netzteil eines Desktop-Computers ist stets eingebaut. Bei einem Notebook hin
 
 Für das Netzteil gibt es folgende wichtige Kenngrösse:
 
-- Die **Leistung** gibt an, wie viel Energie das Netzteil in deiner bestimmten Zeit den Komponenten zur Verfügung stellen kann. Die Leistung wird gemessen in **Watt**.
+- Die **Leistung** gibt an, wie viel Energie das Netzteil in einer bestimmten Zeit den Komponenten maximal zur Verfügung stellen kann. Die Leistung wird gemessen in **Watt**.
 
 ::: columns 2
 ![ATX-Netzteil ©](./atx.jpg)
@@ -17,11 +17,17 @@ Für das Netzteil gibt es folgende wichtige Kenngrösse:
 ![Notebook-Netzteil ©](./power-supply.jpg)
 :::
 
+## Leistung und Wärme
 
-## Leistung
+Die meiste Leistung verpufft als Abwärme, darum brauchen Desktop-PCs (und leistungsfähige Grafikkarten) eine aktive Prozessorkühlung, d.h. einen Kühlkörper mit grossen Oberfläche und darüber einen starken Lüfter, um die Wärme vom Prozessor wegzubringen.
 
-TODO
+Notebooks verwenden stromsparendere Prozessoren, daher reicht dort ein kleinerer Lüfter aus, oder sie haben gar nur eine passive Kühlung.
 
+::: columns 2
+![Kühlkörper und Ventilator ©](./heatsink-fan.jpg)
+***
+![Notebook-Mainboard mit Prozessorkühler ©](./notebook-cooling.jpg)
+:::
 
 ::: exercise Aufgaben Stromversorgung
 1. Recherchiere im Internet und finde heraus, wie viel Leistung (Watt) folgende Geräte typischerweise im Betrieb beziehen:
