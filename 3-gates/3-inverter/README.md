@@ -42,6 +42,14 @@ An sämtlichen Elementen ist mit grünen Punkten markiert, wo Verbindungen anges
 
 ![Verbindungen](./cv-connections.png)
 
+Es ist erlaubt, mehrere Ausgabeelemente zu verbinden:
+
+![Mehrere verbundene Ausgabeelemente](./cv-multiple-output.png)
+
+Das Verbinden mehrerer Eingänge führt allerdings zu Fehlern – schliesslich ist dann unklar, was gelten soll, wenn verschiedene Eingabewerte auf derselben Leitung anliegen:
+
+![Mehrere verbundene Eingabeelemente](./cv-multiple-input.png)
+
 ### Logikgatter
 
 Im nächsten Bereich befinden sich alle benötigten Logikgatter. Diese in den folgenden Abschnitten vorgestellt.
@@ -51,6 +59,6 @@ Im nächsten Bereich befinden sich alle benötigten Logikgatter. Diese in den fo
 ::: exercise Aufgabe
 1. Benutzerkonto erstellen bei [CircuitVerse](https://circuitverse.org/users/sign_up), damit die eigenen Schaltungen abgespeichert werden können. Bitte den richtigen Namen und die Schul-E-Mail-Adresse verwenden.
 2. Zum [Simulator](https://circuitverse.org/simulator) wechseln.
-3. Platziere die beiden ersten Eingabeelemente **Input** und **Button** untereinander und lege rechts davon die beiden Ausgabeelemente **Output** und **DigitalLed** ab.
-4. Verbinde jeweils ein Ein- und Ausgabeelement und teste Ein- und Ausgabe.
+3. Platziere die beiden ersten Eingabeelemente **Input** und **Button** untereinander und lege rechts davon die beiden Ausgabeelemente **Output** und **DigitalLed** ab. Verbinde jeweils ein Ein- und Ausgabeelement und teste Ein- und Ausgabe.
+4. Nun probiere den **Inverter** aus. Baue ihn ein und teste mit verschiedenen Inputs.
 :::
