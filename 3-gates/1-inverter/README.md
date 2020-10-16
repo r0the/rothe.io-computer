@@ -12,6 +12,20 @@ In Schaltplänen wird ein Inverter mit folgendem Symbol dargestellt:
 
 ![Symbol für einen Inverter](./inverter.svg)
 
+## Beispiele
+
+### Kühlschrankbeleuchtung
+
+Das Licht im Kühlschrank geht an, sobald die Türe **nicht** mehr auf den Knopf drückt.
+
+![](./fridge.svg)
+
+### Heizung
+
+Die Heizung soll einschalten, wenn es **nicht** warm ist.
+
+![](./heating.svg)
+
 ## CircuitVerse
 
 Wir arbeiten in diesem Kapitel zu den Logikgattern mit der Online-Plattform [CircuitVerse](https://circuitverse.org/). Dort können Schaltungen einfach geplant werden. Zudem kann über Eingabeelemente gezielt Strom auf die Leitungen gegeben und die gezeichnete Schaltung mittels Ausgabeelementen überprüft werden.
