@@ -89,19 +89,19 @@
       "page": "3-gates/",
       "items": [
         {
+          "id": 491858,
+          "title": "Inverter",
+          "page": "3-gates/1-inverter/"
+        },
+        {
           "id": 474983,
           "title": "AND-Gatter",
-          "page": "3-gates/1-and-gate/"
+          "page": "3-gates/2-and-gate/"
         },
         {
           "id": 780361,
           "title": "OR-Gatter",
-          "page": "3-gates/2-or-gate/"
-        },
-        {
-          "id": 491858,
-          "title": "Inverter",
-          "page": "3-gates/3-inverter/"
+          "page": "3-gates/3-or-gate/"
         },
         {
           "id": 132744,
