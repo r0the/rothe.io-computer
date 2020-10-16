@@ -89,6 +89,10 @@
       "page": "3-gates/",
       "items": [
         {
+          "title": "Schaltung",
+          "page": "3-gates/0-circuit/"
+        },
+        {
           "id": 491858,
           "title": "Inverter",
           "page": "3-gates/1-inverter/"

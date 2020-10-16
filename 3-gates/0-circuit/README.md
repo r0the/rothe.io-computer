@@ -9,11 +9,12 @@ Im folgenden betrachten wir digitale **Schaltungen**. Eine digitale Schaltung ha
 
 Um einfache Schaltungen erstellen zu können, benötigen wir ein paar einfachen Ein- und Ausgabemöglichkeiten.  Wir haben folgende Eingabemöglichkeiten für unsere Schaltungen:
 
-|                               |                                                                   |
-| ----------------------------- | ----------------------------------------------------------------- |
-| ![](./sensor-button.svg)      | Druckknopf, liefert Eingabe **Eins**, wenn er gedrückt wird.      |
-| ![](./sensor-temperature.svg) | Temperatursensor, liefert als Eingabe **Eins**, wenn es warm ist. |
-| ![](./sensor-light.svg)       | Lichtsensor, liefert als Eingabe **Eins**, wenn es hell ist.      |
+|                               |                                                                        |
+| ----------------------------- | ---------------------------------------------------------------------- |
+| ![](./sensor-button.svg)      | Druckknopf, liefert Eingabe **Eins**, wenn er gedrückt wird.           |
+| ![](./sensor-temperature.svg) | Temperatursensor, liefert als Eingabe **Eins**, wenn es warm ist.      |
+| ![](./sensor-light.svg)       | Lichtsensor, liefert als Eingabe **Eins**, wenn es hell ist.           |
+| ![](./sensor-humidity.svg)    | Feuchtigkeitssensor, liefert als Eingabe **Eins**, wenn es feucht ist. |
 
 Für die Ausgabe stehen folgende Geräte zu Verfügung:
 
@@ -22,6 +23,7 @@ Für die Ausgabe stehen folgende Geräte zu Verfügung:
 | ![](./actor-light.svg)  | Licht, brennt bei Ausgabe **Eins**      |
 | ![](./actor-sound.svg)  | Lautsprecher, tönt bei Ausgabe **Eins** |
 | ![](./actor-heater.svg) | Heizung, heizt bei Ausgabe **Eins**     |
+| ![](./actor-motor.svg)  | Motor, läuft bei Ausgabe **Eins**       |
 
 
 ## Direkte Verbindung
