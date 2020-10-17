@@ -90,37 +90,41 @@
       "items": [
         {
           "title": "Schaltung",
-          "page": "3-gates/0-circuit/"
+          "page": "3-gates/1-circuit/"
+        },
+        {
+          "title": "CircuitVerse",
+          "page": "3-gates/2-circuitverse/"
         },
         {
           "id": 491858,
           "title": "Inverter",
-          "page": "3-gates/1-inverter/"
+          "page": "3-gates/3-inverter/"
         },
         {
           "id": 474983,
           "title": "AND-Gatter",
-          "page": "3-gates/2-and-gate/"
+          "page": "3-gates/4-and-gate/"
         },
         {
           "id": 780361,
           "title": "OR-Gatter",
-          "page": "3-gates/3-or-gate/"
-        },
-        {
-          "id": 132744,
-          "title": "XOR-Gatter",
-          "page": "3-gates/4-xor-gate/"
+          "page": "3-gates/5-or-gate/"
         },
         {
           "id": 480779,
           "title": "NAND-Gatter",
-          "page": "3-gates/5-nand-gate/"
+          "page": "3-gates/6-nand-gate/"
+        },
+        {
+          "id": 132744,
+          "title": "XOR-Gatter",
+          "page": "3-gates/7-xor-gate/"
         },
         {
           "id": 32295,
           "title": "Addierer",
-          "page": "3-gates/6-adder/"
+          "page": "3-gates/8-adder/"
         },
         {
           "id": 416126,

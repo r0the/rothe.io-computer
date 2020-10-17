@@ -21,9 +21,5 @@ In Schaltplänen wird ein AND-Gatter mit folgendem Symbol dargestellt:
 <VueCircuit id="and-gatter" height="200"/>
 
 
-## Beispiel Lichtschalter
-
-![](./and-circuit.svg)
-
 
 ## Beispiele
