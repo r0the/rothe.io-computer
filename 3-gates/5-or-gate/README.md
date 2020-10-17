@@ -1,7 +1,7 @@
-# OR-Gatter
+# 3.5 OR-Gatter
 ---
 
-Bei einem OR-Gatter hat der Ausgang Y dann den Wert 1 (hohe Spannung), wenn Eingang A **oder** Eingang B den Wert 1 (hohe Spannung) haben.
+Bei einem OR-Gatter hat der Ausgang Y dann den Wert :1:, wenn Eingang A **oder** Eingang B (oder beide) den Wert :1: haben.
 
 | A   | B   |   Y |
 |:--- |:--- | ---:|

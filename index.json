@@ -89,26 +89,26 @@
       "page": "3-gates/",
       "items": [
         {
-          "title": "Schaltung",
+          "title": "3.1 Schaltung",
           "page": "3-gates/1-circuit/"
         },
         {
-          "title": "CircuitVerse",
+          "title": "3.2 CircuitVerse",
           "page": "3-gates/2-circuitverse/"
         },
         {
           "id": 491858,
-          "title": "Inverter",
+          "title": "3.3 Inverter",
           "page": "3-gates/3-inverter/"
         },
         {
           "id": 474983,
-          "title": "AND-Gatter",
+          "title": "3.4 AND-Gatter",
           "page": "3-gates/4-and-gate/"
         },
         {
           "id": 780361,
-          "title": "OR-Gatter",
+          "title": "3.5 OR-Gatter",
           "page": "3-gates/5-or-gate/"
         },
         {

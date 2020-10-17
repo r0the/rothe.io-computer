@@ -1,4 +1,4 @@
-# Inverter
+# 3.3 Inverter
 ---
 
 Ein Inverter ist eine Schaltung, bei welcher der Ausgang Y den Wert 1 (hohe Spannung) hat, wenn der Eingang den Wert 0 (tiefe Spannung) hat und umgekehrt.
@@ -11,6 +11,10 @@ Ein Inverter ist eine Schaltung, bei welcher der Ausgang Y den Wert 1 (hohe Span
 In Schaltungen wird das folgende Symbol für einen Inverter verwendet:
 
 ![Symbol für einen Inverter](./inverter.svg)
+
+## Interaktive Schaltung
+
+<VueCircuit id="rothe-inverter" height="200"/>
 
 ## Beispiele
 

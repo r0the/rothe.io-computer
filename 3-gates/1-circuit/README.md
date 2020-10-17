@@ -1,4 +1,4 @@
-# Schaltung
+# 3.1 Schaltung
 ---
 
 Im folgenden betrachten wir digitale **Schaltungen**. Eine digitale Schaltung hat mindestens einen Eingang sowie einen oder mehrere Ausgänge. Da die Schaltung digital ist, sind bei jedem Eingang und Ausgang immer nur zwei Werte möglich: Null oder Eins.
@@ -11,7 +11,7 @@ Die obenstehende Schaltung hat zwei Eingänge (A und B) sowie zwei Ausgänge (X 
 
 Jede digitale Schaltung kann durch eine **Wahrheitstabelle** beschrieben werden. In der Wahrheitstabelle werden für alle möglichen Eingabekombinationen die entsprechenden Ausgabewerte festgehalten.
 
-Für eine Schaltung mit zwei Eingängen gibt es insgesamt vier Möglichkeiten. Sowohl Eingang A als auch Eingang B können die Werte Null oder Eins annehmen.
+Für eine Schaltung mit zwei Eingängen gibt es insgesamt vier Möglichkeiten. Sowohl Eingang A als auch Eingang B können die Werte :0: oder :1: annehmen.
 
 Die obenstehende Schaltung kann beispielsweise mit folgender Tabelle beschrieben werden:
 
@@ -31,23 +31,23 @@ Wie könnte eine Schaltung mit dieser Wahrheitstabelle wohl aussehen?
 
 Um einfache Schaltungen erstellen zu können, benötigen wir ein paar einfachen Ein- und Ausgabemöglichkeiten.  Wir haben folgende Eingabemöglichkeiten für unsere Schaltungen:
 
-|                               |                                                                            |
-| -----------------------------:|:-------------------------------------------------------------------------- |
-|      ![](./sensor-button.svg) | Druckknopf, liefert Eingabe **Eins**, wenn er gedrückt wird.               |
-|      ![](./sensor-switch.svg) | Schalter, kann ein- oder ausgeschaltet werden.                             |
-| ![](./sensor-temperature.svg) | Temperatursensor, liefert als Eingabe **Eins**, wenn es warm ist.          |
-|       ![](./sensor-light.svg) | Lichtsensor, liefert als Eingabe **Eins**, wenn es hell ist.               |
-|    ![](./sensor-humidity.svg) | Feuchtigkeitssensor, liefert als Eingabe **Eins**, wenn es feucht ist.     |
-|    ![](./sensor-movement.svg) | Bewegungssensor, liefer als Eingabe **Eins**, wenn Bewegung entdeckt wird. |
+|                               |                                                                       |
+| -----------------------------:|:--------------------------------------------------------------------- |
+|      ![](./sensor-button.svg) | Druckknopf, liefert Eingabe :1:, wenn er gedrückt wird.               |
+|      ![](./sensor-switch.svg) | Schalter, kann ein- oder ausgeschaltet werden.                        |
+| ![](./sensor-temperature.svg) | Temperatursensor, liefert als Eingabe :1:, wenn es warm ist.          |
+|       ![](./sensor-light.svg) | Lichtsensor, liefert als Eingabe :1:, wenn es hell ist.               |
+|    ![](./sensor-humidity.svg) | Feuchtigkeitssensor, liefert als Eingabe :1:, wenn es feucht ist.     |
+|    ![](./sensor-movement.svg) | Bewegungssensor, liefer als Eingabe :1:, wenn Bewegung entdeckt wird. |
 
 Für die Ausgabe stehen folgende Geräte zu Verfügung:
 
-|                          |                                         |
-| ------------------------:|:--------------------------------------- |
-|   ![](./actor-light.svg) | Licht, brennt bei Ausgabe **Eins**      |
-|   ![](./actor-sound.svg) | Lautsprecher, tönt bei Ausgabe **Eins** |
-| ![](./actor-heating.svg) | Heizung, heizt bei Ausgabe **Eins**     |
-|   ![](./actor-motor.svg) | Motor, läuft bei Ausgabe **Eins**       |
+|                          |                                    |
+| ------------------------:|:---------------------------------- |
+|   ![](./actor-light.svg) | Licht, brennt bei Ausgabe :1:      |
+|   ![](./actor-sound.svg) | Lautsprecher, tönt bei Ausgabe :1: |
+| ![](./actor-heating.svg) | Heizung, heizt bei Ausgabe :1:     |
+|   ![](./actor-motor.svg) | Motor, läuft bei Ausgabe :1:       |
 
 
 ## Direkte Verbindung

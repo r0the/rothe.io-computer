@@ -1,4 +1,4 @@
-# CircuitVerse
+# 3.2 CircuitVerse
 ---
 
 Wir arbeiten in diesem Kapitel zu den Logikgattern mit der Online-Plattform [CircuitVerse](https://circuitverse.org/). Dort können Schaltungen einfach geplant werden. Zudem kann über Eingabeelemente gezielt Strom auf die Leitungen gegeben und die gezeichnete Schaltung mittels Ausgabeelementen überprüft werden.

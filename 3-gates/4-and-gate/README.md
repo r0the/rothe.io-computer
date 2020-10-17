@@ -1,7 +1,7 @@
-# AND-Gatter
+# 3.4 AND-Gatter
 ---
 
-Ein AND-Gatter ist eine digitale Schaltung, welche zwei Eingänge und einen Ausgang hat. Der Ausgang Y hat nur dann den Wert 1, wenn Eingange A **und** Eingang B den Wert 1 haben.
+Ein AND-Gatter ist eine digitale Schaltung, welche zwei Eingänge und einen Ausgang hat. Der Ausgang Y hat nur dann den Wert :1:, wenn Eingange A **und** Eingang B den Wert :1: haben.
 
 ## Wahrheitstabelle
 
