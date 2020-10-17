@@ -40,7 +40,7 @@ Die Heizung soll einschalten, wenn es **nicht** warm ist.
 
 2. **Bewässerungsanlage:** Wenn die Erde in der Blumenkiste trocken ist, soll eine Wasserpumpe (Motor) eingeschaltet werden. Wenn die Erde feucht ist, soll der Motor ausgeschaltet werden.
 
-![](./ex-water-plant.svg)
+![](./ex-irrigation.svg)
 
 :::
 

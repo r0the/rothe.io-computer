@@ -36,7 +36,7 @@ Natürlich können auch mehrere Gatter zu einer Schaltung kombiniert werden. Im 
 
 ::: exercise Aufgaben
 
-Entwirf je eine Schaltung für die folgenden Szenarien. Gehe für jedes Szenario so vor:
+Entwirf je eine Schaltung für die folgenden Szenarien. Du kannst **Inverter** und **AND-Gatter** verwenden. Gehe für jedes Szenario so vor:
 
 - Erstelle eine Wahrheitstabelle für das Szenario.
 - Entwirf die Schaltung in CircuitVerse.
@@ -44,15 +44,15 @@ Entwirf je eine Schaltung für die folgenden Szenarien. Gehe für jedes Szenario
 
 1. **Heizung:** Eine Heizung soll nur tagsüber eingeschaltet werden, wenn es kalt ist.
 
-![](./ex-heating.svg)
+    ![](./ex-heating.svg)
 
 2. **Automatische Tür:** Die Tür wird durch einen Motor betrieben. Sie soll nur aufgehen, wenn eine Bewegung entdeckt wird und der Hauptschalter eingeschaltet ist.
 
-![](./ex-automatic-door.svg)
+    ![](./ex-automatic-door.svg)
 
 3. **Dachfenster:** Ein Dachfenster soll durch einen Motor automatisch geschlossen werden, sobald es regenet. Wenn das Fenster zu ist, drückt es einen Knopf, der bewirkt, dass der Motor ausschaltet wird.
 
-![](./ex-roof-window.svg)
+    ![](./ex-roof-window.svg)
 
 ***
 
