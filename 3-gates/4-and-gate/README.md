@@ -5,12 +5,12 @@ Ein AND-Gatter ist eine digitale Schaltung, welche zwei Eingänge und einen Ausg
 
 ## Wahrheitstabelle
 
-| A   | B   |   Y |
-|:--- |:--- | ---:|
-| 0   | 0   |   0 |
-| 0   | 1   |   0 |
-| 1   | 0   |   0 |
-| 1   | 1   |   1 |
+|  A  |  B  |  Y  |
+|:---:|:---:|:---:|
+|  0  |  0  |  0  |
+|  0  |  1  |  0  |
+|  1  |  0  |  0  |
+|  1  |  1  |  1  |
 
 In Schaltplänen wird ein AND-Gatter mit folgendem Symbol dargestellt:
 
@@ -18,7 +18,7 @@ In Schaltplänen wird ein AND-Gatter mit folgendem Symbol dargestellt:
 
 ## Interaktive Schaltung
 
-<VueCircuit id="and-gatter" height="200"/>
+<VueCircuit id="rothe-and-gate"/>
 
 ## Beispiele
 

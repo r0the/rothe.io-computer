@@ -3,10 +3,10 @@
 
 Ein Inverter ist eine Schaltung, bei welcher der Ausgang Y den Wert 1 (hohe Spannung) hat, wenn der Eingang den Wert 0 (tiefe Spannung) hat und umgekehrt.
 
-| A   |   Y |
-|:--- | ---:|
-| 0   |   1 |
-| 1   |   0 |
+|  A  |  Y  |
+|:---:|:---:|
+|  0  |  1  |
+|  1  |  0  |
 
 In Schaltungen wird das folgende Symbol für einen Inverter verwendet:
 
@@ -14,7 +14,7 @@ In Schaltungen wird das folgende Symbol für einen Inverter verwendet:
 
 ## Interaktive Schaltung
 
-<VueCircuit id="rothe-inverter" height="200"/>
+<VueCircuit id="rothe-inverter"/>
 
 ## Beispiele
 
