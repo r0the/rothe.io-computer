@@ -112,14 +112,13 @@
           "page": "3-gates/5-or-gate/"
         },
         {
-          "id": 480779,
-          "title": "NAND-Gatter",
-          "page": "3-gates/6-nand-gate/"
+          "title": "3.6 Rückkopplung",
+          "page": "3-gates/6-feedback/"
         },
         {
-          "id": 132744,
-          "title": "XOR-Gatter",
-          "page": "3-gates/7-xor-gate/"
+          "id": 480779,
+          "title": "NAND-Gatter",
+          "page": "3-gates/7-nand-gate/"
         },
         {
           "id": 32295,

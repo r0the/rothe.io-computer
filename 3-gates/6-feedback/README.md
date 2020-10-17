@@ -1,0 +1,23 @@
+# 3.6 Rückkopplung
+---
+
+Die bisherigen Schaltungen für den Einbruchsalarm haben einen grossen Nachteil: sobald der Bewegungsmelder keine Bewegung mehr entdeckt, wird der Alarm abgestellt.
+
+Ein guter Einbruchsalarm sollte aber nicht mehr abschalten. Die Schaltung sollte die Information, dass eine Bewegung entdeckt wurde, speichern können.
+
+Mit Hilfe eines OR-Gatter kann dies realisiert werden. Dazu wird das Ausgangssignal des OR-Gatters wieder als Eingang verwendet. Das führt dazu, dass das OR-Gatter immer den Wert :1: liefern wird, sobald es einmal diesen Wert im Ausgang angenommen hat.
+
+<VueCircuit id="rothe-feedback"/>
+
+::: info
+#### Rückkopplung
+Wenn der Ausgang einer Schaltung wieder als Eingang verwendet wird, nennt man dies **Rückkopplung**.
+
+Schaltungen mit Rückkopllung ermöglichen das **Speichern** von Daten sowie die Konstruktion von programmierbaren Schaltungen. Die Rückkopplung ist also ein zentrales Konzept für den Bau von Computern.
+:::
+
+## Rückkopplung mit Reset
+
+Natürlich will man die Alarmanlage auch wieder Abschalten können. Dazu kann in der Rückkopplungsschleife ein Reset-Knopf eingebaut werden:
+
+<VueCircuit id="rothe-feedback-with-reset"/>
