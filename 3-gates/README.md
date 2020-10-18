@@ -4,6 +4,7 @@
 ::: warning
 #### TODO
 - Macht es Sinn, die Icons :0: und :1: zu verwenden oder besser einfach 0 und 1?
+- XOR in eigenes Kapitel?
 :::
 
 * [3.1 Schaltung](?page=1-circuit/)
