@@ -7,6 +7,12 @@ Ein guter Einbruchsalarm sollte aber nicht mehr abschalten. Die Schaltung sollte
 
 Mit Hilfe eines OR-Gatter kann dies realisiert werden. Dazu wird das Ausgangssignal des OR-Gatters wieder als Eingang verwendet. Das führt dazu, dass das OR-Gatter immer den Wert :1: liefern wird, sobald es einmal diesen Wert im Ausgang angenommen hat.
 
+![](./feedback.svg)
+
+## Interaktive Schaltung
+
+In dieser interaktiven Schaltung kannst du die Rückkopplung testen:
+
 <VueCircuit id="rothe-feedback"/>
 
 ::: info
