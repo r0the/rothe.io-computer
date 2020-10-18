@@ -13,7 +13,7 @@
    viewBox="0 0 164 93"
    version="1.1"
    id="svg51"
-   sodipodi:docname="nand-gate.svg"
+   sodipodi:docname="xor-gate.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata55">
@@ -85,74 +85,74 @@
   <path
      inkscape:connector-curvature="0"
      id="path22"
-     d="M 84,62 C 95.04688,62 104,53.04688 104,42 104,30.95312 95.04688,22 84,22"
+     d="M 65.51954,32.01954 52,32"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="path24"
-     d="M 62,22 V 62"
+     d="M 65.51954,51.98046 52,52"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="path26"
-     d="M 62,22 H 84"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path28"
-     d="M 62,62 H 84"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path30"
-     d="m 112,42 c 0,5.33204 -8,5.33204 -8,0 0,-5.33204 8,-5.33204 8,0"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path32"
-     d="M 62,32 H 42"
+     d="M 112,42 H 102"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
   <g
-     id="g36"
+     id="g30"
      style="fill:#000000;fill-opacity:1">
     <use
        height="100%"
        width="100%"
-       id="use34"
+       id="use28"
        y="36.715225"
-       x="27.371094"
+       x="37.371094"
        xlink:href="#glyph0-1" />
   </g>
-  <path
-     inkscape:connector-curvature="0"
-     id="path38"
-     d="M 62,52 H 42"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
   <g
-     id="g42"
+     id="g34"
      style="fill:#000000;fill-opacity:1">
     <use
        height="100%"
        width="100%"
-       id="use40"
+       id="use32"
        y="56.715225"
-       x="27.214844"
+       x="37.214844"
        xlink:href="#glyph0-2" />
   </g>
   <g
-     id="g46"
+     id="g38"
      style="fill:#000000;fill-opacity:1">
     <use
        height="100%"
        width="100%"
-       id="use44"
+       id="use36"
        y="46.715225"
-       x="137.74219"
+       x="117.74219"
        xlink:href="#glyph0-3" />
   </g>
   <path
      inkscape:connector-curvature="0"
+     id="path40"
+     d="M 95.60156,42 C 88.22266,29.15626 76.25,21.67968 63.60156,22.01172"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path42"
+     d="M 63.60156,61.98828 C 76.25,62.32032 88.22266,54.84374 95.60156,42"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path44"
+     d="m 62,61.98828 c 6.39844,-12.125 6.39844,-27.85156 0,-39.97656"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path46"
+     d="M 95.60156,42 H 102"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
      id="path48"
-     d="M 132,42 H 112"
+     d="M 63.60156,61.98828 C 70,49.86328 70,34.13672 63.60156,22.01172"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
 </svg>
