@@ -146,11 +146,13 @@
         {
           "id": 507542,
           "title": "Tetra",
+          "icon": "extra",
           "page": "4-architecture/3-tetra/"
         },
         {
           "id": 147200,
           "title": "MOPS",
+          "icon": "extra",
           "page": "4-architecture/4-mops/"
         }
       ]
