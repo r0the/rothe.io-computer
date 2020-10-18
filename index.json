@@ -127,19 +127,22 @@
           "page": "3-gates/6-feedback/"
         },
         {
-          "id": 480779,
-          "title": "3.7 Weitere Gatter",
-          "page": "3-gates/7-other-gates/"
+          "title": "3.7 NAND-Gatter",
+          "page": "3-gates/7-nand-gate/"
+        },
+        {
+          "title": "3.8 XOR-Gatter",
+          "page": "3-gates/8-xor-gate/"
         },
         {
           "id": 32295,
-          "title": "Addierer",
-          "page": "3-gates/8-adder/"
+          "title": "3.9 Addierer",
+          "page": "3-gates/9-adder/"
         },
         {
           "id": 416126,
           "title": "Digitalo",
-          "page": "3-gates/9-digitalo/"
+          "page": "3-gates/A-digitalo/"
         }
       ]
     },
