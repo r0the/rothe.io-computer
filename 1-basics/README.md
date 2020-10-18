@@ -17,6 +17,7 @@
 * [1.6 Netzwerkkarte](?page=network-card/)
 * [1.7 Hauptplatine](?page=mainboard/)
 * [1.8 Stromversorgung](?page=power-supply/)
+* [1.9 Ebenen](?page=layers/)
 
 
 [1]: https://de.wikipedia.org/wiki/Computer

@@ -59,6 +59,11 @@
           "id": 637109,
           "title": "1.8 Stromversorgung",
           "page": "1-basics/8-power-supply/"
+        },
+        {
+          "id": 754123,
+          "title": "1.9 Ebenen",
+          "page": "1-basics/9-layers/"
         }
       ]
     },
@@ -69,14 +74,17 @@
       "page": "2-electronics/",
       "items": [
         {
+          "id": 248911,
           "title": "2.1 Transistoren",
           "page": "2-electronics/1-transistor/"
         },
         {
+          "id": 455930,
           "title": "2.2 Microchips",
           "page": "2-electronics/2-microchip/"
         },
         {
+          "id": 131744,
           "title": "2.3 Moorsches Gesetz",
           "page": "2-electronics/3-moores-law/"
         }
@@ -89,10 +97,12 @@
       "page": "3-gates/",
       "items": [
         {
+          "id": 563988,
           "title": "3.1 Schaltung",
           "page": "3-gates/1-circuit/"
         },
         {
+          "id": 922716,
           "title": "3.2 CircuitVerse",
           "page": "3-gates/2-circuitverse/"
         },
@@ -112,6 +122,7 @@
           "page": "3-gates/5-or-gate/"
         },
         {
+          "id": 395560,
           "title": "3.6 Rückkopplung",
           "page": "3-gates/6-feedback/"
         },
