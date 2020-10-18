@@ -37,7 +37,7 @@ Ein Einbruchsalarm gibt ein akustisches Signal, wenn eine Bewegung entdeckt wurd
 Entwirf je eine Schaltung für die folgenden Szenarien. Du kannst **Inverter**, **AND-Gatter** und **OR-Gatter** verwenden. Gehe für jedes Szenario so vor:
 
 - Erstelle eine Wahrheitstabelle für das Szenario.
-- Entwirf die Schaltung in CircuitVerse.
+- Entwirf die Schaltung in CircuitVerse inklusive Beschriftung.
 - Überprüfe, ob die Schaltung mit der Wahrheitstabelle übereinstimmt.
 
 1. **Autoinnenbeleuchtung:** Die Innenbeleuchtung in einem Auto soll eingeschaltet werden, wenn die linke oder die rechte Türe geöffnet wird.

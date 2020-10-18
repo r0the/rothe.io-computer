@@ -39,7 +39,7 @@ Natürlich können auch mehrere Gatter zu einer Schaltung kombiniert werden. Im 
 Entwirf je eine Schaltung für die folgenden Szenarien. Du kannst **Inverter** und **AND-Gatter** verwenden. Gehe für jedes Szenario so vor:
 
 - Erstelle eine Wahrheitstabelle für das Szenario.
-- Entwirf die Schaltung in CircuitVerse.
+- Entwirf die Schaltung in CircuitVerse inklusive Beschriftung.
 - Überprüfe, ob die Schaltung mit der Wahrheitstabelle übereinstimmt.
 
 1. **Heizung:** Eine Heizung soll nur tagsüber eingeschaltet werden, wenn es kalt ist.

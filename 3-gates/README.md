@@ -4,7 +4,6 @@
 ::: warning
 #### TODO
 - Macht es Sinn, die Icons :0: und :1: zu verwenden oder besser einfach 0 und 1?
-- Ich würde nicht von Strom/kein Strom spechen auf dieser Ebene
 :::
 
 * [3.1 Schaltung](?page=1-circuit/)

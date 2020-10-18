@@ -13,7 +13,7 @@ Mit Hilfe eines OR-Gatter kann dies realisiert werden. Dazu wird das Ausgangssig
 #### Rückkopplung
 Wenn der Ausgang einer Schaltung wieder als Eingang verwendet wird, nennt man dies **Rückkopplung**.
 
-Schaltungen mit Rückkopllung ermöglichen das **Speichern** von Daten sowie die Konstruktion von programmierbaren Schaltungen. Die Rückkopplung ist also ein zentrales Konzept für den Bau von Computern.
+Schaltungen mit Rückkopplung ermöglichen das **Speichern** von Daten sowie die Konstruktion von programmierbaren Schaltungen. Die Rückkopplung ist also ein zentrales Konzept für den Bau von Computern.
 :::
 
 ## Rückkopplung mit Reset
@@ -21,3 +21,8 @@ Schaltungen mit Rückkopllung ermöglichen das **Speichern** von Daten sowie die
 Natürlich will man die Alarmanlage auch wieder Abschalten können. Dazu kann in der Rückkopplungsschleife ein Reset-Knopf eingebaut werden:
 
 <VueCircuit id="rothe-feedback-with-reset"/>
+
+::: exercise Aufgaben
+1. Da manchmal Wasser in deinen Keller eindringt, möchtest du wissen, ob es seit der letzten Kontrolle besonders stark geregnet hat. Ein Feuchtigkeitssensor alleine reicht nicht. Baue eine entsprechend beschriftete Schaltung mit einer Rückkopplung, die speichert, wenn der Niederschlag zu stark war.
+2. Baue einen Druckknopf ein, mit dem du die Anzeige wieder zurücksetzen kannst.
+:::

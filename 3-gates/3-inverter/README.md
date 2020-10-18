@@ -46,4 +46,6 @@ Die Heizung soll einschalten, wenn es **nicht** warm ist.
 
 ::: exercise Aufgabe CircuitVerse
 1. Erstelle in CircuitVerse die Schaltung für die Kühlschrankbeleuchtung mit einem _Button_ als Eingabe und einem _DigitalLed_ als Ausgabe.
+2. Erstelle in CircuitVerse die Schaltung für ein Restaurant in Sizilien, das noch keine Klimaanlage besitzt: Sobald genügend Sonnenlicht (Eingabe _Input_) vorhanden ist, soll das Deckenlicht (Ausgabe _DigitalLed_) ausgeschaltet und ein Ventilator (Ausgabe _Output_) eingeschaltet werden. Beschrifte alle Elemente.
+3. Baue eine Lichterkette mit 6 _DigitalLed_. Jede zweite LED der Lichterkette soll leuchten. Sobald ein Druckknopf (_Button_) gedrückt wird, soll die andere Hälfte der LEDs leuchten. Da es sich um eine Lichterkette handelt, darf nur eine Leitung vom Druckknopf wegführen.
 :::
