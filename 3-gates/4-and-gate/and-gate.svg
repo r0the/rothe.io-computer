@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="160px" height="90px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
-    <g id="path22">
-        <path d="M47.099,31.751L20.741,31.751" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.31px;"/>
-    </g>
-    <g>
-        <text x="8.019px" y="36.467px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:13.179px;">A</text>
-    </g>
-    <g id="path28">
-        <path d="M47.099,57.763L20.741,57.763" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.31px;"/>
-    </g>
-    <g id="path38">
-        <path d="M139.148,44.86L99.816,44.86" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.24px;"/>
-    </g>
-    <g>
-        <path d="M74.101,70.854C88.305,70.854 99.816,59.167 99.816,44.748C99.816,30.766 88.993,19.354 75.386,18.674C74.961,18.652 74.532,18.642 74.101,18.642L47.099,18.642L47.099,71.358L47.099,70.854L75.386,70.854" style="fill:none;stroke:black;stroke-width:1.22px;"/>
-    </g>
-    <g>
-        <text x="8.019px" y="62.479px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:13.179px;">B</text>
-    </g>
-    <g>
-        <text x="143.312px" y="49.717px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:13.179px;">Y</text>
-    </g>
+<svg width="176px" height="96px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M32,32L64,32" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path id="AND-Gatter" d="M64,16L80,16C97.555,16 112,30.445 112,48C112,65.555 97.555,80 80,80L64,80L64,16Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+    <path d="M32,64L64,64" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M112,48L144,48" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <text x="16.824px" y="36.304px" style="font-family:'Helvetica';font-size:12px;">A</text>
+    <text x="16.824px" y="68.304px" style="font-family:'Helvetica';font-size:12px;">B</text>
+    <text x="151.754px" y="52.304px" style="font-family:'Helvetica';font-size:12px;">Y</text>
 </svg>
