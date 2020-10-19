@@ -1,11 +1,6 @@
 # 3 Digitale Logik
 ---
 
-::: warning
-#### TODO
-- Macht es Sinn, die Icons :0: und :1: zu verwenden oder besser einfach 0 und 1?
-:::
-
 * [3.1 Schaltung](?page=1-circuit/)
 * [3.2 CircuitVerse](?page=2-circuitverse/)
 * [3.3 Inverter](?page=3-inverter/)
