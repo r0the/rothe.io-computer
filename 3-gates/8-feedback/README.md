@@ -1,4 +1,4 @@
-# 3.6 Rückkopplung
+# 3.8 Rückkopplung
 ---
 
 Die bisherigen Schaltungen für den Einbruchsalarm haben einen grossen Nachteil: sobald der Bewegungsmelder keine Bewegung mehr entdeckt, wird der Alarm abgestellt.

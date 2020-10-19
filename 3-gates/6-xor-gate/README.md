@@ -1,4 +1,4 @@
-# 3.8 XOR-Gatter
+# 3.6 XOR-Gatter
 ---
 
 Ein XOR-Gatter (engl. *exclusive or*) hat der Ausgang Y dann den Wert :1:, wenn Eingang A **oder** Eingang B **aber** nicht beide den Wert :1: haben.

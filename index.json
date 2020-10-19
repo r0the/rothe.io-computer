@@ -122,9 +122,9 @@
           "page": "3-gates/5-or-gate/"
         },
         {
-          "id": 395560,
-          "title": "3.6 Rückkopplung",
-          "page": "3-gates/6-feedback/"
+          "id": 525253,
+          "title": "3.6 XOR-Gatter",
+          "page": "3-gates/6-xor-gate/"
         },
         {
           "id": 431022,
@@ -132,19 +132,19 @@
           "page": "3-gates/7-nand-gate/"
         },
         {
-          "id": 525253,
-          "title": "3.8 XOR-Gatter",
-          "page": "3-gates/8-xor-gate/"
+          "id": 416126,
+          "title": "Digitalo",
+          "page": "3-gates/A-digitalo/"
+        },
+        {
+          "id": 395560,
+          "title": "3.8 Rückkopplung",
+          "page": "3-gates/8-feedback/"
         },
         {
           "id": 32295,
           "title": "3.9 Addierer",
           "page": "3-gates/9-adder/"
-        },
-        {
-          "id": 416126,
-          "title": "Digitalo",
-          "page": "3-gates/A-digitalo/"
         }
       ]
     },
