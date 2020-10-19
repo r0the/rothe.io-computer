@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="496px" height="176px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M80,48L112,48" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M80,128L112,128" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M384,48L416,48" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    <g id="Lautsprecher">
+        <rect x="416" y="16" width="64" height="64" style="fill:rgb(255,204,128);stroke:black;stroke-width:2px;"/>
+        <path d="M452,30.46L452,34.58C457.78,36.3 462,41.66 462,48C462,54.34 457.78,59.68 452,61.4L452,65.54C460,63.72 466,56.56 466,48C466,39.44 460,32.28 452,30.46M457,48C457,44.46 455,41.42 452,39.94L452,56C455,54.58 457,51.52 457,48M430,42L430,54L438,54L448,64L448,32L438,42L430,42Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g id="Feuchtigkeitssensor">
+        <rect x="16" y="16" width="64" height="64" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+        <path d="M48,31.54L46.5,33.22C46.5,33.22 43.94,36.12 41.36,39.88C38.78,43.64 36,48.14 36,52.46C36,59.043 41.417,64.46 48,64.46C54.583,64.46 60,59.043 60,52.46C60,48.14 57.22,43.64 54.64,39.88C52.06,36.12 49.5,33.22 49.5,33.22L48,31.54M48,37.8C48.88,38.84 49.68,39.7 51.36,42.14C53.78,45.66 56,50.14 56,52.46C56,56.9 52.44,60.46 48,60.46C43.56,60.46 40,56.9 40,52.46C40,50.14 42.22,45.66 44.64,42.14C46.32,39.7 47.12,38.84 48,37.8Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g id="Taster">
+        <rect x="16" y="96" width="64" height="64" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+        <g>
+            <path d="M64,126.5L70.5,126.5L72.5,140.5L23.5,140.5L26.5,126.5L32,126.5" style="fill:none;stroke:black;stroke-width:4px;stroke-linecap:square;"/>
+            <path d="M64,132C64,134.208 56.831,136 48,136C39.169,136 32,134.208 32,132" style="fill:none;stroke:black;stroke-width:4px;"/>
+            <path d="M32,132L32,121" style="fill:none;stroke:black;stroke-width:4px;"/>
+            <path d="M64,132L64,121" style="fill:none;stroke:black;stroke-width:4px;"/>
+            <ellipse cx="48" cy="120" rx="16" ry="4" style="fill:none;stroke:black;stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

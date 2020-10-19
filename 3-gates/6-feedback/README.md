@@ -29,6 +29,9 @@ Natürlich will man die Alarmanlage auch wieder Abschalten können. Dazu kann in
 <VueCircuit id="rothe-feedback-with-reset"/>
 
 ::: exercise Aufgaben
-1. Da manchmal Wasser in deinen Keller eindringt, möchtest du wissen, ob es seit der letzten Kontrolle besonders stark geregnet hat. Ein Feuchtigkeitssensor alleine reicht nicht. Baue eine entsprechend beschriftete Schaltung mit einer Rückkopplung, die speichert, wenn der Niederschlag zu stark war.
+1. Da manchmal Wasser in deinen Keller eindringt, möchtest du wissen, ob es seit der letzten Kontrolle besonders stark geregnet hat. Ein Feuchtigkeitssensor alleine reicht nicht. Baue in **CircuitVerse** eine entsprechend beschriftete Schaltung mit einer Rückkopplung, die speichert, wenn der Niederschlag zu stark war.
 2. Baue einen Druckknopf ein, mit dem du die Anzeige wieder zurücksetzen kannst.
+
+    ![](./rain-check.svg)
+
 :::

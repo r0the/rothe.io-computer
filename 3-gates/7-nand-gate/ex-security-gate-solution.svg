@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="400px" height="192px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M288,96L320,96" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M80,144L112,144" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M80,48L112,48" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    <g id="Licht">
+        <rect x="320" y="64" width="64" height="64" style="fill:rgb(255,204,128);stroke:black;stroke-width:2px;"/>
+        <path d="M340,86.8L335.74,82.56L338.56,79.74L342.8,84L340,86.8M354,75L354,81L350,81L350,75L354,75M368.26,82.56L364,86.8L361.2,84L365.44,79.74L368.26,82.56M337,94L337,98L331,98L331,94L337,94M367,94L373,94L373,98L367,98L367,94M340,113L364,113C366.194,113 368,114.806 368,117L336,117C336,114.806 337.806,113 340,113M352,83C358.583,83 364,88.417 364,95L364,111L340,111L340,95C340,88.417 345.417,83 352,83M352,87C347.611,87 344,90.611 344,95L344,107L360,107L360,95C360,90.611 356.389,87 352,87Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g id="Taster">
+        <rect x="16" y="112" width="64" height="64" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+        <g>
+            <path d="M64,142.5L70.5,142.5L72.5,156.5L23.5,156.5L26.5,142.5L32,142.5" style="fill:none;stroke:black;stroke-width:4px;stroke-linecap:square;"/>
+            <path d="M64,148C64,150.208 56.831,152 48,152C39.169,152 32,150.208 32,148" style="fill:none;stroke:black;stroke-width:4px;"/>
+            <path d="M32,148L32,137" style="fill:none;stroke:black;stroke-width:4px;"/>
+            <path d="M64,148L64,137" style="fill:none;stroke:black;stroke-width:4px;"/>
+            <ellipse cx="48" cy="136" rx="16" ry="4" style="fill:none;stroke:black;stroke-width:4px;"/>
+        </g>
+    </g>
+    <g id="Taster1" serif:id="Taster">
+        <rect x="16" y="16" width="64" height="64" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+        <g>
+            <path d="M64,46.5L70.5,46.5L72.5,60.5L23.5,60.5L26.5,46.5L32,46.5" style="fill:none;stroke:black;stroke-width:4px;stroke-linecap:square;"/>
+            <path d="M64,52C64,54.208 56.831,56 48,56C39.169,56 32,54.208 32,52" style="fill:none;stroke:black;stroke-width:4px;"/>
+            <path d="M32,52L32,41" style="fill:none;stroke:black;stroke-width:4px;"/>
+            <path d="M64,52L64,41" style="fill:none;stroke:black;stroke-width:4px;"/>
+            <ellipse cx="48" cy="40" rx="16" ry="4" style="fill:none;stroke:black;stroke-width:4px;"/>
+        </g>
+    </g>
+    <g id="Lösung">
+        <g id="NAND-Gatter">
+            <path d="M208,96C208,100.389 204.389,104 200,104C195.611,104 192,100.389 192,96C192,91.611 195.611,88 200,88C204.386,88 207.996,91.606 208,95.992" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            <path id="AND-Gatter" d="M144,64L160,64C177.555,64 192,78.445 192,96C192,113.555 177.555,128 160,128L144,128L144,64Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        </g>
+        <path d="M112,48L112,80L144,80" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+        <path d="M112,144L112,112L144,112" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+        <path d="M208,96L288,96" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    </g>
+</svg>
