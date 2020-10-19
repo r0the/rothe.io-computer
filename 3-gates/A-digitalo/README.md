@@ -120,21 +120,21 @@ Betrachten wir wieder ein Beispiel:
 
 Spieler 2 ist an der Reihe und möchte einen Inverter auf eine der Bit-Karten spielen. Er hat folgende Möglichkeiten:
 
-1. Bit-Karte wird gedreht. Alle Gatterkarten sowohl bei Spieler 1 als auch bei Spieler 2 sind aber trotz dem Tauschen des ersten Eingangs nach wie vor gültig:
+1. Oberste Bit-Karte wird gedreht. Alle Gatterkarten sowohl bei Spieler 1 als auch bei Spieler 2 sind aber trotz dem Tauschen des ersten Eingangs nach wie vor gültig:
     - Für Spieler 1 gilt dann: 0 OR 1 = 1 (ohne Änderung).
     - Für Spieler 2 gilt dann: 1 AND 0 = 0 (ohne Änderung). Der Inverter hätte keinen Effekt.
 
 ![](./inverter-2.svg)
 
-2. Bit-Karte wird gedreht. Allerdings werden nun beide XOR-Gatter von Spieler 1 und Spieler 2 ungültig und müssen auf den Ablagestapel gelegt werden. Die rot umkreisten Gatterkarten werden inaktiv, da sie nicht mehr mit beiden Eingängen belegt sind. Diese Spielvariante hält Spieler 1 zwar davon ab, das Spiel zu beenden (Position 6 darf nicht belegt werden, da die beiden Gatter inaktiv sind), allerdings verliert auch Spieler 2 eine Gatterkarte.
+2. Zweitoberste Bit-Karte wird gedreht. Allerdings werden nun beide XOR-Gatter von Spieler 1 und Spieler 2 ungültig und müssen auf den Ablagestapel gelegt werden. Die rot umkreisten Gatterkarten werden inaktiv, da sie nicht mehr mit beiden Eingängen belegt sind. Diese Spielvariante hält Spieler 1 zwar davon ab, das Spiel zu beenden (Position 6 darf nicht belegt werden, da die beiden Gatter inaktiv sind), allerdings verliert auch Spieler 2 eine Gatterkarte.
 
 ![](./inverter-3.svg)
 
-3. Bit-Karte wird gedreht. Auch hier werden nun beide XOR-Gatter von Spieler 1 und Spieler 2 ungültig und müssen auf den Ablagestapel gelegt werden. Damit wird das NAND-Gatter von Spieler 2 inaktiv. Weiterhin verliert Spieler 1 aber auch sein NAND-Gatter, da dann 1 AND 1 = 0 ist. Ebenso muss das OR-Gatter ganz links auf den Ablagestapel gelegt werden, da es keinen einzigen Eingang mehr besitzt.
+3. Drittoberste Bit-Karte wird gedreht. Auch hier werden nun beide XOR-Gatter von Spieler 1 und Spieler 2 ungültig und müssen auf den Ablagestapel gelegt werden. Damit wird das NAND-Gatter von Spieler 2 inaktiv. Weiterhin verliert Spieler 1 aber auch sein NAND-Gatter, da dann 1 AND 1 = 0 ist. Ebenso muss das OR-Gatter ganz links auf den Ablagestapel gelegt werden, da es keinen einzigen Eingang mehr besitzt.
 
 ![](./inverter-4.svg)
 
-4. Bit-Karte wird gedreht. Hier passiert wieder nichts.
+4. Unterste Bit-Karte wird gedreht. Hier passiert wieder nichts.
 
 ![](./inverter-5.svg)
 :::
