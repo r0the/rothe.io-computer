@@ -7,8 +7,8 @@
 
 * [:pdf: Hinweise für die LP](./Neumann-Rollenspiel-Hinweise-LP.pdf)
 * [:docx: Hinweise für die lP](./Neumann-Rollenspiel-Hinweise-LP.docx)
-* [:pdf: Druckvorlage](./Neumann-Rollenspiel-Hinweise-LP.pdf)
-* [:docx: Druckvorlage](./Neumann-Rollenspiel-Hinweise-LP.docx)
+* [:pdf: Druckvorlage](./Neumann-Rollenspiel-Druckvorlage.pdf)
+* [:docx: Druckvorlage](./Neumann-Rollenspiel-Druckvorlage.docx)
 
 ## Von Neumann
 
@@ -66,4 +66,3 @@ Hier kann z.B. der Vergleich zu einer richtigen CPU gemacht werden. Die Stoppuhr
 - Fetch-Decode-Execute-Prinzip
 - Ein Programm wird aus unzähligen einfachen Anweisungen aufgebaut.
 - Programmiersprachen mit ihren Konstrukten vereinfachen uns die Arbeit und abstrahieren die benutzte Hardware.
-
