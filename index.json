@@ -93,7 +93,7 @@
     {
       "id": 86120,
       "title": "3 Digitale Logik",
-      "icon": "construction",
+      "course": "23",
       "page": "3-gates/",
       "items": [
         {
@@ -127,10 +127,12 @@
           "page": "3-gates/6-feedback/"
         },
         {
+          "id": 431022,
           "title": "3.7 NAND-Gatter",
           "page": "3-gates/7-nand-gate/"
         },
         {
+          "id": 525253,
           "title": "3.8 XOR-Gatter",
           "page": "3-gates/8-xor-gate/"
         },
