@@ -1,8 +1,6 @@
 # CPU-Rollenspiel
 ---
 
-**TODO**: Fehlerkontrolle (Neue Programme)
-
 ## Material
 
 * [:pdf: Hinweise für die LP](./Neumann-Rollenspiel-Hinweise-LP.pdf)
@@ -62,7 +60,8 @@ Hier kann z.B. der Vergleich zu einer richtigen CPU gemacht werden. Die Stoppuhr
 
 **Zentrale Punkte**:
 - Ein Computer kann nur wenige, simple Dinge, dafür in horrendem Tempo.
-- Ein Programm besteht auch nur aus Zahlen (braucht Dekoder).
+- Ein Programm besteht aus unzähligen, sehr simplen Anweisungen (= lauter Zahlen)
 - Fetch-Decode-Execute-Prinzip
-- Ein Programm wird aus unzähligen einfachen Anweisungen aufgebaut.
-- Programmiersprachen mit ihren Konstrukten vereinfachen uns die Arbeit und abstrahieren die benutzte Hardware.
+- Was ist der Unterschied zwischen den 10 Anweisungen des Steuerwerks und den Anweisungen, die das Steuerwerk vom Dekodierwerk erhält?
+  - die 10 Anweisungen sind allgemein und immer gleich (= Ablauf eines Taktes)
+  - die Befehle, die das Dekodierwerk liefert, kommen aus dem Speicher (= Programm)
