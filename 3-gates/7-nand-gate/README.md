@@ -1,7 +1,7 @@
 # 3.7 NAND-Gatter
 ---
 
-Ein NAND-Gatter (engl. *not and*) hat der Ausgang Y dann den Wert 0 (tiefe Spannung), wenn Eingange A **und** Eingang B den Wert 1 (hohe Spannung) haben.
+Ein NAND-Gatter (engl. *not and*) hat der Ausgang Y dann den Wert :0:, wenn Eingange A **und** Eingang B den Wert :1: haben.
 
 |  A  |  B  |  Y  |
 |:---:|:---:|:---:|
