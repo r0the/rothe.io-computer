@@ -17,3 +17,13 @@ In Schaltplänen wird ein XOR-Gatter mit folgendem Symbol dargestellt:
 ## Interaktive Schaltung
 
 <VueCircuit id="rothe-xor-gate"/>
+
+::: exercise Aufgaben
+
+Entwirf je eine Schaltung für die folgenden Szenarien. Du kannst **OR-Gatter** oder **XOR-Gatter** sowie **Inverter** verwenden. Gehe für jedes Szenario so vor:
+
+- Erstelle eine Wahrheitstabelle für das Szenario.
+- Entwirf die Schaltung in CircuitVerse inklusive Beschriftung.
+- Überprüfe, ob die Schaltung mit der Wahrheitstabelle übereinstimmt.
+
+1. **Schwimmbadabdeckung**: Ein Schwimmbecken verfügt auf einer Seite über eine aufgerollte Abdeckung. Diese wird beim Schliessen von einem Motor mit zwei Seilen über das Schwimmbecken gezogen. Beim Öffnen wird die Abdeckung von einem anderen Motor aufgerollt. Jeder Motor wird mit einem eigenen Druckknopf in Gang gebracht. Es soll sichergestellt werden, dass nie beide Motoren gleichzeitig laufen und dadurch die Abdeckung in Stücke reissen.
