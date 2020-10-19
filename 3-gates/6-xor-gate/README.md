@@ -32,6 +32,8 @@ Entwirf je eine Schaltung für die folgenden Szenarien. Du kannst **OR-Gatter** 
 :::
 
 ::: exercise Aufgaben
-Analysiere die folgende Schaltung, indem du eine Wahrheitstabelle erstellst. Kann man die Schaltung vereinfachen? Wenn ja, wie?
+Analysiere die folgende Schaltungen, indem du eine Wahrheitstabelle erstellst. Kann man die Schaltung vereinfachen? Wie?
 
 1. ![](./cv-XOR-AND.png)
+
+2. ![](./cv-4-XOR.png)
