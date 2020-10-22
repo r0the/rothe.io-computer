@@ -71,6 +71,15 @@ Entwirf je eine Schaltung für die folgenden Szenarien. Du kannst **Inverter** u
 :::
 
 
+::: exercise Aufgabe
+
+Analysiere die folgende Schaltung, indem du eine Wahrheitstabelle erstellst. Was macht die Schaltung eigentlich?
+
+![](./cv-3-AND.png)
+
+:::
+
+
 ::: extra Zusatzaufgabe
 
 Wie viele unterschiedliche digitale Schaltungen mit zwei Eingängen und einem Ausgang sind möglich?

@@ -67,3 +67,12 @@ Entwirf je eine Schaltung für die folgenden Szenarien. Du kannst **Inverter**, 
 ![](./ex-intruder-alert-solution.svg)
 
 :::
+
+
+::: exercise Aufgabe
+
+Analysiere die folgende Schaltung, indem du eine Wahrheitstabelle erstellst. Was macht die Schaltung eigentlich? Wie kann man sie vereinfachen?
+
+![](./cv-NOT-OR-NOT.png)
+
+:::
