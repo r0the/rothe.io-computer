@@ -93,7 +93,7 @@ Nun siehst du das Projekt in der Übersicht. Es ist gespeichert und du kannst es
 3. Platziere die beiden ersten Eingabeelemente **Input** und **Button** in der Registerkarte **Erste Schritte** untereinander und lege rechts davon die beiden Ausgabeelemente **Output** und **DigitalLed** ab. Verbinde jeweils ein Eingabeelement mit einem Ausgabeelement und teste die Ein- und Ausgabe durch umschalten der Eingabewerte.
 4. Speichere das Projekt und öffne es wieder.
 5. Beschrifte sämtliche Ein- und Ausgabeelemente und wähle einen sinnvollen Platz für die Beschriftungen.
-6. Speichere für die Aufgabe ab (dies wird in Zukunft nicht mehr erwähnt, sondern versteht sich von selbst).
+6. Speichere die Aufgabe ab (dies wird in Zukunft nicht mehr erwähnt, sondern versteht sich von selbst).
 :::
 
 Am besten legst du für jede Aufgabe oder zumindest für jedes Kapitel eine neue Registerkarte an, indem du oben im Menü auf _Circuit_ und dann _New Circuit +_ klickst:

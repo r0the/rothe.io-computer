@@ -30,3 +30,5 @@ Während vier Doppellektionen vier mit je einem Viertel der Klasse (6 Schüler*i
 Die restlichen Schüler*innen arbeiten selbständig an den folgenden Themen:
 
 - Rechnen mit Strom
+
+* [:mdi-presentation: Einführungspräsentation (PPTX)](./digitale-logik.pptx)
