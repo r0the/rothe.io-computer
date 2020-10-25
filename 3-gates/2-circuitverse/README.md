@@ -51,11 +51,60 @@ Im nächsten Bereich _Gates_ befinden sich alle benötigten Logikgatter. Diese w
 
 ![verfügbare Logikgatter](./cv-gates.png)
 
+## CircuitVerse-Konto erstellen
+
+Um in CircuitVerse ein eigenes Benutzerkonto anzulegen, musst du zuerst im Menü oben rechts auf _Login_ klicken:
+
+![](./cv-signup-1.png)
+
+Anschliessend wählst du unterhalb des Login-Formulars den Link _Sign up_:
+
+![](./cv-signup-2.png)
+
+Schliesslich füllst du die Benutzerdaten aus (am besten die Schul-E-Mail-Adresse angeben) und klickst auf den grünen _Sign up_-Knopf:
+
+![](./cv-signup-3.png)
+
+::: exercise Aufgabe
+Erstelle ein eigenes Benutzerkonto bei [CircuitVerse](https://circuitverse.org/users/sign_up), damit du die eigenen Schaltungen abspeichern kannst (bitte den richtigen Namen und die Schul-E-Mail-Adresse verwenden).
+:::
+
+## Mit CircuitVerse arbeiten
+
+Nach dem Einloggen klickst du im Menü oben rechts auf _Simulator_:
+
+![](./cv-signup-1.png)
+
+Sobald du auf das weisse Häuschenblatt klickst, werden rechts die _Project Properties_ angezeigt. Dort kannst du das Projekt _Project_ und die aktuelle Registerkarte _Circuit_ benennen:
+
+![](./cv-project-properties.png)
+
+Anschliessend kannst du das Projekt speichern. Dabei wählst du am besten aus, dass es sich um ein privates Projekt handelt. Schliesslich klickst du auf _Update Project_:
+
+![](./cv-save-project.png)
+
+Nun siehst du das Projekt in der Übersicht. Es ist gespeichert und du kannst es jederzeit wieder durch einen Klick auf _Launch simulator_ öffnen:
+
+![](./cv-project.png)
 
 ::: exercise Aufgaben
-1. Erstelle ein Benutzerkonto bei [CircuitVerse](https://circuitverse.org/users/sign_up), damit du die eigenen Schaltungen abspeichern kannst (bitte den richtigen Namen und die Schul-E-Mail-Adresse verwenden).
-2. Wechsle zum [Simulator](https://circuitverse.org/simulator).
-3. Platziere die beiden ersten Eingabeelemente **Input** und **Button** untereinander und lege rechts davon die beiden Ausgabeelemente **Output** und **DigitalLed** ab. Verbinde jeweils ein Eingabeelement mit einem Ausgabeelement und teste die Ein- und Ausgabe durch umschalten der Eingabewerte.
-4. Beschrifte sämtliche Ein- und Ausgabeelemente und wähle einen sinnvollen Platz für die Beschriftungen.
-5. Speichere für die Aufgabe ab (dies wird in Zukunft nicht mehr erwähnt, sondern versteht sich von selbst).
+1. Nach dem Login wechselst du zum [Simulator](https://circuitverse.org/simulator).
+2. Benenne das Projekt «Aufgaben» und die aktuelle Registerkarte «Erste Schritte».
+3. Platziere die beiden ersten Eingabeelemente **Input** und **Button** in der Registerkarte **Erste Schritte** untereinander und lege rechts davon die beiden Ausgabeelemente **Output** und **DigitalLed** ab. Verbinde jeweils ein Eingabeelement mit einem Ausgabeelement und teste die Ein- und Ausgabe durch umschalten der Eingabewerte.
+4. Speichere das Projekt und öffne es wieder.
+5. Beschrifte sämtliche Ein- und Ausgabeelemente und wähle einen sinnvollen Platz für die Beschriftungen.
+6. Speichere für die Aufgabe ab (dies wird in Zukunft nicht mehr erwähnt, sondern versteht sich von selbst).
 :::
+
+Am besten legst du für jede Aufgabe oder zumindest für jedes Kapitel eine neue Registerkarte an, indem du oben im Menü auf _Circuit_ und dann _New Circuit +_ klickst:
+
+![](./cv-new-circuit.png)
+
+::: exercise Aufgaben
+1. Erstelle eine neue Registerkarte für die Inverter-Aufgaben im nächsten Kapitel.
+2. Vergiss nicht, die Aufgaben immer wieder zu speichern – insbesondere am Lektionsende!
+:::
+
+Im Dashboard – zugänglich oben rechts im Menü beim eigenen Namen – kannst du stets eine Übersicht deiner gespeicherten Projekte erhalten:
+
+![](./cv-dashboard.png)
