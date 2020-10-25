@@ -31,14 +31,15 @@ Wie könnte eine Schaltung mit dieser Wahrheitstabelle wohl aussehen?
 
 Um einfache Schaltungen erstellen zu können, benötigen wir ein paar einfachen Ein- und Ausgabemöglichkeiten.  Wir haben folgende Eingabemöglichkeiten für unsere Schaltungen:
 
-|                               |                                                                       |
-| -----------------------------:|:--------------------------------------------------------------------- |
-|      ![](./sensor-button.svg) | Druckknopf, liefert Eingabe :1:, wenn er gedrückt wird.               |
-|      ![](./sensor-switch.svg) | Schalter, kann ein- oder ausgeschaltet werden.                        |
-| ![](./sensor-temperature.svg) | Temperatursensor, liefert als Eingabe :1:, wenn es warm ist.          |
-|       ![](./sensor-light.svg) | Lichtsensor, liefert als Eingabe :1:, wenn es hell ist.               |
-|    ![](./sensor-humidity.svg) | Feuchtigkeitssensor, liefert als Eingabe :1:, wenn es feucht ist.     |
-|    ![](./sensor-movement.svg) | Bewegungssensor, liefer als Eingabe :1:, wenn Bewegung entdeckt wird. |
+|                               |                                                                        |
+| -----------------------------:|:---------------------------------------------------------------------- |
+|      ![](./sensor-button.svg) | Druckknopf, liefert Eingabe :1:, wenn er gedrückt wird.                |
+|      ![](./sensor-switch.svg) | Schalter, kann ein- oder ausgeschaltet werden.                         |
+| ![](./sensor-temperature.svg) | Temperatursensor, liefert als Eingabe :1:, wenn es warm ist.           |
+|       ![](./sensor-light.svg) | Lichtsensor, liefert als Eingabe :1:, wenn es hell ist.                |
+|    ![](./sensor-humidity.svg) | Feuchtigkeitssensor, liefert als Eingabe :1:, wenn es feucht ist.      |
+|    ![](./sensor-movement.svg) | Bewegungssensor, liefert als Eingabe :1:, wenn Bewegung entdeckt wird. |
+|  ![](./sensor-microphone.svg) | Mikrofon, liefert als Eingabe :1:, wenn ein Geräusch entdeckt wird.    |
 
 Für die Ausgabe stehen folgende Geräte zu Verfügung:
 
