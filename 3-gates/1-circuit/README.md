@@ -53,16 +53,22 @@ Für die Ausgabe stehen folgende Geräte zu Verfügung:
 
 ## Direkte Verbindung
 
-Die einfachste Schaltung ist die direkte Verbindung zwischen Ein- und Ausgabe. Betrachten wir ein paar Beispiele:
+Die einfachste Schaltung ist die direkte Verbindung zwischen Ein- und Ausgabe.
 
-### Türklingel
+::: example Beispiel: Türklingel
 
 Es klingelt, wenn die Taste gedrückt wird.
 
 ![](./door-bell.svg)
+:::
 
-### Feueralarm
+## Verzweigung
+
+Eine Leitung kann auf verzweigt werden. Die Verzweigung wird durch einen kleinen ausgefüllten Kreis markiert.
+
+::: example Beispiel: Feueralarm
 
 Wenn es brennt (zu hohe Temperatur), so soll ein Warnlicht angeschaltet werden und ein akustisches Signal ertönen.
 
 ![](./fire-alarm.svg)
+:::
