@@ -35,4 +35,5 @@
             <path d="M176,128C176,132.389 172.389,136 168,136C163.611,136 160,132.389 160,128C160,123.611 163.611,120 168,120C172.386,120 175.996,123.606 176,127.992" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
         </g>
     </g>
+    <circle cx="384" cy="48" r="4"/>
 </svg>

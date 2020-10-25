@@ -34,4 +34,8 @@ Natürlich will man die Alarmanlage auch wieder Abschalten können. Dazu kann in
 
     ![](./rain-check.svg)
 
+***
+
+![](./rain-check-solution.svg)
+
 :::
