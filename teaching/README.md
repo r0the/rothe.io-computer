@@ -13,9 +13,18 @@ https://www.youtube.com/watch?v=5PJZz04JGjs
 
 ### 1. Doppellektion – Begriffe
 
-* [:mdi-presentation: Präsentation (PPTX)](./hardware-1.pptx)
-* [:mdi-file-pdf: Präsentation (PDF)](./hardware-1.pdf)
+* [:pptx: Präsentation (PPTX)](./hardware-1.pptx)
+* [:pdf: Präsentation (PDF)](./hardware-1.pdf)
 * [:pdf: Arbeitsblatt Speicherhiearchie](./arbeitsblatt-speicherhierarchie.pdf)
+
+
+## 2. Doppellektion – Einführung Digitale Logik
+
+* [:pdf: Einführungspräsentation](./digitale-logik-1-circuitverse.pdf)
+* [:pptx: Einführungspräsentation](./digitale-logik-1-circuitverse.pptx)
+* [:pdf: Gatter](./digitale-logik-2-gatter.pdf)
+* [:pptx: Gatter](./digitale-logik-2-gatter.pptx)
+
 
 ### Eine Doppellektionen betreut
 
@@ -28,7 +37,3 @@ Während vier Doppellektionen vier mit je einem Viertel der Klasse (6 Schüler*i
 ### Drei Doppellektionen unbetreut
 
 Die restlichen Schüler*innen arbeiten selbständig an den folgenden Themen:
-
-- Rechnen mit Strom
-
-* [:mdi-presentation: Einführungspräsentation (PPTX)](./digitale-logik.pptx)
