@@ -5,6 +5,30 @@ Wir arbeiten in diesem Kapitel zu den Logikgattern mit der Online-Plattform [Cir
 
 * [:link: CircuitVerse](https://circuitverse.org/)
 
+## CircuitVerse-Konto erstellen
+
+Um in CircuitVerse ein eigenes Benutzerkonto anzulegen, musst du zuerst im Menü oben rechts auf _Login_ klicken:
+
+![](./cv-signup-1.svg)
+
+Anschliessend wählst du unterhalb des Login-Formulars den Link _Sign up_:
+
+![](./cv-signup-2.svg)
+
+Schliesslich füllst du die Benutzerdaten aus (am besten die Schul-E-Mail-Adresse angeben) und klickst auf den grünen _Sign up_-Knopf:
+
+![](./cv-signup-3.png)
+
+::: exercise Aufgabe
+Erstelle ein eigenes Benutzerkonto bei [CircuitVerse](https://circuitverse.org/users/sign_up), damit du die eigenen Schaltungen abspeichern kannst (bitte den richtigen Namen und die Schul-E-Mail-Adresse verwenden).
+:::
+
+## Simulator starten
+
+Nach dem Einloggen klickst du im Menü oben rechts auf _Simulator_, um in den Simulator zu wechseln:
+
+![](./cv-simulator.svg)
+
 ## Eingabeelemente
 
 Es stehen etliche Eingabeelemente zur Auswahl, wir verwenden allerdings nur die beiden ersten (_Input_ und _Button_). Die Elemente werden links in der Spalte der _Circuit Elements_ im Bereich _Input_ ausgewählt und anschliessend im Arbeitsbereich wie gewünscht platziert.
@@ -51,29 +75,8 @@ Im nächsten Bereich _Gates_ befinden sich alle benötigten Logikgatter. Diese w
 
 ![verfügbare Logikgatter](./cv-gates.png)
 
-## CircuitVerse-Konto erstellen
 
-Um in CircuitVerse ein eigenes Benutzerkonto anzulegen, musst du zuerst im Menü oben rechts auf _Login_ klicken:
-
-![](./cv-signup-1.png)
-
-Anschliessend wählst du unterhalb des Login-Formulars den Link _Sign up_:
-
-![](./cv-signup-2.png)
-
-Schliesslich füllst du die Benutzerdaten aus (am besten die Schul-E-Mail-Adresse angeben) und klickst auf den grünen _Sign up_-Knopf:
-
-![](./cv-signup-3.png)
-
-::: exercise Aufgabe
-Erstelle ein eigenes Benutzerkonto bei [CircuitVerse](https://circuitverse.org/users/sign_up), damit du die eigenen Schaltungen abspeichern kannst (bitte den richtigen Namen und die Schul-E-Mail-Adresse verwenden).
-:::
-
-## Mit CircuitVerse arbeiten
-
-Nach dem Einloggen klickst du im Menü oben rechts auf _Simulator_:
-
-![](./cv-signup-1.png)
+## Projekt speichern
 
 Sobald du auf das weisse Häuschenblatt klickst, werden rechts die _Project Properties_ angezeigt. Dort kannst du das Projekt _Project_ und die aktuelle Registerkarte _Circuit_ benennen:
 
