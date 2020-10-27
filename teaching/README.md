@@ -13,17 +13,17 @@ https://www.youtube.com/watch?v=5PJZz04JGjs
 
 ### 1. Doppellektion – Begriffe
 
-* [:pptx: Präsentation (PPTX)](./hardware-1.pptx)
-* [:pdf: Präsentation (PDF)](./hardware-1.pdf)
+* [:pptx: Präsentation (PPTX)](./1-grundlagen.pptx)
+* [:pdf: Präsentation (PDF)](./1-grundlagen.pdf)
 * [:pdf: Arbeitsblatt Speicherhiearchie](./arbeitsblatt-speicherhierarchie.pdf)
 
 
 ## 2. Doppellektion – Einführung Digitale Logik
 
-* [:pdf: Einführungspräsentation](./digitale-logik-1-circuitverse.pdf)
-* [:pptx: Einführungspräsentation](./digitale-logik-1-circuitverse.pptx)
-* [:pdf: Gatter](./digitale-logik-2-gatter.pdf)
-* [:pptx: Gatter](./digitale-logik-2-gatter.pptx)
+* [:pdf: Einführungspräsentation](./3-1-digitale-logik-circuitverse.pdf)
+* [:pptx: Einführungspräsentation](./3-1-digitale-logik-circuitverse.pptx)
+* [:pdf: Gatter](./3-2-digitale-logik-gatter.pdf)
+* [:pptx: Gatter](./3-2-digitale-logik-gatter.pptx)
 
 
 ### Eine Doppellektionen betreut
