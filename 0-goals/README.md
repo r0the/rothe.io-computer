@@ -10,8 +10,8 @@
 
 ::: goal Lernziele Digitale Logik
 - Du kannst einfache Schaltungen entwerfen und verstehen.
-- Du kennst die Funktionsweise von Inverter, AND-Gatter, OR-Gatter, NAND-Gatter und XOR-Gatter.
-- Du erklärst die Bedeutung der Rückkopplung in Schaltungen für die Konstruktion von Computern.
+- Du kennst den Inverter sowie die vier Gatter AND, OR, NAND und XOR (Symbol, Funktionsweise und Wahrheitstabelle).
+- Du erklärst die Bedeutung der Rückkopplung in Schaltungen.
 - Du verstehst den Aufbau einer Schaltung zur Addition von Zahlen (Volladdierer).
 - Du erklärst die grundlegende Bedeutung des NAND-Gatters.
 :::
