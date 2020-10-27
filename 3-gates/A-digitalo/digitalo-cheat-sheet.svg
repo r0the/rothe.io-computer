@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="736px" height="1360px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g>
+        <g id="XOR-0" serif:id="XOR 0">
+            <path d="M8,1009.4C8,1013.04 10.957,1016 14.6,1016L133.4,1016C137.043,1016 140,1013.04 140,1009.4L140,816.6C140,812.957 137.043,810 133.4,810L14.6,810C10.957,810 8,812.957 8,816.6L8,1009.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M136,812L92,836L92,876" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M12,812L56,836L56,876" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M73.73,924L73.73,1016" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="49" y="954" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero" x="60.107px" y="996.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+            <g id="XOR">
+                <path d="M113.73,881.069C113.73,900.713 94.087,930.178 74.443,940C54.799,930.178 35.155,900.713 35.155,881.069C74.443,900.713 74.443,900.713 113.73,881.069Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:5.89px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+                <path d="M113.191,861.807C103.958,874.515 89.168,882.051 73.461,882.051C57.753,882.051 42.963,874.515 33.73,861.807" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:5.89px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            </g>
+            <path d="M8,1009.4C8,1013.04 10.957,1016 14.6,1016L133.4,1016C137.043,1016 140,1013.04 140,1009.4L140,816.6C140,812.957 137.043,810 133.4,810L14.6,810C10.957,810 8,812.957 8,816.6L8,1009.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="XOR-1" serif:id="XOR 1">
+            <path d="M204,1009.4C204,1013.04 206.957,1016 210.6,1016L329.4,1016C333.043,1016 336,1013.04 336,1009.4L336,816.6C336,812.957 333.043,810 329.4,810L210.6,810C206.957,810 204,812.957 204,816.6L204,1009.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M332,812L288,836L288,876" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M208,812L252,836L252,876" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M269.73,924L269.73,1016" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="245" y="954" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One" x="257.215px" y="996.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+            <g id="XOR1" serif:id="XOR">
+                <path d="M309.73,881.069C309.73,900.713 290.087,930.178 270.443,940C250.799,930.178 231.155,900.713 231.155,881.069C270.443,900.713 270.443,900.713 309.73,881.069Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:5.89px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+                <path d="M309.191,861.807C299.958,874.515 285.168,882.051 269.461,882.051C253.753,882.051 238.963,874.515 229.73,861.807" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:5.89px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            </g>
+            <path d="M204,1009.4C204,1013.04 206.957,1016 210.6,1016L329.4,1016C333.043,1016 336,1013.04 336,1009.4L336,816.6C336,812.957 333.043,810 329.4,810L210.6,810C206.957,810 204,812.957 204,816.6L204,1009.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="XOR-01" serif:id="XOR 0">
+            <path d="M596,1009.4C596,1013.04 598.957,1016 602.6,1016L721.4,1016C725.043,1016 728,1013.04 728,1009.4L728,816.6C728,812.957 725.043,810 721.4,810L602.6,810C598.957,810 596,812.957 596,816.6L596,1009.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M724,812L680,836L680,876" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M600,812L644,836L644,876" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M661.73,924L661.73,1016" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="637" y="954" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero1" serif:id="Zero" x="648.107px" y="996.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+            <g id="XOR2" serif:id="XOR">
+                <path d="M701.73,881.069C701.73,900.713 682.087,930.178 662.443,940C642.799,930.178 623.155,900.713 623.155,881.069C662.443,900.713 662.443,900.713 701.73,881.069Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:5.89px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+                <path d="M701.191,861.807C691.958,874.515 677.168,882.051 661.461,882.051C645.753,882.051 630.963,874.515 621.73,861.807" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:5.89px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            </g>
+            <path d="M596,1009.4C596,1013.04 598.957,1016 602.6,1016L721.4,1016C725.043,1016 728,1013.04 728,1009.4L728,816.6C728,812.957 725.043,810 721.4,810L602.6,810C598.957,810 596,812.957 596,816.6L596,1009.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="XOR-11" serif:id="XOR 1">
+            <path d="M400,1009.4C400,1013.04 402.957,1016 406.6,1016L525.4,1016C529.043,1016 532,1013.04 532,1009.4L532,816.6C532,812.957 529.043,810 525.4,810L406.6,810C402.957,810 400,812.957 400,816.6L400,1009.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M528,812L484,836L484,876" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M404,812L448,836L448,876" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M465.73,924L465.73,1016" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="441" y="954" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One1" serif:id="One" x="453.215px" y="996.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+            <g id="XOR3" serif:id="XOR">
+                <path d="M505.73,881.069C505.73,900.713 486.087,930.178 466.443,940C446.799,930.178 427.155,900.713 427.155,881.069C466.443,900.713 466.443,900.713 505.73,881.069Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:5.89px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+                <path d="M505.191,861.807C495.958,874.515 481.168,882.051 465.461,882.051C449.753,882.051 434.963,874.515 425.73,861.807" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:5.89px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            </g>
+            <path d="M400,1009.4C400,1013.04 402.957,1016 406.6,1016L525.4,1016C529.043,1016 532,1013.04 532,1009.4L532,816.6C532,812.957 529.043,810 525.4,810L406.6,810C402.957,810 400,812.957 400,816.6L400,1009.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="Zero2" serif:id="Zero">
+            <rect x="8" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero3" serif:id="Zero" x="19.107px" y="786.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One2" serif:id="One">
+            <rect x="286" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One3" serif:id="One" x="298.215px" y="786.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="One4" serif:id="One">
+            <rect x="400" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One5" serif:id="One" x="412.215px" y="786.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero4" serif:id="Zero">
+            <rect x="90" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero5" serif:id="Zero" x="101.107px" y="786.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One6" serif:id="One">
+            <rect x="678" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One7" serif:id="One" x="690.215px" y="786.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero6" serif:id="Zero">
+            <rect x="204" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero7" serif:id="Zero" x="215.107px" y="786.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One8" serif:id="One">
+            <rect x="596" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One9" serif:id="One" x="608.215px" y="786.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero8" serif:id="Zero">
+            <rect x="482" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero9" serif:id="Zero" x="493.107px" y="786.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="Zero10" serif:id="Zero">
+            <rect x="8" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero11" serif:id="Zero" x="19.107px" y="786.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One10" serif:id="One">
+            <rect x="286" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One11" serif:id="One" x="298.215px" y="786.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="One12" serif:id="One">
+            <rect x="400" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One13" serif:id="One" x="412.215px" y="786.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero12" serif:id="Zero">
+            <rect x="90" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero13" serif:id="Zero" x="101.107px" y="786.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One14" serif:id="One">
+            <rect x="678" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One15" serif:id="One" x="690.215px" y="786.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero14" serif:id="Zero">
+            <rect x="204" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero15" serif:id="Zero" x="215.107px" y="786.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One16" serif:id="One">
+            <rect x="596" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One17" serif:id="One" x="608.215px" y="786.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero16" serif:id="Zero">
+            <rect x="482" y="744" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero17" serif:id="Zero" x="493.107px" y="786.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+    </g>
+    <g>
+        <g id="Zero18" serif:id="Zero">
+            <rect x="8" y="72" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero19" serif:id="Zero" x="19.107px" y="114.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One18" serif:id="One">
+            <rect x="286" y="72" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One19" serif:id="One" x="298.215px" y="114.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="One20" serif:id="One">
+            <rect x="400" y="72" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One21" serif:id="One" x="412.215px" y="114.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero20" serif:id="Zero">
+            <rect x="90" y="72" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero21" serif:id="Zero" x="101.107px" y="114.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One22" serif:id="One">
+            <rect x="678" y="72" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One23" serif:id="One" x="690.215px" y="114.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero22" serif:id="Zero">
+            <rect x="204" y="72" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero23" serif:id="Zero" x="215.107px" y="114.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One24" serif:id="One">
+            <rect x="596" y="72" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One25" serif:id="One" x="608.215px" y="114.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero24" serif:id="Zero">
+            <rect x="482" y="72" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero25" serif:id="Zero" x="493.107px" y="114.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="AND-0" serif:id="AND 0">
+            <path d="M400,337.4C400,341.043 402.957,344 406.6,344L525.4,344C529.043,344 532,341.043 532,337.4L532,144.6C532,140.957 529.043,138 525.4,138L406.6,138C402.957,138 400,140.957 400,144.6L400,337.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M528,140L484,164L484,204" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M404,140L448,164L448,204" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M465.73,252L465.73,344" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="441" y="282" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero26" serif:id="Zero" x="452.107px" y="324.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+            <path id="AND" d="M506,188L506,208C506,229.943 487.943,248 466,248C444.057,248 426,229.943 426,208L426,188L506,188Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            <path d="M400,337.4C400,341.043 402.957,344 406.6,344L525.4,344C529.043,344 532,341.043 532,337.4L532,144.6C532,140.957 529.043,138 525.4,138L406.6,138C402.957,138 400,140.957 400,144.6L400,337.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="AND-01" serif:id="AND 0">
+            <path d="M204,337.4C204,341.043 206.957,344 210.6,344L329.4,344C333.043,344 336,341.043 336,337.4L336,144.6C336,140.957 333.043,138 329.4,138L210.6,138C206.957,138 204,140.957 204,144.6L204,337.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M332,140L288,164L288,204" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M208,140L252,164L252,204" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M269.73,252L269.73,344" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="245" y="282" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero27" serif:id="Zero" x="256.107px" y="324.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+            <path id="AND1" serif:id="AND" d="M310,188L310,208C310,229.943 291.943,248 270,248C248.057,248 230,229.943 230,208L230,188L310,188Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            <path d="M204,337.4C204,341.043 206.957,344 210.6,344L329.4,344C333.043,344 336,341.043 336,337.4L336,144.6C336,140.957 333.043,138 329.4,138L210.6,138C206.957,138 204,140.957 204,144.6L204,337.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="AND-02" serif:id="AND 0">
+            <path d="M8,337.4C8,341.043 10.957,344 14.6,344L133.4,344C137.043,344 140,341.043 140,337.4L140,144.6C140,140.957 137.043,138 133.4,138L14.6,138C10.957,138 8,140.957 8,144.6L8,337.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M136,140L92,164L92,204" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M12,140L56,164L56,204" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M73.73,252L73.73,344" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="49" y="282" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero28" serif:id="Zero" x="60.107px" y="324.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+            <path id="AND2" serif:id="AND" d="M114,188L114,208C114,229.943 95.943,248 74,248C52.057,248 34,229.943 34,208L34,188L114,188Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            <path d="M8,337.4C8,341.043 10.957,344 14.6,344L133.4,344C137.043,344 140,341.043 140,337.4L140,144.6C140,140.957 137.043,138 133.4,138L14.6,138C10.957,138 8,140.957 8,144.6L8,337.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="AND-1" serif:id="AND 1">
+            <path d="M596,337.4C596,341.043 598.957,344 602.6,344L721.4,344C725.043,344 728,341.043 728,337.4L728,144.6C728,140.957 725.043,138 721.4,138L602.6,138C598.957,138 596,140.957 596,144.6L596,337.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M724,140L680,164L680,204" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M600,140L644,164L644,204" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M661.73,252L661.73,344" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="637" y="282" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One26" serif:id="One" x="649.215px" y="324.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+            <path id="AND3" serif:id="AND" d="M702,188L702,208C702,229.943 683.943,248 662,248C640.057,248 622,229.943 622,208L622,188L702,188Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            <path d="M596,337.4C596,341.043 598.957,344 602.6,344L721.4,344C725.043,344 728,341.043 728,337.4L728,144.6C728,140.957 725.043,138 721.4,138L602.6,138C598.957,138 596,140.957 596,144.6L596,337.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+    </g>
+    <g>
+        <g id="Zero29" serif:id="Zero">
+            <rect x="8" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero30" serif:id="Zero" x="19.107px" y="450.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One27" serif:id="One">
+            <rect x="286" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One28" serif:id="One" x="298.215px" y="450.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="One29" serif:id="One">
+            <rect x="400" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One30" serif:id="One" x="412.215px" y="450.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero31" serif:id="Zero">
+            <rect x="90" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero32" serif:id="Zero" x="101.107px" y="450.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One31" serif:id="One">
+            <rect x="678" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One32" serif:id="One" x="690.215px" y="450.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero33" serif:id="Zero">
+            <rect x="204" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero34" serif:id="Zero" x="215.107px" y="450.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One33" serif:id="One">
+            <rect x="596" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One34" serif:id="One" x="608.215px" y="450.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero35" serif:id="Zero">
+            <rect x="482" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero36" serif:id="Zero" x="493.107px" y="450.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="Zero37" serif:id="Zero">
+            <rect x="8" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero38" serif:id="Zero" x="19.107px" y="450.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One35" serif:id="One">
+            <rect x="286" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One36" serif:id="One" x="298.215px" y="450.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="One37" serif:id="One">
+            <rect x="400" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One38" serif:id="One" x="412.215px" y="450.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero39" serif:id="Zero">
+            <rect x="90" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero40" serif:id="Zero" x="101.107px" y="450.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One39" serif:id="One">
+            <rect x="678" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One40" serif:id="One" x="690.215px" y="450.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero41" serif:id="Zero">
+            <rect x="204" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero42" serif:id="Zero" x="215.107px" y="450.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One41" serif:id="One">
+            <rect x="596" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One42" serif:id="One" x="608.215px" y="450.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero43" serif:id="Zero">
+            <rect x="482" y="408" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero44" serif:id="Zero" x="493.107px" y="450.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="OR-0" serif:id="OR 0">
+            <path d="M8,673.4C8,677.043 10.957,680 14.6,680L133.4,680C137.043,680 140,677.043 140,673.4L140,480.6C140,476.957 137.043,474 133.4,474L14.6,474C10.957,474 8,476.957 8,480.6L8,673.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M136,476L92,500L92,540" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M12,476L56,500L56,540" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M73.73,588L73.73,680" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="49" y="618" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero45" serif:id="Zero" x="60.107px" y="660.004px" style="font-family:'Helvetica';font-size:50px;">0</text>
+            <path id="OR" d="M114,531C114,551 94,581 74,591C54,581 34,551 34,531C74,551 74,551 114,531Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            <path d="M8,673.4C8,677.043 10.957,680 14.6,680L133.4,680C137.043,680 140,677.043 140,673.4L140,480.6C140,476.957 137.043,474 133.4,474L14.6,474C10.957,474 8,476.957 8,480.6L8,673.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="OR-1" serif:id="OR 1">
+            <path d="M204,673.4C204,677.043 206.957,680 210.6,680L329.4,680C333.043,680 336,677.043 336,673.4L336,480.6C336,476.957 333.043,474 329.4,474L210.6,474C206.957,474 204,476.957 204,480.6L204,673.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M332,476L288,500L288,540" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M208,476L252,500L252,540" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M269.73,588L269.73,680" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="245" y="618" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One43" serif:id="One" x="257.215px" y="660.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+            <path id="OR1" serif:id="OR" d="M310,531C310,551 290,581 270,591C250,581 230,551 230,531C270,551 270,551 310,531Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            <path d="M204,673.4C204,677.043 206.957,680 210.6,680L329.4,680C333.043,680 336,677.043 336,673.4L336,480.6C336,476.957 333.043,474 329.4,474L210.6,474C206.957,474 204,476.957 204,480.6L204,673.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="OR-11" serif:id="OR 1">
+            <path d="M400,673.4C400,677.043 402.957,680 406.6,680L525.4,680C529.043,680 532,677.043 532,673.4L532,480.6C532,476.957 529.043,474 525.4,474L406.6,474C402.957,474 400,476.957 400,480.6L400,673.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M528,476L484,500L484,540" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M404,476L448,500L448,540" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M465.73,588L465.73,680" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="441" y="618" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One44" serif:id="One" x="453.215px" y="660.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+            <path id="OR2" serif:id="OR" d="M506,531C506,551 486,581 466,591C446,581 426,551 426,531C466,551 466,551 506,531Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            <path d="M400,673.4C400,677.043 402.957,680 406.6,680L525.4,680C529.043,680 532,677.043 532,673.4L532,480.6C532,476.957 529.043,474 525.4,474L406.6,474C402.957,474 400,476.957 400,480.6L400,673.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="OR-12" serif:id="OR 1">
+            <path d="M596,673.4C596,677.043 598.957,680 602.6,680L721.4,680C725.043,680 728,677.043 728,673.4L728,480.6C728,476.957 725.043,474 721.4,474L602.6,474C598.957,474 596,476.957 596,480.6L596,673.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M724,476L680,500L680,540" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M600,476L644,500L644,540" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M661.73,588L661.73,680" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="637" y="618" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One45" serif:id="One" x="649.215px" y="660.407px" style="font-family:'Helvetica';font-size:50px;">1</text>
+            <path id="OR3" serif:id="OR" d="M702,531C702,551 682,581 662,591C642,581 622,551 622,531C662,551 662,551 702,531Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            <path d="M596,673.4C596,677.043 598.957,680 602.6,680L721.4,680C725.043,680 728,677.043 728,673.4L728,480.6C728,476.957 725.043,474 721.4,474L602.6,474C598.957,474 596,476.957 596,480.6L596,673.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+    </g>
+    <g>
+        <g id="Zero46" serif:id="Zero">
+            <rect x="8" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero47" serif:id="Zero" x="19.107px" y="1122px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One46" serif:id="One">
+            <rect x="286" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One47" serif:id="One" x="298.215px" y="1122.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="One48" serif:id="One">
+            <rect x="400" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One49" serif:id="One" x="412.215px" y="1122.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero48" serif:id="Zero">
+            <rect x="90" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero49" serif:id="Zero" x="101.107px" y="1122px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One50" serif:id="One">
+            <rect x="678" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One51" serif:id="One" x="690.215px" y="1122.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero50" serif:id="Zero">
+            <rect x="204" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero51" serif:id="Zero" x="215.107px" y="1122px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One52" serif:id="One">
+            <rect x="596" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One53" serif:id="One" x="608.215px" y="1122.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero52" serif:id="Zero">
+            <rect x="482" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero53" serif:id="Zero" x="493.107px" y="1122px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="Zero54" serif:id="Zero">
+            <rect x="8" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero55" serif:id="Zero" x="19.107px" y="1122px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One54" serif:id="One">
+            <rect x="286" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One55" serif:id="One" x="298.215px" y="1122.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="One56" serif:id="One">
+            <rect x="400" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One57" serif:id="One" x="412.215px" y="1122.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero56" serif:id="Zero">
+            <rect x="90" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero57" serif:id="Zero" x="101.107px" y="1122px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One58" serif:id="One">
+            <rect x="678" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One59" serif:id="One" x="690.215px" y="1122.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero58" serif:id="Zero">
+            <rect x="204" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero59" serif:id="Zero" x="215.107px" y="1122px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="One60" serif:id="One">
+            <rect x="596" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One61" serif:id="One" x="608.215px" y="1122.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+        </g>
+        <g id="Zero60" serif:id="Zero">
+            <rect x="482" y="1080" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero61" serif:id="Zero" x="493.107px" y="1122px" style="font-family:'Helvetica';font-size:50px;">0</text>
+        </g>
+        <g id="NAND-1" serif:id="NAND 1">
+            <path d="M400,1345.4C400,1349.04 402.957,1352 406.6,1352L525.4,1352C529.043,1352 532,1349.04 532,1345.4L532,1152.6C532,1148.96 529.043,1146 525.4,1146L406.6,1146C402.957,1146 400,1148.96 400,1152.6L400,1345.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M528,1148L484,1172L484,1212" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M404,1148L448,1172L448,1212" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M465.73,1260L465.73,1352" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="441" y="1290" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One62" serif:id="One" x="453.215px" y="1332.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+            <g id="NAND">
+                <path d="M506,1196L506,1216C506,1237.94 487.943,1256 466,1256C444.057,1256 426,1237.94 426,1216L426,1196L506,1196Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+                <path d="M466,1276C460.514,1276 456,1271.49 456,1266C456,1260.51 460.514,1256 466,1256C471.486,1256 476,1260.51 476,1266C476,1271.48 471.492,1276 466.01,1276" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            </g>
+            <path d="M400,1345.4C400,1349.04 402.957,1352 406.6,1352L525.4,1352C529.043,1352 532,1349.04 532,1345.4L532,1152.6C532,1148.96 529.043,1146 525.4,1146L406.6,1146C402.957,1146 400,1148.96 400,1152.6L400,1345.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="NAND-11" serif:id="NAND 1">
+            <path d="M204,1345.4C204,1349.04 206.957,1352 210.6,1352L329.4,1352C333.043,1352 336,1349.04 336,1345.4L336,1152.6C336,1148.96 333.043,1146 329.4,1146L210.6,1146C206.957,1146 204,1148.96 204,1152.6L204,1345.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M332,1148L288,1172L288,1212" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M208,1148L252,1172L252,1212" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M269.73,1260L269.73,1352" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="245" y="1290" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One63" serif:id="One" x="257.215px" y="1332.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+            <g id="NAND1" serif:id="NAND">
+                <path d="M310,1196L310,1216C310,1237.94 291.943,1256 270,1256C248.057,1256 230,1237.94 230,1216L230,1196L310,1196Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+                <path d="M270,1276C264.514,1276 260,1271.49 260,1266C260,1260.51 264.514,1256 270,1256C275.486,1256 280,1260.51 280,1266C280,1271.48 275.492,1276 270.01,1276" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            </g>
+            <path d="M204,1345.4C204,1349.04 206.957,1352 210.6,1352L329.4,1352C333.043,1352 336,1349.04 336,1345.4L336,1152.6C336,1148.96 333.043,1146 329.4,1146L210.6,1146C206.957,1146 204,1148.96 204,1152.6L204,1345.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="NAND-12" serif:id="NAND 1">
+            <path d="M8,1345.4C8,1349.04 10.957,1352 14.6,1352L133.4,1352C137.043,1352 140,1349.04 140,1345.4L140,1152.6C140,1148.96 137.043,1146 133.4,1146L14.6,1146C10.957,1146 8,1148.96 8,1152.6L8,1345.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M136,1148L92,1172L92,1212" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M12,1148L56,1172L56,1212" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M73.73,1260L73.73,1352" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="49" y="1290" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="One64" serif:id="One" x="61.215px" y="1332.41px" style="font-family:'Helvetica';font-size:50px;">1</text>
+            <g id="NAND2" serif:id="NAND">
+                <path d="M114,1196L114,1216C114,1237.94 95.943,1256 74,1256C52.057,1256 34,1237.94 34,1216L34,1196L114,1196Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+                <path d="M74,1276C68.514,1276 64,1271.49 64,1266C64,1260.51 68.514,1256 74,1256C79.486,1256 84,1260.51 84,1266C84,1271.48 79.492,1276 74.01,1276" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            </g>
+            <path d="M8,1345.4C8,1349.04 10.957,1352 14.6,1352L133.4,1352C137.043,1352 140,1349.04 140,1345.4L140,1152.6C140,1148.96 137.043,1146 133.4,1146L14.6,1146C10.957,1146 8,1148.96 8,1152.6L8,1345.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="NAND-0" serif:id="NAND 0">
+            <path d="M596,1345.4C596,1349.04 598.957,1352 602.6,1352L721.4,1352C725.043,1352 728,1349.04 728,1345.4L728,1152.6C728,1148.96 725.043,1146 721.4,1146L602.6,1146C598.957,1146 596,1148.96 596,1152.6L596,1345.4Z" style="fill:rgb(159,168,218);"/>
+            <path d="M724,1148L680,1172L680,1212" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M600,1148L644,1172L644,1212" style="fill:none;stroke:black;stroke-width:5.83px;"/>
+            <path d="M661.73,1260L661.73,1352" style="fill:none;stroke:black;stroke-width:5.83px;stroke-linejoin:round;"/>
+            <rect x="637" y="1290" width="50" height="50" style="fill:white;stroke:black;stroke-width:5.83px;"/>
+            <text id="Zero62" serif:id="Zero" x="648.107px" y="1332px" style="font-family:'Helvetica';font-size:50px;">0</text>
+            <g id="NAND3" serif:id="NAND">
+                <path d="M702,1196L702,1216C702,1237.94 683.943,1256 662,1256C640.057,1256 622,1237.94 622,1216L622,1196L702,1196Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+                <path d="M662,1276C656.514,1276 652,1271.49 652,1266C652,1260.51 656.514,1256 662,1256C667.486,1256 672,1260.51 672,1266C672,1271.48 667.492,1276 662.01,1276" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:6px;stroke-linecap:butt;stroke-miterlimit:10;"/>
+            </g>
+            <path d="M596,1345.4C596,1349.04 598.957,1352 602.6,1352L721.4,1352C725.043,1352 728,1349.04 728,1345.4L728,1152.6C728,1148.96 725.043,1146 721.4,1146L602.6,1146C598.957,1146 596,1148.96 596,1152.6L596,1345.4Z" style="fill:none;stroke:rgb(26,35,126);stroke-width:8.11px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+    </g>
+    <text x="289.47px" y="53.841px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">AND-Gatter</text>
+    <text x="297.893px" y="395.855px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">OR-Gatter</text>
+    <text x="287.8px" y="730.855px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">XOR-Gatter</text>
+    <text x="276.726px" y="1067.84px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">NAND-Gatter</text>
+</svg>

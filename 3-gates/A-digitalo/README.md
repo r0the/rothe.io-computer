@@ -35,6 +35,13 @@ Die folgende Abbildung zeigt eine korrekte vollständige Schaltungspyramide:
 
 ![](./korrekte-pyramide.svg)
 
+## Gültige Kombinationen
+
+Die folgenden Kartenkombinationen sind gültig:
+
+![](./digitalo-cheat-sheet.svg)
+
+
 ## Spielvarianten
 
 Es gibt verschiedene Spielvarianten.
@@ -138,5 +145,6 @@ Spieler 2 ist an der Reihe und möchte einen Inverter auf eine der Bit-Karten sp
 
 ![](./inverter-5.svg)
 :::
+
 
 [^1]: Quelle: [inf-schule.de](https://www.inf-schule.de/rechner/digitaltechnik/gatter/digitalo)
