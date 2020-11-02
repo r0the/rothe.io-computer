@@ -30,6 +30,14 @@ Der Wert der Einerstelle kann durch ein XOR-Gatter berechnet werden, der Wert de
 
 <VueCircuit id="rothe-half-adder"/>
 
+::: exercise Aufgabe Halbaddierer
+Baue den Halbaddierer in CircuitVerse nach und probiere aus, ob die Addition von zwei Bits (inklusive Übertrag) korrekt funktioniert.
+:::
+
 ## Volladdierer
 
-TODO
+Ein Halbaddierer addiert also eine einzige Stelle und sorgt dafür, dass der Übertrag für die nächste Stelle mittels zweitem Ausgang bereitsteht.
+
+::: exercise Zusatzaufgabe Volladdierer
+Verwende mehrere Halbaddierer und setze sie zu einem 4-Bit-Addierer zusammen. Es sollen also zwei 4-Bit-Zahlen korrekt addiert werden können.
+:::
