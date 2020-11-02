@@ -43,11 +43,12 @@ Ein Halbaddierer addiert also 2 separate Bit und sorgt dafür, dass neben dem Re
 
 Allerdings berücksichtigt ein Halbaddierer nur die beiden zu addierenden Bits am Eingang, ein allfällig zu berücksichtigender Übertrag bleibt unbeachtet.
 
-::: exercise Zusatzaufgabe Volladdierer
+::: exercise Aufgabe Volladdierer
 Versuche, die Halbaddierer-Schaltung so auszubauen, dass drei Eingänge zur Verfügung stehen, damit auch ein vorhandener Übertrag bei der Addition berücksichtigt wird:
 
 1. Erstelle dazu zuerst die Wahrheitstabelle und überlege dir anschliessend, wie die Schaltung angepasst werden muss.
-2. Baue in CircuitVerse eine neue Schaltung (eine neue Registerkarte) im Addierer-Projekt. Verwende dazu die Schaltung «HA», die du bereits hast als Baustein, indem du im Menü _Circuit_ auf _Insert SubCircuit_ klickst und den Halbaddierer einfügst. So wird die Schaltung übersichtlicher.
+2. Baue in CircuitVerse eine neue Schaltung (in einer neuen Registerkarte) im Addierer-Projekt und nenne sie «VA» (für Volladdierer).
+3. Verwende zum Erstellen des Volladdierers als Baustein die Schaltung «HA», die du bereits hast als Baustein, indem du im Menü _Circuit_ auf _Insert SubCircuit_ klickst und den Halbaddierer einfügst. So wird die Schaltung übersichtlicher.
 ***
 **Hinweis**: Du kannst zwei Halbaddierer (plus ein OR-Gatter) zu einem Volladdierer kombinieren.
 ***
@@ -61,4 +62,20 @@ Versuche, die Halbaddierer-Schaltung so auszubauen, dass drei Eingänge zur Verf
 | 1   | 0   | 1   |      1 |     0 |
 | 1   | 1   | 0   |      1 |     0 |
 | 1   | 1   | 1   |      1 |     1 |
+
+![](./cv-va.png)
+:::
+
+## 4-Bit-Addierer
+Wir haben mit dem Volladdierer einen Baustein, der zwei 1-Bit-Zahlen addieren kann – inklusive korrekte Behandlung des Übertrags. Nun wollen wir aus mehreren solchen Bausteinen einen kompletten Addierer bauen, der mehrere Stellen gleichzeitig addieren kann.
+
+::: exercise Zusatzaufgabe 4-Bit-Addierer
+Versuche, die Halbaddierer-Schaltung so auszubauen, dass drei Eingänge zur Verfügung stehen, damit auch ein vorhandener Übertrag bei der Addition berücksichtigt wird:
+
+1. Baue in CircuitVerse eine neue Schaltung (d.h. eine neue Registerkarte) im Addierer-Projekt und nenne sie «4-Bit-Addierer».
+2. Verwende zum Zeichnen der Schaltung einen Halbaddierer-Baustein «HA» sowie drei Volladdierer-Bausteine «VA».
+***
+**Hinweis**: Zum Addieren der Einer-Stelle braucht es nur einen Halbaddierer, da dort noch kein Übertrag vorhanden sein kann.
+***
+![](./cv-4-bit-adder.png)
 :::
