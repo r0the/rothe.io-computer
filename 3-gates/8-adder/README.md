@@ -36,8 +36,10 @@ Baue den Halbaddierer in CircuitVerse nach und probiere aus, ob die Addition von
 
 ## Volladdierer
 
-Ein Halbaddierer addiert also eine einzige Stelle und sorgt dafür, dass der Übertrag für die nächste Stelle mittels zweitem Ausgang bereitsteht.
+Ein Halbaddierer addiert also 2 separate Bit und sorgt dafür, dass neben dem Resultat auch der Übertrag für die nächste Stelle mittels zweitem Ausgang bereitsteht.
+
+Allerdings berücksichtigt ein Halbaddierer nur die beiden zu addierenden Bits am Eingang, ein allfällig zu berücksichtigender Übertrag bleibt unbeachtet.
 
 ::: exercise Zusatzaufgabe Volladdierer
-Verwende mehrere Halbaddierer und setze sie zu einem 4-Bit-Addierer zusammen. Es sollen also zwei 4-Bit-Zahlen korrekt addiert werden können.
+Versuche, die Halbaddierer-Schaltung so auszubauen, dass drei Eingänge zur Verfügung stehen, damit auch ein vorhandener Übertrag bei der Addition berücksichtigt wird.
 :::
