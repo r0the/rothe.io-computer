@@ -31,7 +31,9 @@ Der Wert der Einerstelle kann durch ein XOR-Gatter berechnet werden, der Wert de
 <VueCircuit id="rothe-half-adder"/>
 
 ::: exercise Aufgabe Halbaddierer
-Baue den Halbaddierer in CircuitVerse nach und probiere aus, ob die Addition von zwei Bits (inklusive Übertrag) korrekt funktioniert.
+1. Erstelle ein neues Projekt in CircuitVerse und nenne es Addierer.
+2. Baue den Halbaddierer in CircuitVerse nach und probiere aus, ob die Addition von zwei Bits (inklusive Übertrag) korrekt funktioniert.
+3. Benenne die Schaltung (sprich die Registerkarte) «HA» (für Halbaddierer).
 :::
 
 ## Volladdierer
@@ -43,7 +45,8 @@ Allerdings berücksichtigt ein Halbaddierer nur die beiden zu addierenden Bits a
 ::: exercise Zusatzaufgabe Volladdierer
 Versuche, die Halbaddierer-Schaltung so auszubauen, dass drei Eingänge zur Verfügung stehen, damit auch ein vorhandener Übertrag bei der Addition berücksichtigt wird:
 
-Erstelle dazu zuerst die Wahrheitstabelle und überlege dir anschliessend, wie die Schaltung angepasst werden muss.
+1. Erstelle dazu zuerst die Wahrheitstabelle und überlege dir anschliessend, wie die Schaltung angepasst werden muss.
+2. Baue in CircuitVerse eine neue Schaltung (eine neue Registerkarte) im Addierer-Projekt. Verwende dazu die Schaltung «HA», die du bereits hast als Baustein, indem du im Menü _Circuit_ auf _Insert SubCircuit_ klickst und den Halbaddierer einfügst. So wird die Schaltung übersichtlicher.
 ***
 **Hinweis**: Du kannst zwei Halbaddierer (plus ein OR-Gatter) zu einem Volladdierer kombinieren.
 ***
