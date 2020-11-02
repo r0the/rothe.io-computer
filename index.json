@@ -137,14 +137,14 @@
           "page": "3-gates/A-digitalo/"
         },
         {
-          "id": 395560,
-          "title": "3.8 Rückkopplung",
-          "page": "3-gates/8-feedback/"
+          "id": 32295,
+          "title": "3.8 Addierer",
+          "page": "3-gates/8-adder/"
         },
         {
-          "id": 32295,
-          "title": "3.9 Addierer",
-          "page": "3-gates/9-adder/"
+          "id": 395560,
+          "title": "3.9 Rückkopplung",
+          "page": "3-gates/9-feedback/"
         }
       ]
     },

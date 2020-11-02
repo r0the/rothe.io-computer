@@ -9,5 +9,5 @@
 * [3.6 XOR-Gatter](?page=6-xor-gate/)
 * [3.7 NAND-Gatter](?page=7-nand-gate/)
 * [Digitalo](?page=A-digitalo/)
-* [3.8 Rückkopplung](?page=8-feedback/)
-* [3.9 Addierer](?page=9-adder/)
+* [3.8 Addierer](?page=8-adder/)
+* [3.9 Rückkopplung](?page=9-feedback/)
