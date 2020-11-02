@@ -41,5 +41,20 @@ Ein Halbaddierer addiert also 2 separate Bit und sorgt dafür, dass neben dem Re
 Allerdings berücksichtigt ein Halbaddierer nur die beiden zu addierenden Bits am Eingang, ein allfällig zu berücksichtigender Übertrag bleibt unbeachtet.
 
 ::: exercise Zusatzaufgabe Volladdierer
-Versuche, die Halbaddierer-Schaltung so auszubauen, dass drei Eingänge zur Verfügung stehen, damit auch ein vorhandener Übertrag bei der Addition berücksichtigt wird.
+Versuche, die Halbaddierer-Schaltung so auszubauen, dass drei Eingänge zur Verfügung stehen, damit auch ein vorhandener Übertrag bei der Addition berücksichtigt wird:
+
+Erstelle dazu zuerst die Wahrheitstabelle und überlege dir anschliessend, wie die Schaltung angepasst werden muss.
+***
+**Hinweis**: Du kannst zwei Halbaddierer (plus ein OR-Gatter) zu einem Volladdierer kombinieren.
+***
+| A   | B   | Ü   | Zweier | Einer |
+|:--- |:--- |:--- | ------:| -----:|
+| 0   | 0   | 0   |      0 |     0 |
+| 0   | 0   | 1   |      0 |     1 |
+| 0   | 1   | 0   |      0 |     1 |
+| 0   | 1   | 1   |      1 |     0 |
+| 1   | 0   | 0   |      0 |     1 |
+| 1   | 0   | 1   |      1 |     0 |
+| 1   | 1   | 0   |      1 |     0 |
+| 1   | 1   | 1   |      1 |     1 |
 :::
