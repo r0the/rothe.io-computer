@@ -1,6 +1,9 @@
 # 3.8 Addierer
 ---
 
+## Binäre Addition
+
+<VueVideo id="x7ka0QwKciA"/>
 
 
 ## Halbaddierer
@@ -23,5 +26,10 @@ Die entsprechende Schaltung benötigt zwei Eingänge und zwei Ausgänge. Die bei
 | 1   | 0   |      0 |     1 |
 | 1   | 1   |      1 |     0 |
 
+Der Wert der Einerstelle kann durch ein XOR-Gatter berechnet werden, der Wert der Zweierstelle durch ein AND-Gatter. Die Schaltung sieht somit so aus:
 
-![](./half-adder.svg)
+<VueCircuit id="rothe-half-adder"/>
+
+## Volladdierer
+
+TODO
