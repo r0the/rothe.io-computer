@@ -51,25 +51,43 @@ Ein Halbaddierer addiert also 2 separate Bit und sorgt dafür, dass neben dem Re
 
 Allerdings berücksichtigt ein Halbaddierer nur die beiden zu addierenden Bits am Eingang, ein allfällig zu berücksichtigender Übertrag bleibt unbeachtet.
 
-::: exercise Aufgabe Volladdierer
-Versuche, die Halbaddierer-Schaltung so auszubauen, dass drei Eingänge zur Verfügung stehen, damit auch ein vorhandener Übertrag bei der Addition berücksichtigt wird:
+Wenn zwei mehrstellige binäre Zahlen addiert werden sollen, muss der **Übertrag** berücksichtigt werden. Ab der zweithintersten Stelle muss folgendermassen vorgegangen werden:
 
-1. Erstelle dazu zuerst die Wahrheitstabelle und überlege dir anschliessend, wie die Schaltung angepasst werden muss.
+1. Die Zifferen an der aktuellen Stelle werden addiert.
+2. Zum Resultat wird der Übertrag der vorherigen Stelle addiert.
+3. Die höhere Stelle des Resultat wird als Übertrag an die nächste Stelle weitergegeben.
+
+Dies kann mit der folgenden Schaltung realisiert werden. Sie besteht aus zwei Halbaddierern sowie einem OR-Gatter. Mit dem OR-Gatter werden die beiden möglichen Überträge zusammengefasst.
+
+<VueCircuit id="rothe-full-adder-vertical"/>
+
+::: exercise Aufgabe Volladdierer
+Baue basierend auf deiner Halbaddierer-Schaltung einen Volladdierer:
+
+1. Erstelle dazu zuerst die Wahrheitstabelle für den Volladdierer. Der Volladdierer hat drei Eingänge:
+    - A (erste Zahl)
+    - B (zweite Zahl)
+    - Ü (Übertrag)
+
+    und zwei Ausgänge:
+
+    - S (Summe)
+    - V (Übertrag)
+
 2. Baue in CircuitVerse eine neue Schaltung (in einer neuen Registerkarte) im Addierer-Projekt und nenne sie «VA» (für Volladdierer).
 3. Verwende zum Erstellen des Volladdierers als Baustein die Schaltung «HA», die du bereits hast als Baustein, indem du im Menü _Circuit_ auf _Insert SubCircuit_ klickst und den Halbaddierer einfügst. So wird die Schaltung übersichtlicher.
+
 ***
-**Hinweis**: Du kannst zwei Halbaddierer (plus ein OR-Gatter) zu einem Volladdierer kombinieren.
-***
-| A   | B   | Ü   | Zweier | Einer |
-|:--- |:--- |:--- | ------:| -----:|
-| 0   | 0   | 0   |      0 |     0 |
-| 0   | 0   | 1   |      0 |     1 |
-| 0   | 1   | 0   |      0 |     1 |
-| 0   | 1   | 1   |      1 |     0 |
-| 1   | 0   | 0   |      0 |     1 |
-| 1   | 0   | 1   |      1 |     0 |
-| 1   | 1   | 0   |      1 |     0 |
-| 1   | 1   | 1   |      1 |     1 |
+| A   | B   | Ü   |   V |   S |
+|:--- |:--- |:--- | ---:| ---:|
+| 0   | 0   | 0   |   0 |   0 |
+| 0   | 0   | 1   |   0 |   1 |
+| 0   | 1   | 0   |   0 |   1 |
+| 0   | 1   | 1   |   1 |   0 |
+| 1   | 0   | 0   |   0 |   1 |
+| 1   | 0   | 1   |   1 |   0 |
+| 1   | 1   | 0   |   1 |   0 |
+| 1   | 1   | 1   |   1 |   1 |
 
 ![](./cv-va.png)
 :::
