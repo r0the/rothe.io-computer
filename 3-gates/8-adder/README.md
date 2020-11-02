@@ -38,6 +38,13 @@ Der Wert der Einerstelle kann durch ein XOR-Gatter berechnet werden, der Wert de
 
 <VueCircuit id="rothe-half-adder-vertical"/>
 
+::: exercise Aufgabe Halbaddierer
+1. Erstelle ein neues Projekt in CircuitVerse und nenne es Addierer.
+2. Baue den Halbaddierer in CircuitVerse nach und probiere aus, ob die Addition von zwei Bits (inklusive Übertrag) korrekt funktioniert.
+3. Benenne die Eingänge mit «A» und «B», sowie die Ausgänge korrekt mit «S» (für «Summe») und «Ü» (für «Übertrag»).
+4. Benenne die Schaltung (sprich die Registerkarte) «HA» (für Halbaddierer).
+:::
+
 ## Volladdierer
 
 Ein Halbaddierer addiert also 2 separate Bit und sorgt dafür, dass neben dem Resultat auch der Übertrag für die nächste Stelle mittels zweitem Ausgang bereitsteht.
