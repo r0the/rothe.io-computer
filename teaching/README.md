@@ -26,6 +26,14 @@ https://www.youtube.com/watch?v=5PJZz04JGjs
 * [:pptx: Gatter](./3-2-digitale-logik-gatter.pptx)
 
 
+# Repetition
+
+* [:pptx: Präsentation Wahrheitstabellen und einfache Schaltungen](./3-3-einfache-schaltungen.pptx)
+* [:pdf: Arbeitsblatt einfache Schaltungen](./3-3-einfache-schaltungen-aufgabe.pdf)
+* [:pdf: Lösungen einfache Schaltungen](./3-3-einfache-schaltungen-loesung.pdf)
+* [:odt: Übersicht einfache Schaltungen](./3-3-einfache-schaltungen.ods)
+
+
 ### Eine Doppellektionen betreut
 
 Während vier Doppellektionen vier mit je einem Viertel der Klasse (6 Schüler*innen) eine betreute Doppellektion durchgeführt. In der ersten Lektion wird der Hardware-Workshop durchgeführt, in der zweiten Lektion das CPU-Rollenspiel:

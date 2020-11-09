@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,44,-95.1465)">
+        <g transform="matrix(1.01685,0,0,1.59257,-165.103,25.148)">
+            <rect x="245" y="54" width="236" height="61" style="fill:rgb(239,154,154);stroke:black;stroke-width:1.5px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-167.589,123.19)">
+            <text x="327.319px" y="41.671px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Schaltung</text>
+        </g>
+    </g>
+    <path d="M119.024,27.5L128.024,32L119.024,36.5L123.524,32L119.024,27.5Z"/>
+    <path d="M80,32L123.524,32" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M119.024,91.5L128.024,96L119.024,100.5L123.524,96L119.024,91.5Z"/>
+    <path d="M80,96L123.524,96" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,288,31.8218)">
+        <g transform="matrix(1,-0,-0,1,-288,-31.8218)">
+            <path d="M407.024,59.322L416.024,63.822L407.024,68.322L411.524,63.822L407.024,59.322Z"/>
+            <path d="M368,63.822L411.524,63.822" style="fill:none;stroke:black;stroke-width:2px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,32.1978,3.43267)">
+        <text x="35.032px" y="32.871px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">A</text>
+    </g>
+    <g transform="matrix(1,0,0,1,31.4888,67.4327)">
+        <text x="35.032px" y="32.871px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">B</text>
+    </g>
+    <g transform="matrix(1,0,0,1,387.177,35.2545)">
+        <text x="35.032px" y="32.871px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">X</text>
+    </g>
+</svg>
