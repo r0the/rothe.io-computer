@@ -10,4 +10,4 @@
 * [3.7 NAND-Gatter](?page=7-nand-gate/)
 * [Digitalo](?page=A-digitalo/)
 * [3.8 Addierer](?page=8-adder/)
-* [3.9 Rückkopplung](?page=9-feedback/)
+* [:extra: 3.9 Rückkopplung](?page=9-memory/)

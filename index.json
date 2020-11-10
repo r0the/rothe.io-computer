@@ -143,8 +143,9 @@
         },
         {
           "id": 395560,
-          "title": "3.9 Rückkopplung",
-          "page": "3-gates/9-feedback/"
+          "icon": "extra",
+          "title": "3.9 Speicher",
+          "page": "3-gates/9-memory/"
         }
       ]
     },
