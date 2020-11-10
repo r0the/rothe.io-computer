@@ -155,6 +155,10 @@
       "page": "4-architecture/",
       "items": [
         {
+          "title": "Prozessor",
+          "page": "4-architecture/1-cpu/"
+        },
+        {
           "id": 980231,
           "title": "Bussystem",
           "page": "4-architecture/2-bus/"
