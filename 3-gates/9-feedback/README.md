@@ -39,3 +39,16 @@ Natürlich will man die Alarmanlage auch wieder Abschalten können. Dazu kann in
 ![](./rain-check-solution.svg)
 
 :::
+
+
+## Speicher
+
+Die Schaltung «Rückkopplung mit Reset» wird in der Informatik als SR-Flip-Flop bezeichnet.
+Sie speichert den Wert 1, falls der Eingang «Set» aktiviert ist und speichert den Wert 0, falls der Eingang «Reset» aktiviert ist.
+
+Diese Schaltung bildet die Grundlage für den Bau von Speicher (RAM). Um ein Bit zu speichern, wollen wir eine Schaltung, welche die folgenden zwei Eingänge hat:
+
+- Daten: gibt an, welcher Wert gespeichert werden soll.
+- Speichern: gibt durch ein 1 an, ob nun der Datenwert abgespeichert werden soll.
+
+<VueCircuit id="rothe-d-flip-flop"/>

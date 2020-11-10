@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="496px" height="176px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<svg width="448px" height="176px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <path d="M80,48L112,48" style="fill:none;stroke:black;stroke-width:2px;"/>
     <path d="M80,128L112,128" style="fill:none;stroke:black;stroke-width:2px;"/>
-    <path d="M384,48L416,48" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    <path d="M336,80L368,80" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
     <g id="Lautsprecher">
-        <rect x="416" y="16" width="64" height="64" style="fill:rgb(255,204,128);stroke:black;stroke-width:2px;"/>
-        <path d="M452,30.46L452,34.58C457.78,36.3 462,41.66 462,48C462,54.34 457.78,59.68 452,61.4L452,65.54C460,63.72 466,56.56 466,48C466,39.44 460,32.28 452,30.46M457,48C457,44.46 455,41.42 452,39.94L452,56C455,54.58 457,51.52 457,48M430,42L430,54L438,54L448,64L448,32L438,42L430,42Z" style="fill-rule:nonzero;"/>
+        <rect x="368" y="48" width="64" height="64" style="fill:rgb(255,204,128);stroke:black;stroke-width:2px;"/>
+        <path d="M404,62.46L404,66.58C409.78,68.3 414,73.66 414,80C414,86.34 409.78,91.68 404,93.4L404,97.54C412,95.72 418,88.56 418,80C418,71.44 412,64.28 404,62.46M409,80C409,76.46 407,73.42 404,71.94L404,88C407,86.58 409,83.52 409,80M382,74L382,86L390,86L400,96L400,64L390,74L382,74Z" style="fill-rule:nonzero;"/>
     </g>
     <g id="Feuchtigkeitssensor">
         <rect x="16" y="16" width="64" height="64" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
@@ -23,17 +23,17 @@
         </g>
     </g>
     <g id="Lösung">
-        <path d="M112,48L112,32L311,32" style="fill:none;stroke:black;stroke-width:2px;"/>
-        <path d="M352,48L384,48L384,160L208,160L208,112L224,112" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
-        <path id="OR" d="M304,16C320,16 344,32 352,48C344,64 320,80 304,80C320,48 320,48 304,16Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
-        <path id="AND-Gatter" d="M224,64L240,64C257.555,64 272,78.445 272,96C272,113.555 257.555,128 240,128L224,128L224,64Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
-        <path d="M192,128L192,80L224,80" style="fill:none;stroke:black;stroke-width:2px;"/>
-        <path d="M192,128L176,128" style="fill:none;stroke:black;stroke-width:2px;"/>
-        <path d="M272,96L288,96L288,64L311,64" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M112,48L112,80L151,80" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M304,80L336,80L336,16L128,16L128,48L151,48" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+        <path d="M224,128L224,96L256,96" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M224,128L176,128" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M256,64L192,64" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <circle cx="336" cy="80" r="4"/>
+        <path id="OR" d="M144,32C160,32 184,48 192,64C184,80 160,96 144,96C160,64 160,64 144,32Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <path id="AND-Gatter" d="M256,48L272,48C289.555,48 304,62.445 304,80C304,97.555 289.555,112 272,112L256,112L256,48Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
         <g id="Inverter">
             <path d="M112,112L160,128L112,144L112,112Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;"/>
             <path d="M176,128C176,132.389 172.389,136 168,136C163.611,136 160,132.389 160,128C160,123.611 163.611,120 168,120C172.386,120 175.996,123.606 176,127.992" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
         </g>
     </g>
-    <circle cx="384" cy="48" r="4"/>
 </svg>
