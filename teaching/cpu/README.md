@@ -29,18 +29,18 @@ Vorgesehen sind 5-9 Rollen pro Rollenspiel-Gruppe, d.h. 2 bis 4 Rollenspiel-Grup
 *Tipp*: Für den Systembus braucht es wohl keinen Sitzplatz, die Person muss sich zwischen den Komponenten hin- und herbewegen.
 
 ## Vorbereitung / Materialien
-- Die Rollenanleitungen, Speicher-Karten und Befehlstreifen sind im Dokument Neumann-Rollenspiel-Druckvorlage zum Drucken und Ausschneiden vorbereitet
+- Die Rollenanleitungen, Speicher-Karten und Befehlsstreifen sind im Dokument Neumann-Rollenspiel-Druckvorlage zum Drucken und Ausschneiden vorbereitet
 - Stifte und Notizpapier für mehrere der Rollen
 
 ## Programme
 Für das Rollenspiel stehen vier Programme zur Verfügung:
-- Programm 1:
+- Programm 1 (wohl nicht nötig):
   Es werden zwei Zahlen addiert und auf dem Bildschirm angezeigt
 - Programm 2:
   Es werden zwei vom Benutzer eingegebene Zahlen addiert und auf dem Bildschirm angezeigt
 - Programm 3:
   Der Benutzer muss solange eine Zahl eingeben (erraten), bis sie stimmt
-- Programm 4:
+- Programm 4 (nur wenn genügend Zeit):
   Es werden die Zahlen 02, 04, 06, 08, 10 nacheinander auf dem Bildschirm angezeigt
 
 ## Vorschlag Rollenspiel-Ablauf
