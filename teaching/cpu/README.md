@@ -12,6 +12,8 @@
 
 Es ist empfehlenswert, zuerst die Von-Neumann-Architektur zu behandeln.
 
+![von Neumann-Architektur](./von-neumann-architektur.jpg)
+
 ## Rollen
 Vorgesehen sind 5-9 Rollen pro Rollenspiel-Gruppe, d.h. 2 bis 4 Rollenspiel-Gruppen pro Klasse. Die Rollen sind im Einzelnen:
 - Steuerwerk
