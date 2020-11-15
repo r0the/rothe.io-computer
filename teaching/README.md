@@ -45,3 +45,8 @@ Während vier Doppellektionen vier mit je einem Viertel der Klasse (6 Schüler*i
 ### Drei Doppellektionen unbetreut
 
 Die restlichen Schüler*innen arbeiten selbständig an den folgenden Themen:
+
+### Eine Doppellektion (oder mehr) Betriebssysteme und Lizenzen
+
+* [:pptx: Präsentation Betriebssysteme](./5-betriebssysteme.pptx)
+* [:pptx: Präsentation Freie Lizenzen](./5-3-freie-software.pptx)

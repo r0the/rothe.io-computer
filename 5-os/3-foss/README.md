@@ -60,21 +60,19 @@ Software, die nicht frei ist, wird als *proprietär* bezeichnet.
 
 
 ## Freie Lizenzen
-Als bekannteste und verbreitetste Lizenz muss sicherlich die *GNU General Public License (GPL)*[^5] genannt werden. Es gibt aber viele weitere freie Lizenzen wie z.B.
+Als bekannteste und verbreitetste Lizenz für Quellcode muss sicherlich die *GNU General Public License (GPL)*[^5] genannt werden. Es gibt aber viele weitere freie Lizenzen.
 
-- Apache License[^6]
-- FreeBSD License[^7]
-- Mozilla Public License[^8]
-- etc.
+Auch für Texte, Bilder und Videos gibt es freie Lizenzen. Die bekannteste Lizenz ist die *Creative Commons License (CC)*[^6] mit ihren verschiedenen Varianten:
 
-Auch für Texte gibt es freie Lizenzen. Hier sind die bekanntesten
-
-- GNU Free Documentation License (GFDL)[^9]
-- die diversen Varianten der Creative Commons License (CC)[^10]
+::: columns 2
+![Übersicht über die Creative Commons-Lizenzen ©](./creative-commons-overview.svg)
+***
+![Übersicht über die Creative Commons-Lizenzen ©](./creative-commons-overview2.png)
+:::
 
 
 ## Copyleft
-Im Zusammenhang mit freien Lizenzen taucht häufig auch der Begriff **Copyleft** auf. Gemeint ist damit eine freie Lizenz, die vorschreibt, dass veränderter oder unveränderter Code oder Text ebenfalls wieder unter einer freien Lizenz verteilt oder verfügbar gemacht werden muss[^11].
+Im Zusammenhang mit freien Lizenzen taucht häufig auch der Begriff **Copyleft** auf. Gemeint ist damit eine freie Lizenz, die vorschreibt, dass veränderter oder unveränderter Code oder Text ebenfalls wieder unter einer freien Lizenz verteilt oder verfügbar gemacht werden muss[^7].
 
 ::: info
 Im Gegensatz zu Entwicklern proprietärer Software, die in Copyright-Statements den Benutzern Rechte wegnehmen, soll mit freier Software die Rechte der Benutzer garantiert werden. Aus diesem Grund wurde der Begriff Copyright "umgekehrt" zu Copyleft.
@@ -85,9 +83,5 @@ Im Gegensatz zu Entwicklern proprietärer Software, die in Copyright-Statements 
 [^3]: [OSI](https://www.opensource.org/)
 [^4]: [Open Source](https://www.opensource.org/docs/osd)
 [^5]: [GPL](https://www.gnu.org/copyleft/gpl.html)
-[^6]: [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
-[^7]: [FreeBSD License](https://www.freebsd.org/copyright/freebsd-license.html)
-[^8]: [Mozilla Public License](https://www.mozilla.org/en-US/MPL/2.0/)
-[^9]: [FDL](https://www.gnu.org/licenses/fdl.html)
-[^10]: [CC](https://creativecommons.org/licenses/)
-[^11]: [Copyleft](https://www.gnu.org/copyleft/copyleft.html)
+[^6]: [CC](https://creativecommons.org/licenses/)
+[^7]: [Copyleft](https://www.gnu.org/copyleft/copyleft.html)

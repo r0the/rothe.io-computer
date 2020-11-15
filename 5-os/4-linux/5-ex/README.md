@@ -97,6 +97,6 @@ Vorgehen:
    5. Spiele auch die anderen beiden Videos ab, indem du den Befehl oben entsprechend anpasst (du kannst die Taste [Up] drücken, damit du den Befehl nicht erneut abtippen musst).
 :::
 
-[^1]: Quelle: https://pixabay.com/de/videos/stadt-menschen-wandern-einkaufen-999/
-[^2]: Quelle: https://pixabay.com/de/videos/yoga-gesundheit-%C3%BCbung-frau-berg-445/
-[^3]: Quelle: https://pixabay.com/de/videos/p%C3%A4rchen-vertrauen-gespr%C3%A4ch-reden-19706/
+[^1]: Quelle: [Pixabay – Stadt](https://pixabay.com/de/videos/stadt-menschen-wandern-einkaufen-999/)
+[^2]: Quelle: [Pixabay – Yoga](https://pixabay.com/de/videos/yoga-gesundheit-%C3%BCbung-frau-berg-445/)
+[^3]: Quelle: [Pixabay – Diskussion](https://pixabay.com/de/videos/p%C3%A4rchen-vertrauen-gespr%C3%A4ch-reden-19706/)
