@@ -14,9 +14,9 @@ Das bedeutet, dass wir die bestehende Installation auf dem Computer nicht verän
 
 
 ## Linux herunterladen
-Zuerst muss man sich für eine Linux-Distribution entscheiden. Wir verwenden für unser Unterrichtsprojekt **Ubuntu**[^1].
+Zuerst muss man sich für eine Linux-Distribution entscheiden. Wir verwenden für unser Unterrichtsprojekt **Ubuntu**[^1], du kannst aber auch eine beliebige andere Distribution verwenden.
 
-Auf der [Ubuntu-Webseite][1] klickt man auf den «Download»-Knopf:
+Auf der [Ubuntu-Webseite][1] klickst du auf den «Download»-Knopf:
 
 ![Ubuntu-Download](./ubuntu-download.png)
 

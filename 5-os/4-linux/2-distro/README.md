@@ -4,6 +4,8 @@
 ## Was ist eine Linux-Distribution?
 Eine Linux-Distribution ist eine Zusammenstellung von Kernel, GNU-Tools, graphischer Oberfläche(n) und unzähligen weiteren Programmen als Gesamtpaket, das den Benutzern die Installation von Programmen aus der riesigen Menge an verfügbarer Software durch eine Paketverwaltung erleichtert.
 
+Im Gegensatz zu Windows, muss man bei Linux die benötigte Software nicht von unzähligen Webseiten herunterladen. Die Linux-Distributionen pflegen ein Softwarearchiv mit zehntausenden von Paketen, die sich über eine zentrale Paketverwaltung installieren lassen.
+
 Nachfolgend findest du eine kurze Übersicht über bekannte Linux-Distributionen:
 
 ::: cards 3
