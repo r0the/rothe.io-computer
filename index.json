@@ -143,8 +143,8 @@
         },
         {
           "id": 395560,
-          "icon": "extra",
           "title": "3.9 Speicher",
+          "icon": "extra",
           "page": "3-gates/9-memory/"
         }
       ]
@@ -156,6 +156,7 @@
       "page": "4-architecture/",
       "items": [
         {
+          "id": 54268,
           "title": "Prozessor",
           "page": "4-architecture/1-cpu/"
         },
