@@ -31,7 +31,9 @@ Ein Von-Neumann-Computer besteht aus folgenden Komponenten:
 
 Heute sind das Rechenwerk und das Steuerwerk normalerweise im **Prozessor** (engl. _central processing unit, CPU_) zusammengefasst. Alle Komponenten sind über ein **Bussystem** miteinander verbunden.
 
-Die Von-Neumann-Architeketur wird heute insbesondere bei Personalcomputern und Servern eingesetzt.
+::: info Weit verbreitet
+Die **Von-Neumann-Architektur** ist heute in den meisten Computern Standard – insbesondere bei Personalcomputern und Servern.
+:::
 
 ## Harvard-Architektur
 
@@ -43,3 +45,5 @@ Im Unterschied zur Von-Neumann-Architektur sind bei der Harvard-Architektur Date
 - Programme sind besser vor Manipulationen und Fehlern geschützt.
 
 ![Harvard-Architektur](./harvard-architecture.svg)
+
+Als Nachteil ist zu erwähnen, dass im Vergleich zur Von-Neumann-Architektur die Hardwarekosten höher sind.
