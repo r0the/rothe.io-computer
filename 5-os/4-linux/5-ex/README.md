@@ -26,7 +26,7 @@ Vorgehen:
 <VueVideo id="BexdfZQVZuo"></VueVideo>
 
 ::: exercise Aufgabe Office
-1. Öffne das Textverarbeitungsprogramm _LibreOffcie Writer_. Du findest es links in der Favoritenleiste.
+1. Öffne das Textverarbeitungsprogramm _LibreOffice Writer_. Du findest es links in der Favoritenleiste.
 2. Auch in LibreOffice können Formatvorlagen eingesetzt werden, du findest sie im Dropdown-Menü links, das zu Beginn _Standard_ anzeigt. Schreibe den folgenden Titel `Linux – Mein erster Eindruck`, wähle dafür die Formatvorlage _Titel_ aus.
 3. Schreibe darunter für jede Aufgabe eine Überschrift mit der Formatvorlage _Überschrift 1_ (Office, Internet, Dateien, Multimedia, ...) und halte im Verlaufe deiner Arbeit stichwortartig fest, wie dir das Arbeiten mit Linux gefällt und welche Probleme du antriffst.
 4. Speichere das Dokument unter _Dokumente_ mit folgendem Namen: `Linux-Vorname-Nachname.odt`
@@ -54,34 +54,40 @@ Vorgehen:
 
    **Hintergrund**: Das Video ist mit einem nicht-freien Verfahren codiert, so dass Ubuntu dies nicht direkt abspielen kann.
 
-2. Gehe zu Punkt 1 und 2 bei den Aufgaben zu _Software installieren_ (weiter unten) und komme anschliessend wieder hierher zurück.
+2. Springe zu den Aufgaben zu _Software installieren_ (weiter unten), führe die gesamte Aufgabe durch und komme anschliessend wieder hierher zurück.
 3. Spiele das Video erneut ab, nun sollte auch das Bild angezeigt werden. Springe vor zur Zeit 15:10 und schaue dir die nächsten 2 Minuten an (bis 16:55). Die Szene zeigt, wie der Name _Linux_ entstanden ist.
 :::
 
 ::: exercise Aufgabe Software installieren
-1. _Synaptic_ installieren
-   1. Links in der Favoritenleiste auf das Icon _Ubuntu Software_ klicken.
-   2. Auf die Lupe klicken und nach `Synaptic` suchen.
-   3. Den Eintrag _Synaptic Paketverwaltung_ markieren und anschliessend den Knopf _Installieren_ anklicken.
-2. Video-Codecs installieren
+1. Zusätzliche Paketquellen aktivieren und den Softwarekatalog aktualisieren (letzteres passiert jeweils nach ein paar Stunden automatisch).
    1. Klicke oben links auf _Aktivitäten_ und tippe `Anwendungen` ins Suchfeld. Klicke auf das Icon mit dem 'A'.
-   2. Setze beim 2. und 4. Eintrag (_Universe_ und _Multiverse_) je ein Gutzeichen und klicke auf _Schliessen_. Damit werden zusätzliche Softwarepakete verfügbar, die auch Programmcode enthalten, der nicht unter einer freien Lizenz steht. Leider ist dies gerade im Multimediabereich und bei den Gerätetreiber oft notwendig.
+   2. Setze beim 2. und 4. Eintrag (_Universe_ und _Multiverse_) je ein Gutzeichen und klicke auf _Schliessen_. Damit werden zusätzliche Softwarepakete verfügbar, die auch Programmcode enthalten, der nicht unter einer freien Lizenz steht. Leider ist dies gerade im Multimediabereich und bei den Gerätetreibern oft notwendig.
 
    ![](./ubuntu-repositories.png)
 
    3. Im neuen Fenster klickst du auf den Knopf _Neu laden_.
-   4. Nachdem der Aktualisierungsvorgang abgeschlossen ist, kannst du _Synaptic_ starten (bei _Aktivitäten_ nach `Synaptic` suchen).
-   5. Rechts bei der Lupe kannst du nach dem Paket `ubuntu-restricted-extras` suchen.
+   4. Nachdem der Aktualisierungsvorgang abgeschlossen ist, kannst du das Fenster schliessen.
+2. _Synaptic_ (bessere und umfangreichere Paketverwaltung als die vorhin verwendete) installieren.
+   1. Klicke links in der Favoritenleiste auf das Icon _Ubuntu Software_.
+   2. Nach einem Klick oben auf die Lupe kannst du nach `Synaptic` suchen.
+   3. Nun kannst du den Eintrag _Synaptic Paketverwaltung_ markieren und anschliessend den Knopf _Installieren_ anklicken.
+   4. Nach erfolgter Installation musst du dieses Fenster schliessen.
+3. Zusätzliche Video-Codecs installieren.
+   1. Starte _Synaptic_ (bei _Aktivitäten_ nach `Synaptic` suchen).
+   2. Rechts bei der Lupe kannst du nach dem Paket `ubuntu-restricted-extras` suchen.
 
-      Es enthält unter anderen Microsoft-Schriftarten (Arial, ...), Audio- und Video-Codecs
+      Es enthält unter anderen Microsoft-Schriftarten (Arial, ...), Audio- und Video-Codecs.
 
-   6. In der Liste der Suchresultate klickst du zuvorderst auf Kästchen beim richtigen Eintrag und wählst _Zum Installieren vormerken_ und bestätigst das nächste Fenster mit dem Knopf _Vormerken_.
+   3. In der Liste der Suchresultate klickst du zuvorderst auf Kästchen beim richtigen Eintrag und wählst _Zum Installieren vormerken_ und bestätigst das nächste Fenster mit dem Knopf _Vormerken_.
 
       ![](./synaptic-install.png)
 
-   7. Zum Schluss klickst du oben auf den Knopf _Anwenden_ (und bei der Zusammenstellung nochmals auf _Anwenden_).
-   8. Nach dem Herunterladen musst du noch eine Lizenzvereinbarung akzeptieren, damit die Installation ausgeführt wird.
-3. Starte den Synaptic-Paketmanager und suche das Spiel `billard-gl`. Installiere das Paket und probiere das Spiel aus.
+   4. Zum Schluss klickst du oben auf den Knopf _Anwenden_ (und bei der Zusammenstellung nochmals auf _Anwenden_).
+   5. Nach dem Herunterladen musst du noch eine Lizenzvereinbarung akzeptieren, damit die Installation ausgeführt wird.
+:::
+
+::: exercise Spiele
+1. Starte den Synaptic-Paketmanager und suche das Spiel `billard-gl`. Installiere das Paket und probiere das Spiel aus.
 :::
 
 ::: exercise Zusatzaufgabe
