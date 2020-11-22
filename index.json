@@ -156,20 +156,22 @@
       "page": "4-architecture/",
       "items": [
         {
-          "id": 54268,
-          "title": "Prozessor",
-          "page": "4-architecture/1-cpu/"
+          "title": "4.1 Von-Neumann-Architektur",
+          "page": "4-architecture/1-von-neumann/"
         },
         {
           "id": 980231,
-          "title": "Bussystem",
+          "title": "4.2 Bussystem",
           "page": "4-architecture/2-bus/"
         },
         {
-          "id": 507542,
-          "title": "Tetra",
-          "icon": "extra",
-          "page": "4-architecture/3-tetra/"
+          "id": 54268,
+          "title": "4.3 Prozessor",
+          "page": "4-architecture/3-cpu/"
+        },
+        {
+          "title": "4.4 Von-Neumann-Zyklus",
+          "page": "4-architecture/4-cycle/"
         },
         {
           "id": 147200,

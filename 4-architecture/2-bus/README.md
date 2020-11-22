@@ -1,4 +1,4 @@
-# Bussystem
+# 4.2 Bussystem
 ---
 
 In der Informatik ist ein *Bus* ein System zur Datenübertragung zwischen mehreren Komponenten über einen gemeinsamen Übertragungsweg. Findet eine Datenübertragung zwischen zwei Komponenten statt, so müssen die übrigen Komponenten schweigen, da sie sich sonst gegenseitig stören würden.[^1]

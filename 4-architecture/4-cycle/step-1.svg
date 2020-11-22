@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="640px" height="352px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M90,236L96,224L102,236C99,233 93,233 90,236Z"/>
+    <path d="M96,256L96,233.6" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M386,140L392,128L398,140C395,137 389,137 386,140Z"/>
+    <path d="M392,176L392,137.6" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M550,244L544,256L538,244C541,247 547,247 550,244Z"/>
+    <path d="M544,224L544,246.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M326,236L320,224L314,236C317,233 323,233 326,236Z"/>
+    <path d="M326,244L320,256L314,244C317,247 323,247 326,244Z"/>
+    <path d="M320,233.6L320,246.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M542,140L536,128L530,140C533,137 539,137 542,140Z"/>
+    <path d="M542,164L536,176L530,164C533,167 539,167 542,164Z"/>
+    <path d="M536,137.6L536,166.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M110,140L104,128L98,140C101,137 107,137 110,140Z"/>
+    <path d="M110,164L104,176L98,164C101,167 107,167 110,164Z"/>
+    <path d="M104,137.6L104,166.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <g id="Systembus">
+        <rect x="16" y="176" width="608" height="48" style="fill:rgb(176,190,197);stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+        <g id="Speicherwerk">
+            <rect x="384" y="184" width="112" height="32" style="fill:white;stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+            <text x="400.332px" y="204.168px" style="font-family:'Helvetica';font-size:16px;">Systembus</text>
+        </g>
+        <text x="270.415px" y="205.21px" style="font-family:'Helvetica';font-size:20px;">Systembus</text>
+    </g>
+    <g id="Ausgabe">
+        <rect x="464" y="256" width="160" height="80" style="fill:rgb(239,154,154);stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+        <text x="504.811px" y="276.395px" style="font-family:'Helvetica';font-size:20px;">Ausgabe</text>
+        <g id="Bildschirm">
+            <rect x="488" y="296" width="112" height="32" style="fill:white;stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+            <text x="507.035px" y="317.598px" style="font-family:'Helvetica';font-size:16px;">Bildschirm</text>
+        </g>
+    </g>
+    <g id="Speicherung">
+        <rect x="240" y="256" width="160" height="80" style="fill:rgb(144,202,249);stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+        <text x="264.043px" y="279.707px" style="font-family:'Helvetica';font-size:20px;">Speicherung</text>
+        <g id="Speicherwerk1" serif:id="Speicherwerk">
+            <rect x="264" y="296" width="112" height="32" style="fill:white;stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+            <text x="271.18px" y="316.215px" style="font-family:'Helvetica';font-size:16px;">Speicherwerk</text>
+        </g>
+    </g>
+    <g id="Verarbeitung">
+        <rect x="16" y="16" width="608" height="128" style="fill:rgb(165,214,167);stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+        <text x="23.492px" y="37.985px" style="font-family:'Helvetica';font-size:20px;">Prozessor</text>
+        <g id="Decodierwerk">
+            <rect x="336" y="96" width="112" height="32" style="fill:white;stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+            <text x="342.48px" y="117.605px" style="font-family:'Helvetica';font-size:16px;">Decodierwerk</text>
+        </g>
+        <g id="Befehlswerk">
+            <rect x="48" y="96" width="112" height="32" style="fill:white;stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+            <text x="59.867px" y="117.59px" style="font-family:'Helvetica';font-size:16px;">Befehlswerk</text>
+        </g>
+        <g id="Rechenwerk">
+            <rect x="480" y="96" width="112" height="32" style="fill:white;stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+            <text x="491.867px" y="117.59px" style="font-family:'Helvetica';font-size:16px;">Rechenwerk</text>
+        </g>
+        <g id="Taktgeber">
+            <rect x="192" y="32" width="112" height="32" style="fill:white;stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+            <text x="211.945px" y="51.988px" style="font-family:'Helvetica';font-size:16px;">Taktgeber</text>
+        </g>
+        <g id="Steuerwerk">
+            <rect x="192" y="96" width="112" height="32" style="fill:white;stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+            <text x="207.184px" y="117.715px" style="font-family:'Helvetica';font-size:16px;">Steuerwerk</text>
+        </g>
+    </g>
+    <g id="Eingabe">
+        <rect x="16" y="256" width="160" height="80" style="fill:rgb(255,204,128);stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+        <text x="58.881px" y="277.395px" style="font-family:'Helvetica';font-size:20px;">Eingabe</text>
+        <g id="Benutzer">
+            <rect x="40" y="296" width="112" height="32" style="fill:white;stroke:black;stroke-width:1px;stroke-linecap:round;"/>
+            <text x="63.484px" y="317.59px" style="font-family:'Helvetica';font-size:16px;">Benutzer</text>
+        </g>
+    </g>
+    <path id="Schritt-1" serif:id="Schritt 1" d="M294,244L288,256L282,244C285,247 291,247 294,244Z" style="fill:rgb(213,0,0);"/>
+    <path id="Schritt-11" serif:id="Schritt 1" d="M104,128L104,200L288,200L288,246.4" style="fill:none;stroke:rgb(213,0,0);stroke-width:4px;"/>
+</svg>
