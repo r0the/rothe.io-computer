@@ -5,3 +5,4 @@
 * [4.2 Bussystem](?page=2-bus/)
 * [4.3 Prozessor](?page=3-cpu/)
 * [4.4 Von-Neumann-Zyklus](?page=4-cycle/)
+* [4.5 Befehlssatz](?page=5-instruction-set/)

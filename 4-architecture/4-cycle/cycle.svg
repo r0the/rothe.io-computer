@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="608px" height="360px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <path d="M428.411,317.095L416,312L427.523,305.128C424.753,308.342 425.197,314.325 428.411,317.095Z"/>
-    <path d="M480,248L480,248.002C480,280.094 456.378,306.669 425.574,311.289" style="fill:none;stroke:black;stroke-width:2px;"/>
-    <path d="M122,164L128,152L134,164C131,161 125,161 122,164Z"/>
-    <path d="M128,200L128,161.6" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
-    <path d="M122.905,260.411L128,248L134.872,259.523C131.658,256.753 125.675,257.197 122.905,260.411Z"/>
-    <path d="M192,312L191.998,312C159.906,312 133.331,288.378 128.711,257.574" style="fill:none;stroke:black;stroke-width:2px;"/>
     <path d="M179.589,34.905L192,40L180.477,46.872C183.247,43.658 182.803,37.675 179.589,34.905Z"/>
     <path d="M128,104L128,103.998C128,71.906 151.622,45.331 182.426,40.711" style="fill:none;stroke:black;stroke-width:2px;"/>
-    <path d="M486,188L480,200L474,188C477,191 483,191 486,188Z"/>
-    <path d="M480,152L480,190.4" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
-    <path d="M485.094,91.588L480,104L473.127,92.478C476.341,95.247 482.325,94.802 485.094,91.588Z"/>
-    <path d="M416,40L416,40C448.093,40 474.668,63.621 479.289,94.426" style="fill:none;stroke:black;stroke-width:2px;"/>
-    <g id="Datenadresse-setzen" serif:id="Datenadresse setzen">
-        <path d="M240,212C240,205.377 234.623,200 228,200L28,200C21.377,200 16,205.377 16,212L16,236C16,242.623 21.377,248 28,248L228,248C234.623,248 240,242.623 240,236L240,212Z" style="fill:rgb(144,202,249);stroke:black;stroke-width:1px;"/>
-        <text x="33.347px" y="230.997px" style="font-family:'Helvetica';font-size:20px;">Datenadresse setzen</text>
-    </g>
     <g id="Befehl-ausführen" serif:id="Befehl ausführen">
-        <path d="M240,116C240,109.377 234.623,104 228,104L28,104C21.377,104 16,109.377 16,116L16,140C16,146.623 21.377,152 28,152L228,152C234.623,152 240,146.623 240,140L240,116Z" style="fill:rgb(255,204,128);stroke:black;stroke-width:1px;"/>
+        <path d="M240,116C240,109.377 234.623,104 228,104L28,104C21.377,104 16,109.377 16,116L16,140C16,146.623 21.377,152 28,152L228,152C234.623,152 240,146.623 240,140L240,116Z" style="fill:rgb(165,214,167);stroke:black;stroke-width:1px;"/>
         <text x="52.307px" y="135.075px" style="font-family:'Helvetica';font-size:20px;">Befehl ausführen</text>
     </g>
+    <path d="M122,164L128,152L134,164C131,161 125,161 122,164Z"/>
+    <path d="M128,200L128,161.6" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
     <g id="Befehl-decodieren" serif:id="Befehl decodieren">
-        <path d="M416,300C416,293.377 410.623,288 404,288L204,288C197.377,288 192,293.377 192,300L192,324C192,330.623 197.377,336 204,336L404,336C410.623,336 416,330.623 416,324L416,300Z" style="fill:rgb(255,204,128);stroke:black;stroke-width:1px;"/>
-        <text x="223.302px" y="319.085px" style="font-family:'Helvetica';font-size:20px;">Befehl decodieren</text>
+        <path d="M240,212C240,205.377 234.623,200 228,200L28,200C21.377,200 16,205.377 16,212L16,236C16,242.623 21.377,248 28,248L228,248C234.623,248 240,242.623 240,236L240,212Z" style="fill:rgb(165,214,167);stroke:black;stroke-width:1px;"/>
+        <text x="47.302px" y="231.085px" style="font-family:'Helvetica';font-size:20px;">Befehl decodieren</text>
     </g>
+    <path d="M122.905,260.411L128,248L134.872,259.523C131.658,256.753 125.675,257.197 122.905,260.411Z"/>
+    <path d="M192,312L191.998,312C159.906,312 133.331,288.378 128.711,257.574" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <g id="Datenadresse-setzen" serif:id="Datenadresse setzen">
+        <path d="M416,300C416,293.377 410.623,288 404,288L204,288C197.377,288 192,293.377 192,300L192,324C192,330.623 197.377,336 204,336L404,336C410.623,336 416,330.623 416,324L416,300Z" style="fill:rgb(144,202,249);stroke:black;stroke-width:1px;"/>
+        <text x="209.347px" y="318.997px" style="font-family:'Helvetica';font-size:20px;">Datenadresse setzen</text>
+    </g>
+    <path d="M428.411,317.095L416,312L427.523,305.128C424.753,308.342 425.197,314.325 428.411,317.095Z"/>
+    <path d="M480,248L480,248.002C480,280.094 456.378,306.669 425.574,311.289" style="fill:none;stroke:black;stroke-width:2px;"/>
     <g id="Befehlszähler-erhöhen" serif:id="Befehlszähler erhöhen">
-        <path d="M592,212C592,205.377 586.623,200 580,200L380,200C373.377,200 368,205.377 368,212L368,236C368,242.623 373.377,248 380,248L580,248C586.623,248 592,242.623 592,236L592,212Z" style="fill:rgb(255,204,128);stroke:black;stroke-width:1px;"/>
+        <path d="M592,212C592,205.377 586.623,200 580,200L380,200C373.377,200 368,205.377 368,212L368,236C368,242.623 373.377,248 380,248L580,248C586.623,248 592,242.623 592,236L592,212Z" style="fill:rgb(165,214,167);stroke:black;stroke-width:1px;"/>
         <text x="379.849px" y="231.075px" style="font-family:'Helvetica';font-size:20px;">Befehlszähler erhöhen</text>
     </g>
+    <path d="M486,188L480,200L474,188C477,191 483,191 486,188Z"/>
+    <path d="M480,152L480,190.4" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
     <g id="Befehl-laden" serif:id="Befehl laden">
-        <path d="M592,116C592,109.377 586.623,104 580,104L380,104C373.377,104 368,109.377 368,116L368,140C368,146.623 373.377,152 380,152L580,152C586.623,152 592,146.623 592,140L592,116Z" style="fill:rgb(255,204,128);stroke:black;stroke-width:1px;"/>
+        <path d="M592,116C592,109.377 586.623,104 580,104L380,104C373.377,104 368,109.377 368,116L368,140C368,146.623 373.377,152 380,152L580,152C586.623,152 592,146.623 592,140L592,116Z" style="fill:rgb(165,214,167);stroke:black;stroke-width:1px;"/>
         <text x="424.316px" y="135.09px" style="font-family:'Helvetica';font-size:20px;">Befehl laden</text>
     </g>
+    <path d="M485.094,91.588L480,104L473.127,92.478C476.341,95.247 482.325,94.802 485.094,91.588Z"/>
+    <path d="M416,40L416,40C448.093,40 474.668,63.621 479.289,94.426" style="fill:none;stroke:black;stroke-width:2px;"/>
     <g id="Befehlsadresse-setzen" serif:id="Befehlsadresse setzen">
         <path d="M416,28C416,21.377 410.623,16 404,16L204,16C197.377,16 192,21.377 192,28L192,52C192,58.623 197.377,64 204,64L404,64C410.623,64 416,58.623 416,52L416,28Z" style="fill:rgb(144,202,249);stroke:black;stroke-width:1px;"/>
         <text x="202.745px" y="47.075px" style="font-family:'Helvetica';font-size:20px;">Befehlsadresse setzen</text>

@@ -174,10 +174,14 @@
           "page": "4-architecture/4-cycle/"
         },
         {
+          "title": "4.5 Befehlssatz",
+          "page": "4-architecture/5-instruction-set/"
+        },
+        {
           "id": 147200,
           "title": "MOPS",
           "icon": "extra",
-          "page": "4-architecture/4-mops/"
+          "page": "4-architecture/9-mops/"
         }
       ]
     },
