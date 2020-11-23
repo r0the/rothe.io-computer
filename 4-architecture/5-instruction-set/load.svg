@@ -89,9 +89,7 @@
     <g id="Load">
         <rect x="640" y="128.25" width="128" height="32" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
         <rect x="656" y="320" width="128" height="32" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
-        <path d="M674.5,187.5L688,160.5L701.5,187.5C694.75,180.75 681.25,180.75 674.5,187.5Z" style="fill:rgb(213,0,0);"/>
-        <path d="M688,320L688,182.1" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
-        <path d="M429.5,276.75L416,303.75L402.5,276.75C409.25,283.5 422.75,283.5 429.5,276.75Z" style="fill:rgb(213,0,0);"/>
-        <path d="M416,160.25L416,282.15" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+        <path d="M690.5,187L704,160L717.5,187C710.75,180.25 697.25,180.25 690.5,187Z" style="fill:rgb(213,0,0);"/>
+        <path d="M704,319.5L704,181.6" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
     </g>
 </svg>

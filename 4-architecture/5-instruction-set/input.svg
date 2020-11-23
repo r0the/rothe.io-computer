@@ -91,7 +91,5 @@
         <rect x="656" y="320" width="128" height="32" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
         <path d="M701.5,293L688,320L674.5,293C681.25,299.75 694.75,299.75 701.5,293Z" style="fill:rgb(213,0,0);"/>
         <path d="M144,232L688,232L688,298.4" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
-        <path d="M429.5,276.75L416,303.75L402.5,276.75C409.25,283.5 422.75,283.5 429.5,276.75Z" style="fill:rgb(213,0,0);"/>
-        <path d="M416,160.25L416,282.15" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
     </g>
 </svg>
