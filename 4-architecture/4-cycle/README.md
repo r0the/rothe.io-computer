@@ -1,39 +1,22 @@
 # 4.4 Von-Neumann-Zyklus
 ---
 
-Der Prozessor führt immer wieder den gleichen zyklischen Ablauf aus. Dieser Ablauf wird auch **Von-Neumann-Zyklus** genannt und besteht aus folgenden vier Schritten:
+Der Prozessor führt immer wieder den gleichen zyklischen Ablauf aus. Dieser Ablauf wird auch **Von-Neumann-Zyklus** genannt und besteht aus folgenden Schritten:
 
 ![](./cycle.svg)
 
-## 1. Befehlsadresse setzen
+## 1. Befehl laden
 
-Die Speicheradresse, an welcher der nächste Befehl steht, wird vom Befehlszähler an das Speicherwerk übermittelt.
+Der nächste Befehl wird aus dem Speicher in das Befehlsregister geladen. Dazu wird die Adresse des nächsten Befehls vom Programmzähler an das Speicherwerk übertragen. Der Befehl wird aus dem Speicher über den Datenbus in das Befehlsregister übertragen. Anschliessend wird der Programmzähler um eins erhöht.
 
-![](./step-1.svg)
+![](./fetch.svg)
 
-## 2. Befehl abrufen
+## 2. Befehl decodieren
 
-Der Befehl wird aus dem Speicher über den Datenbus in das Dekodierwerk übertragen.
+Nun wird der Befehl, welcher in das Befehlsregister geladen worden ist, decodiert. Das bedeutet, dass das Dekodierwerk die Aktionen, welche für diesen Befehl ausgeführt werden müssen, in Steuersignale an die verschiedenen Komponenten übersetzt.
 
-![](./step-2.svg)
+![](./decode.svg)
 
-## 3. Programmzähler erhöhen
+## 3. Befehl ausführen
 
-Damit im nächsten Durchlauf der nächste Befehl geladen wird, muss der Programmzähler um eins erhöht werden.
-
-![](./step-3.svg)
-
-## 4. Datenadresse setzen
-
-Manche Befehle verwenden Daten aus dem Speicher. Bevor der Befehl ausgeführt wird muss daher dem Speicherwerk die Adresse der Speicherzelle mitgeteilt werden.
-
-## 5. Befehl decodieren
-
-Das Dekodierwerk setzt den Befehl in Steuersignale an die verschiedenen Komponenten um.
-
-![](./step-4.svg)
-
-
-## 6. Befehl ausführen
-
-Ein Wert wird aus dem Speicher geladen oder in den Speicher geschrieben. Das Rechenwerk führt die arithmetische Operation aus.
+Schliesslich wird der eigentliche Befehl ausgeführt, indem das Dekodierwerk die Steuersignale an die Komponenten auslöst. Im nächsten Abschnitt werden einige typische Befehle erläutert.

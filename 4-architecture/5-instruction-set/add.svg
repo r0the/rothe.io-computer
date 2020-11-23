@@ -86,4 +86,17 @@
     <path d="M477.5,268L471.5,256L465.5,268C468.5,265 474.5,265 477.5,268Z"/>
     <path d="M477.5,292L471.5,304L465.5,292C468.5,295 474.5,295 477.5,292Z"/>
     <path d="M471.5,265.6L471.5,294.4" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    <g id="Add">
+        <rect x="640" y="128.25" width="128" height="32" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+        <rect x="496" y="128.5" width="128" height="32" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+        <rect x="656" y="320" width="128" height="32" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+        <path d="M578.5,187.5L592,160.5L605.5,187.5C598.75,180.75 585.25,180.75 578.5,187.5Z" style="fill:rgb(213,0,0);"/>
+        <path d="M688,320L688,232L592,232L592,182.1" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+        <path d="M429.5,276.75L416,303.75L402.5,276.75C409.25,283.5 422.75,283.5 429.5,276.75Z" style="fill:rgb(213,0,0);"/>
+        <path d="M416,160.25L416,282.15" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+        <g>
+            <circle cx="632" cy="101" r="21" style="fill:white;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+            <text x="620.33px" y="115.131px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:40px;fill:rgb(213,0,0);">+</text>
+        </g>
+    </g>
 </svg>

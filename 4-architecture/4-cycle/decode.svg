@@ -86,4 +86,7 @@
     <path d="M477.5,268L471.5,256L465.5,268C468.5,265 474.5,265 477.5,268Z"/>
     <path d="M477.5,292L471.5,304L465.5,292C468.5,295 474.5,295 477.5,292Z"/>
     <path d="M471.5,265.6L471.5,294.4" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    <g id="Decode">
+        <rect x="320" y="128" width="128" height="32" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+    </g>
 </svg>

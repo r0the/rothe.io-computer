@@ -86,4 +86,12 @@
     <path d="M477.5,268L471.5,256L465.5,268C468.5,265 474.5,265 477.5,268Z"/>
     <path d="M477.5,292L471.5,304L465.5,292C468.5,295 474.5,295 477.5,292Z"/>
     <path d="M471.5,265.6L471.5,294.4" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    <g id="Load">
+        <rect x="640" y="128.25" width="128" height="32" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+        <rect x="656" y="320" width="128" height="32" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+        <path d="M674.5,187.5L688,160.5L701.5,187.5C694.75,180.75 681.25,180.75 674.5,187.5Z" style="fill:rgb(213,0,0);"/>
+        <path d="M688,320L688,182.1" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+        <path d="M429.5,276.75L416,303.75L402.5,276.75C409.25,283.5 422.75,283.5 429.5,276.75Z" style="fill:rgb(213,0,0);"/>
+        <path d="M416,160.25L416,282.15" style="fill:none;stroke:rgb(213,0,0);stroke-width:6px;stroke-linecap:butt;"/>
+    </g>
 </svg>
