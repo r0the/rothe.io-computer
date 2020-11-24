@@ -1,4 +1,4 @@
-# CPU-Rollenspiel
+# CPU-Rollenspiel V2
 ---
 
 ## Material

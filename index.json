@@ -267,8 +267,13 @@
       "items": [
         {
           "id": 459193,
-          "title": "CPU-Rollenspiel klassisch",
+          "title": "CPU-Rollenspiel V2",
           "page": "teaching/cpu/"
+        },
+        {
+          "id": 459193,
+          "title": "CPU-Rollenspiel V3",
+          "page": "teaching/cpu-3/"
         },
         {
           "id": 87967,
