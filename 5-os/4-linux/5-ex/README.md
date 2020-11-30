@@ -78,7 +78,7 @@ Vorgehen:
 
       Es enthält unter anderen Microsoft-Schriftarten (Arial, ...), Audio- und Video-Codecs.
 
-   3. In der Liste der Suchresultate klickst du zuvorderst auf Kästchen beim richtigen Eintrag und wählst _Zum Installieren vormerken_ und bestätigst das nächste Fenster mit dem Knopf _Vormerken_.
+   3. In der Liste der Suchresultate klickst du zuvorderst auf das Kästchen beim richtigen Eintrag und wählst _Zum Installieren vormerken_ und bestätigst das nächste Fenster mit dem Knopf _Vormerken_.
 
       ![](./synaptic-install.png)
 
@@ -88,6 +88,18 @@ Vorgehen:
 
 ::: exercise Spiele
 1. Starte den Synaptic-Paketmanager und suche das Spiel `billard-gl`. Installiere das Paket und probiere das Spiel aus.
+:::
+
+::: exercise Browser
+1. Recherchiere, welche der folgenden Browser unter Linux zur Verfügung stehen:
+   - Firefox
+   - Chrome
+   - Safari
+   - Edge
+   - Opera
+   - TOR
+2. Wieso funktionieren gewisse Browser (siehe oben) nicht mit Linux?
+3. Wieso steht unter Ubuntu nicht _Chrome_, sondern _Chromium_ zur Installation bereit? Was ist der Unterschied?
 :::
 
 ::: exercise Zusatzaufgabe
