@@ -152,7 +152,7 @@
     {
       "id": 872755,
       "title": "4 Rechnerarchitektur",
-      "icon": "construction",
+      "course": "23",
       "page": "4-architecture/",
       "items": [
         {
@@ -243,7 +243,8 @@
             {
               "id": 681900,
               "title": "Aufgaben",
-              "page": "5-os/4-linux/5-ex/"
+              "icon": "exercise",
+              "page": "5-os/4-linux/6-ex/"
             }
           ]
         }

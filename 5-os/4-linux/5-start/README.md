@@ -1,4 +1,4 @@
-# Linux starten
+# 5.4.5 Linux starten
 ---
 
 Zuerst muss Linux gestartet werden. Dazu setzt du am einfachsten einen USB-Stick mit einem Live-System ein, damit das installierte Windows auf deinem Computer nicht verändert wird. Du erhältst den USB-Stick entweder von deiner Lehrperson oder kannst ihn – wie im vorherigen [Kapitel](?page=../4-install%2FREADME) beschrieben – selbst herstellen.
