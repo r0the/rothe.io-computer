@@ -156,6 +156,7 @@
       "page": "4-architecture/",
       "items": [
         {
+          "id": 417780,
           "title": "4.1 Von-Neumann-Architektur",
           "page": "4-architecture/1-von-neumann/"
         },
@@ -170,10 +171,12 @@
           "page": "4-architecture/3-cpu/"
         },
         {
+          "id": 270163,
           "title": "4.4 Von-Neumann-Zyklus",
           "page": "4-architecture/4-cycle/"
         },
         {
+          "id": 725635,
           "title": "4.5 Befehlssatz",
           "page": "4-architecture/5-instruction-set/"
         },
@@ -231,6 +234,11 @@
               "title": "Linux ausprobieren",
               "icon": "extra",
               "page": "5-os/4-linux/4-install/"
+            },
+            {
+              "id": 408076,
+              "title": "Linux starten",
+              "page": "5-os/4-linux/5-start/"
             },
             {
               "id": 681900,
