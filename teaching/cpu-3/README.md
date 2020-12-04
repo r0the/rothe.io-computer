@@ -5,7 +5,8 @@
 * [:docx: Druckvorlage Rollen](./Neumann-Rollenspiel-Druckvorlage.docx)
 * [:pdf: Druckvorlage Speicherstellen](./Speicherstellen.pdf)
 * [:docx: Druckvorlage Speicherstellen](./Speicherstellen.docx)
-
+* [:pdf: Präsentation](./cpu-rollenspiel.pdf)
+* [:pptx: Präsentation](./cpu-rollenspiel.pptx)
 
 ## TODO
 
