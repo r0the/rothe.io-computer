@@ -1,7 +1,6 @@
 # Tetra
 ---
 
-* [:pdf: Tetra: Informationen (PDF)](./tetra-informationen.pdf)
 * [:pdf: Tetra: Komponenten (PDF)](./tetra-komponenten.pdf)
 * [:pdf: Tetra: Mikrocode (PDF)](./tetra-mikrocode.pdf)
 
@@ -9,9 +8,7 @@ Das Rollenspiel ist so gestaltet, dass folgende wichtige Erkenntnisse hervorgeho
 
 **Ebenen:** Das Modell ist auf Ebene der Befehlssatz- und Mikroarchitektur so realistisch und gleichzeitig einfach wie möglich gehalten. Die Ebene der digitalen Logik wird bewusst ausgeblendet.
 
-**Kommunikation:** Die Komponenten kommunizieren ausschliesslich über das Bussystem. Daten- und Adressbus werden im Rollenspiel als zentrales «Register» dargestellt, auf das sämtliche Spieler/innen Zugriff haben. Der Steuerbus wird durch die mündliche Kommunikation der Spieler/innen modelliert.
-
-**Datendarstellung:** Die Darstellung der Daten in Form von Bits soll zeigen, dass der Computer auf der Ebene der Mikroarchitektur eben nicht mit Zahlen rechnet, sondern nur mit zwei Zuständen arbeitet. Wenn die Schüler/innen ein Programm ausführen, so erleben sie, dass sie wir der Computer keine Vorstellung davon haben, was semantisch passiert.
+**Kommunikation:** Die Komponenten tauschen Daten und Adressen ausschliesslich über den Bus aus. Daten- und Adressbus werden im Rollenspiel als zentrales «Register» dargestellt, auf das sämtliche Spieler/innen Zugriff haben. Der Steuerbus wird durch die mündliche Kommunikation der Spieler/innen modelliert.
 
 ## Rollenverteilung
 
@@ -44,30 +41,50 @@ Das Rollenspiel bietet Anwendungsmöglichkeiten auf verschiedenen Ebenen der kog
 Das Programm A: Zwei Konstanten addieren (Länge 5)
 
 ```
-LD 6
-ADD 7
+LDI 6
+ADI 7
 OUT
+HCF
+```
+
+Speicher:
+
+```
+6, 6, 8, 7, 2, 0
 ```
 
 Das Programm B: Zählen (Länge 10)
 
 ```
-LD 0
-x: ADD 2
+LDI 0
+x: ADI 2
 OUT
-CMP 10
-JNE x
-HLT
+SBI 10
+JLS x
+HCF
+```
+
+Speicher:
+
+```
+TODO 6, 0, 8, 2, 2, 10, 10,
 ```
 
 Zwei Benutzereingaben addieren (Länge 7)
 
 ```
-IN
+INP
 STO B
 IN
 ADD B
 OUT
+HCF
+```
+
+Speicher:
+
+```
+1, 12, 15, 1, 9, 15, 2, 0
 ```
 
 Multiplikation:
@@ -77,3 +94,9 @@ LD 0
 ADD B
 STO C
 ```
+
+TODO:
+
+- Input und Output in Speicher
+- "Lese Datenbus" statt "Lese"
+- 
