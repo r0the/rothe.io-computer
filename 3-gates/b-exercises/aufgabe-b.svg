@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="288px" height="128px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <path id="AND-Gatter" d="M176,32L192,32C209.555,32 224,46.445 224,64C224,81.555 209.555,96 192,96L176,96L176,32Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path id="OR" d="M64,48C80,48 104,64 112,80C104,96 80,112 64,112C80,80 80,80 64,48Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M32,32L144,32L144,48L176,48" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    <path d="M32,64L71,64" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    <path d="M32,96L71,96" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    <path d="M112,80L176,80" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    <path d="M224,64L256,64" style="fill:none;stroke:black;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    <text x="14.707px" y="39.173px" style="font-family:'Helvetica';font-size:20px;">A</text>
+    <text x="14.707px" y="71.173px" style="font-family:'Helvetica';font-size:20px;">B</text>
+    <text x="258.59px" y="71.173px" style="font-family:'Helvetica';font-size:20px;">X</text>
+    <text x="15.59px" y="103.173px" style="font-family:'Helvetica';font-size:20px;">C</text>
+</svg>

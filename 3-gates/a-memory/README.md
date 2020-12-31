@@ -1,4 +1,4 @@
-# :extra: 3.9 Speicher
+# :extra: 3.10 Speicher
 ---
 
 Die bisherigen Schaltungen für den Einbruchsalarm haben einen grossen Nachteil: sobald der Bewegungsmelder keine Bewegung mehr entdeckt, wird der Alarm abgestellt.

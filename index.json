@@ -133,19 +133,19 @@
         },
         {
           "id": 416126,
-          "title": "Digitalo",
-          "page": "3-gates/A-digitalo/"
+          "title": "3.8 Digitalo",
+          "page": "3-gates/8-digitalo/"
         },
         {
           "id": 32295,
-          "title": "3.8 Addierer",
-          "page": "3-gates/8-adder/"
+          "title": "3.9 Addierer",
+          "page": "3-gates/9-adder/"
         },
         {
           "id": 395560,
-          "title": "3.9 Speicher",
+          "title": "3.10 Speicher",
           "icon": "extra",
-          "page": "3-gates/9-memory/"
+          "page": "3-gates/a-memory/"
         }
       ]
     },

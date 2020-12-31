@@ -1,4 +1,4 @@
-# Digitalo[^1]
+# 3.8 Digitalo[^1]
 ---
 
 Digitalo ist ein Kartenspiel, bei welchem zwei Spieler*innen versuchen, aus Gatter-Karten eine pyramidenförmige logische Schaltung aufzubauen.
