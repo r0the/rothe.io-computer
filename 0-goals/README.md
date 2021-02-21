@@ -1,31 +1,31 @@
 # :goal: Lernziele
 
 ::: goal Lernziele Begriffe
-- Sie kennen die Definition von «Computer».
-- Sie verstehen das EVAS-Prinzip.
-- Sie können Ein- und Ausgabegeräte identifizieren.
-- Sie wissen, was ein Prozessor ist.
-- Sie können die Speicherhierarchie erklären.
+- Du verstehst das EVAS-Prinzip.
+- Du kannst Ein- und Ausgabegeräte identifizieren.
+- Du kennst die Komponenten eines Computers (Prozessor, Hauptspeicher, Bussystem, Festplatte, Ein- und Ausgabegeräte).
+- Du kennst die wichtigsten Kennzahlen (Einheit und aktuelle Werte) der verschiedenen Komponenten.
+- Du kannst die Speicherhierarchie erklären.
 :::
 
 ::: goal Lernziele Digitale Logik
-- Sie können einfache Schaltungen entwerfen und verstehen.
-- Sie kennen den Inverter sowie die vier Gatter AND, OR, NAND und XOR (Symbol, Funktionsweise und Wahrheitstabelle).
-- Sie erklären die Bedeutung der Rückkopplung in Schaltungen.
-- Sie verstehen den Aufbau einer Schaltung zur Addition von Zahlen (Volladdierer).
-- Sie erklären die grundlegende Bedeutung des NAND-Gatters.
+- Du kannst einfache Schaltungen entwerfen und verstehen.
+- Du kennst den Inverter sowie die vier Gatter AND, OR, NAND und XOR (Symbol, Funktionsweise und Wahrheitstabelle).
+- Du verstehst den Aufbau einer Schaltung zur Addition von Zahlen (Volladdierer).
+- Du erklärst die Bedeutung der Rückkopplung in Schaltungen.
+- Du verstehst die grundlegende Bedeutung des NAND-Gatters.
 :::
 
 ::: goal Lernziele Rechnermodell
-- Sie kennen die Komponenten der Von Neumann-Architektur (Steuerwerk, Rechenwerk, Speicherwerk, Bussystem, Ein- und Ausgabe).
-- Sie können die Funktionsweise und Vorteile eines Datenbusses erklären.
-- Sie kennen den Von Neumann-Zyklus und können dessen Ablauf erklären.
-- Sie kennen Beispiele für Maschinenbefehle (z.B. Wert in Akkumulator laden, Werte addieren, Wert ausgeben, ...)
+- Du kennst die Komponenten der Von Neumann-Architektur (Steuerwerk, Rechenwerk, Speicherwerk, Bussystem, Ein- und Ausgabe).
+- Du kannst die Funktionsweise und Vorteile eines Datenbusses erklären.
+- Du kennst den Von Neumann-Zyklus und kannst dessen Ablauf erklären.
+- Du kennst Beispiele für Maschinenbefehle (z.B. Wert in Akkumulator laden, Werte addieren, Wert ausgeben, ...)
 :::
 
 ::: goal Lernziele Betriebssysteme
-- Sie kennen verschiedene Betriebssysteme (Windows, macOS, Linux, Android, iOS) und wissen, in welchen Geräten diese eingesetzt werden.
-- Sie kennen die Aufgaben von Betriebssystemen (Interaktion mit Benutzer, Verwalten von Ressourcen, Starten und Unterbrechen von Programmen).
+- Du kennst verschiedene Betriebssysteme (Windows, macOS, Linux, Android, iOS) und weisst, in welchen Geräten diese eingesetzt werden.
+- Du kennst die Aufgaben von Betriebssystemen (Interaktion mit Benutzer, Verwalten von Ressourcen, Starten und Unterbrechen von Programmen).
 :::
 
 ## Grundlagen
